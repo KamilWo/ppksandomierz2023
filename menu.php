@@ -8,7 +8,7 @@
         </span>
         <span class="d-none d-lg-block">
             <a href="index.php#about">
-                <img class="img-fluid img-profile rounded-circle mx-auto mb-2"
+                <img id="swiatynia" class="img-fluid img-profile rounded-circle mx-auto mb-2"
                      src="static/src/images/swiatynia.jpg"
                      alt="Świątynia Parafii Podwyższenia Krzyża Świętego" />
             </a>

@@ -22,7 +22,7 @@ include 'facebook.php';
             <section class="website-section" id="about">
                 <div class="website-section-content">
                     <h1 class="mb-0">
-                        Oficjalna Strona Parafii
+                        Oficjalna Strona Parafii Rzymsko-katolickiej pw.
                         <span class="text-primary">Podwyższenia Krzyża Świętego w&nbsp;Sandomierzu</span>
                     </h1>
                     <div class="subheading">
