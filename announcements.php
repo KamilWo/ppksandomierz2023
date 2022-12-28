@@ -95,7 +95,7 @@
     </div>
     <div class="col">
         <p>
-            <a href="static/download/Informacja_o_zbiórce_w_Kościele_-_Pomoc_dla_Ukrainy.pdf">
+            <a href="static/download/Informacja_o_zbiorce_w_Kosciele_-_Pomoc_dla_Ukrainy.pdf">
                 Tekst do pobrania
             </a>
         </p>
