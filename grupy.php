@@ -66,9 +66,7 @@
         KCPR
     </div>
     <div class="col">
-        <p>
-            <a href="http://www.pomocrodzinie.eu/">Strona WWW Katolickiego Centrum Pomocy Rodzinie</a>
-        </p>
+        <p></p>
     </div>
 </div>
 <br>
