@@ -1,5 +1,17 @@
 <div class="card">
     <div class="card-header">
+        <h3>Ważny komunikat</h3>
+    </div>
+    <div class="col">
+        <h3><span style="color: red;">31&nbsp;grudnia Msza Święta
+        na&nbsp;zakończenie starego roku o&nbsp;godz.&nbsp;17.00
+        (NIE MA&nbsp;MSZY ŚWIĘTEJ O&nbsp;GODZ.&nbsp;18.00)</span></h3>
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
         <h3>APEL PRZEWODNICZĄCEGO KONFERENCJI EPISKOPATU POLSKI
         W&nbsp;ZWIĄZKU Z&nbsp;INWAZJĄ ROSYJSKĄ NA&nbsp;UKRAINĘ</h3>
     </div>

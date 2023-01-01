@@ -1,4 +1,5 @@
 <?php
+define('SITE_ROOT', '../');
 include_once(SITE_ROOT.'/include/start.php');
 ?>
 <!DOCTYPE html>
