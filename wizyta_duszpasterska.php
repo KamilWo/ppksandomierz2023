@@ -5,30 +5,30 @@
         <h3>Prządek Wizyty Duszpasterskiej</h3>
     </div>
     <div class="col">
-        <p style="font-weight: bold; text-decoration: underline;">28&nbsp;grudnia (środa) od&nbsp;godz.&nbsp;9.00</p>
-        <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Sadownicza, Warzywna, Chwałki po&nbsp;stronie ul.&nbsp;Rolniczej, Sucharzów</p>
-        <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Suharzowska, Klonowa, Chwałki wzdłuż obwodnicy</p>
-        <p><strong>III&nbsp;KSIĄDZ</strong>: Chwałki za&nbsp;Kauflandem do&nbsp;ulicy Chwałeckiej</p><br>
+        <p style="font-weight: bold; text-decoration: underline;">2&nbsp;STYCZNIA (PONIEDZIAŁEK) od&nbsp;godz.&nbsp;15.30</p>
+        <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Asnyka, Gałczyńskiego, Młodożeńca, Modrzewskiego</p>
+        <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Czachowskiego 3, 5, 7, 9</p>
+        <p><strong>III&nbsp;KSIĄDZ</strong>: ul.&nbsp;Czachowskiego 11, 12, 13, 14, 17, 19</p><br>
 
-        <p style="font-weight: bold; text-decoration: underline;">29&nbsp;grudnia (czwartek) od&nbsp;godz.&nbsp;9.00</p>
-        <p><strong>I&nbsp;KSIĄDZ</strong>: Milczany po&nbsp;szosie</p>
-        <p><strong>II&nbsp;KSIĄDZ</strong>: Milczany wieś</p>
-        <p><strong>III&nbsp;KSIĄDZ</strong>: Milczany od&nbsp;końca</p><br>
+        <p style="font-weight: bold; text-decoration: underline;">3&nbsp;STYCZNIA (WTOREK) od&nbsp;godz.&nbsp;15.30</p>
+        <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Reja</p>
+        <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Żółkiewskiego&nbsp;8, Mickiewicza 43, 45</p>
+        <p><strong>III&nbsp;KSIĄDZ</strong>: ul.&nbsp;Mickiewicza 47, 49, 51</p><br>
 
-        <p><strong>Od&nbsp;godz.&nbsp;14.30</strong></p>
-        <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Frankowskiego, Wiejska, Grodzisko</p>
-        <p><strong>II KSIĄDZ</strong>: ul.&nbsp;Polna, Polskiej Organizacji Wojskowej</p>
-        <p><strong>III KSIĄDZ</strong>: ul.&nbsp;Różana, Wąska, Westerplatte</p><br>
+        <p style="font-weight: bold; text-decoration: underline;">4&nbsp;STYCZNIA (ŚRODA) od&nbsp;godz.&nbsp;15.30</p>
+        <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Reymonta</p>
+        <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Mickiewicza 53</p>
+        <p><strong>III&nbsp;KSIĄDZ</strong>: ul.&nbsp;Mickiewicza 55, 57, 59</p><br>
 
-        <p style="font-weight: bold; text-decoration: underline;">30&nbsp;grudnia (piątek) od&nbsp;godz.&nbsp;9.00</p>
-        <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Dąbrowskiego, Skłodowskiej</p>
-        <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Ożarowska, Morelowa, Wiśniowa</p>
-        <p><strong>III&nbsp;KSIĄDZ</strong>: ul.&nbsp;15&nbsp;Sierpnia, Harcerska, Batalionów Chłopskich</p><br>
+        <p style="font-weight: bold; text-decoration: underline;">5&nbsp;STYCZNIA (CZWARTEK) od&nbsp;godz.&nbsp;15.30</p>
+        <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Kochanowskiego</p>
+        <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego 2</p><br>
 
-        <p style="font-weight: bold; text-decoration: underline;">31&nbsp;grudnia (sobota) od&nbsp;godz.&nbsp;9.00</p>
-        <p><strong>I&nbsp;KSIĄDZ</strong>: Kobierniki Górne od&nbsp;ul.&nbsp;Mickiewicza</p>
-        <p><strong>II&nbsp;KSIĄDZ</strong>: Kobierniki Górne od&nbsp;ul.&nbsp;Polnej</p>
-        <p><strong>III&nbsp;KSIĄDZ</strong>: Kobierniki po&nbsp;szosie i&nbsp;Kobierniki wieś</p>
+        <p style="font-weight: bold; text-decoration: underline;">7&nbsp;STYCZNIA (SOBOTA) od&nbsp;godz.&nbsp;9.00</p>
+        <p><strong>Dwóch Księży</strong>: ul.&nbsp;Kwiatkowskiego</p>
     </div>
 </div>
+<br>
+
+<h4 class="mt-2">Poprzednie wpisy przeniesiono do <a href="archiwum.php">archiwum</a>.</h4>
 <br>

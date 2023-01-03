@@ -1,14 +1,13 @@
-<h2 class="first-content-header"><i class="fa fa-church"></i> Informacje o parafii</h2>
+<h2 class="first-content-header"><i class="fa fa-church"></i> Informacje o&nbsp;Parafii</h2>
 
 <div class="card">
     <div class="card-header">
         Księża
     </div>
     <ol class="list-group">
-        <li class="list-group-item">Ks. proboszcz kanonik mgr Stanisław Chmielewski (od 2020 roku)</li>
-        <li class="list-group-item">Ks. mgr Piotr Cieśla (od 2020 roku)</li>
-        <li class="list-group-item">Ks. mgr Krzysztof Rębisz (od 2019 roku)</li>
-        <!--<li class="list-group-item">Ks. mgr Sebastian Mroczkowski (od 2018 roku)</li>-->
+        <li class="list-group-item">Ks.&nbsp;proboszcz kanonik mgr Stanisław Chmielewski (od&nbsp;2020 roku)</li>
+        <li class="list-group-item">Ks.&nbsp;mgr Krzysztof Rębisz (od&nbsp;2019&nbsp;roku)</li>
+        <li class="list-group-item">Ks.&nbsp;Krystian Kałuża (od&nbsp;2022&nbsp;roku)</li>
     </ol>
 </div>
 <hr/>

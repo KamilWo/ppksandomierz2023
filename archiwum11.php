@@ -19,7 +19,285 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2022 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 25.&nbsp;grudnia 2022&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 31.&nbsp;grudnia 2022&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>Prządek Wizyty Duszpasterskiej</h3>
+                            </div>
+                            <div class="col">
+                                <p style="font-weight: bold; text-decoration: underline;">28&nbsp;grudnia (środa) od&nbsp;godz.&nbsp;9.00</p>
+                                <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Sadownicza, Warzywna, Chwałki po&nbsp;stronie ul.&nbsp;Rolniczej, Sucharzów</p>
+                                <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Suharzowska, Klonowa, Chwałki wzdłuż obwodnicy</p>
+                                <p><strong>III&nbsp;KSIĄDZ</strong>: Chwałki za&nbsp;Kauflandem do&nbsp;ulicy Chwałeckiej</p><br>
+
+                                <p style="font-weight: bold; text-decoration: underline;">29&nbsp;grudnia (czwartek) od&nbsp;godz.&nbsp;9.00</p>
+                                <p><strong>I&nbsp;KSIĄDZ</strong>: Milczany po&nbsp;szosie</p>
+                                <p><strong>II&nbsp;KSIĄDZ</strong>: Milczany wieś</p>
+                                <p><strong>III&nbsp;KSIĄDZ</strong>: Milczany od&nbsp;końca</p><br>
+
+                                <p><strong>Od&nbsp;godz.&nbsp;14.30</strong></p>
+                                <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Frankowskiego, Wiejska, Grodzisko</p>
+                                <p><strong>II KSIĄDZ</strong>: ul.&nbsp;Polna, Polskiej Organizacji Wojskowej</p>
+                                <p><strong>III KSIĄDZ</strong>: ul.&nbsp;Różana, Wąska, Westerplatte</p><br>
+
+                                <p style="font-weight: bold; text-decoration: underline;">30&nbsp;grudnia (piątek) od&nbsp;godz.&nbsp;9.00</p>
+                                <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Dąbrowskiego, Skłodowskiej</p>
+                                <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Ożarowska, Morelowa, Wiśniowa</p>
+                                <p><strong>III&nbsp;KSIĄDZ</strong>: ul.&nbsp;15&nbsp;Sierpnia, Harcerska, Batalionów Chłopskich</p><br>
+
+                                <p style="font-weight: bold; text-decoration: underline;">31&nbsp;grudnia (sobota) od&nbsp;godz.&nbsp;9.00</p>
+                                <p><strong>I&nbsp;KSIĄDZ</strong>: Kobierniki Górne od&nbsp;ul.&nbsp;Mickiewicza</p>
+                                <p><strong>II&nbsp;KSIĄDZ</strong>: Kobierniki Górne od&nbsp;ul.&nbsp;Polnej</p>
+                                <p><strong>III&nbsp;KSIĄDZ</strong>: Kobierniki po&nbsp;szosie i&nbsp;Kobierniki wieś</p>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    26.12.2022 – 01.01.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                                <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                                    <tbody>
+                                        <tr class="actualnosci_day">
+                                            <td colspan="2" class="center"><b>26&nbsp;grudnia, Poniedziałek</b></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">7.30</td>
+                                            <td>+ Stefanię, Franciszka Kowalskich, Marię Woś,
+                                            Wiesławę Wałcerz, Celinę, Jana, Jarosława Gucałów</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">9.30</td>
+                                            <td>+ Józefa Krasudę (+7)</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">9.30</td>
+                                            <td>Dzięk.-błag. z&nbsp;racji 40&nbsp;r.&nbsp;ślubu Grażyny
+                                            i&nbsp;Stanisława Matejów z&nbsp;prośbą o&nbsp;BB, potrzebne
+                                            łaski, opiekę MB</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">11.15</td>
+                                            <td>+ Marię Włoch, Wincentego Kołodzieja, Juliannę, Walentego
+                                            Bulirów, Jerzego, Zdzisławę, Michała, Ewę, Marię, Józefa Włochów,
+                                            Stanisławę, Stanisława Wosiów</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">12.30</td>
+                                            <td>+ Romana, Mariannę, Józefa, Marcina, Antoninę Ozdobów</td>
+                                        </tr>
+                                        <tr class="actualnosci_day">
+                                            <td colspan="2" class="center"><b>27&nbsp;grudnia, Wtorek</b></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">6.30</td>
+                                            <td>+ Mariannę Kołodziej</td>
+                                        </tr>
+                                        <tr>
+                                            <td>&nbsp;</td>
+                                            <td></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">18.00</td>
+                                            <td>+ Teresę Piorun</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">18.00</td>
+                                            <td>+ Filipa Walickiego</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">18.00</td>
+                                            <td>+ Marię Chmielewską</td>
+                                        </tr>
+                                        <tr class="actualnosci_day">
+                                            <td colspan="2" class="center"><b>28&nbsp;grudnia, Środa</b></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">6.30</td>
+                                            <td>+ Zygmunta, Reginę, Rafała Stolów, Anielę,
+                                            Wincentego Bilskich</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">6.30</td>
+                                            <td>+ Stanisława Branię</td>
+                                        </tr>
+                                        <tr>
+                                            <td>&nbsp;</td>
+                                            <td></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">18.00</td>
+                                            <td>+ Zofię, Mariana Krawczyków, zm.&nbsp;z&nbsp;rodz.
+                                            Mądrych, Krawczyków</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">18.00</td>
+                                            <td>+ Marię Chmielewską</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">18.00</td>
+                                            <td>+ Marię Bieniek</td>
+                                        </tr>
+                                        <tr class="actualnosci_day">
+                                            <td colspan="2" class="center"><b>29&nbsp;grudnia, Czwartek</b></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">6.30</td>
+                                            <td>+ Barbarę Woś</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">6.30</td>
+                                            <td>+ Stanisława Nawarę</td>
+                                        </tr>
+                                        <tr>
+                                            <td>&nbsp;</td>
+                                            <td></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">18.00</td>
+                                            <td>O&nbsp;BB, potrzebne łaski, opiekę MB dla Stanisławy
+                                            i&nbsp;Tadeusza Burków z&nbsp;racji 63&nbsp;r.&nbsp;ślubu</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">18.00</td>
+                                            <td>+ Filipa Walickiego</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">18.00</td>
+                                            <td>+ Władysława w&nbsp;r.&nbsp;śm., Mariannę, Jana
+                                            Lipców, Jana Wnuka, Annę Tomaszewską</td>
+                                        </tr>
+                                        <tr class="actualnosci_day">
+                                            <td colspan="2" class="center"><b>30&nbsp;grudnia, Piątek</b></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">6.30</td>
+                                            <td>+ Wacława, Stanisława, Karolinę, Stanisława Kmiecików</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">6.30</td>
+                                            <td>+ Henryka Warzochę</td>
+                                        </tr>
+                                        <tr>
+                                            <td>&nbsp;</td>
+                                            <td></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">18.00</td>
+                                            <td>+ Tadeusza Świątańskiego w&nbsp;r.&nbsp;śm., Jana
+                                            Kulczyckiego w&nbsp;r.&nbsp;śm., Stanisławę Górnik
+                                            w&nbsp;r.&nbsp;śm.</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">18.00</td>
+                                            <td>+ Edmunda (+8), Zofię, Jana Rosieckich</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">18.00</td>
+                                            <td>+ Teresę Piorun</td>
+                                        </tr>
+                                        <tr class="actualnosci_day">
+                                            <td colspan="2" class="center"><b>31&nbsp;grudnia, Sobota</b></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">6.30</td>
+                                            <td>+ Stanisława Nawarę</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">6.30</td>
+                                            <td>+ Sławomira Rynkowskiego</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">6.30</td>
+                                            <td>+ Anielę (+1), Antoniego (+2) Kargulów</td>
+                                        </tr>
+                                        <tr>
+                                            <td>&nbsp;</td>
+                                            <td></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">18.00</td>
+                                            <td>+ Stanisława Branię</td>
+                                        </tr>
+                                        <tr class="actualnosci_day">
+                                            <td colspan="2" class="center"><b>1&nbsp;stycznia, Niedziela –
+                                            UROCZYSTOŚĆ BOŻEJ RODZICIELKI</b></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">7.30</td>
+                                            <td>+ Mieczysława, Barbarę Bryłów, Piotra, Wiesławę Pazdro</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">9.30</td>
+                                            <td>W&nbsp;intencji parafian</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">11.15</td>
+                                            <td>K.Ż.R. – od&nbsp;zelatorki Ewy Łukawskiej</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">12.30</td>
+                                            <td>+ Stefan, Zofia Smolińscy, Jan, Aniela Majewscy</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="center">18.00</td>
+                                            <td>+ Stanisława, Kazimierę Rykowskich, Adama, Stefanię Osuchów</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>26.&nbsp;grudnia 2022&nbsp;r.</h3>
+                                <h3>Święto św. Szczepana, Rok A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Słowa wdzięczności kierujemy do&nbsp;parafian, którzy prosili
+                                o&nbsp;anonimowość, którzy przygotowali Bożonarodzeniową szopkę
+                                w&nbsp;naszym parafialnym kościele. Dziękujemy za&nbsp;wykonanie
+                                dekoracji Bożonarodzeniowej przy ołtarzu. <em>Bóg zapłać</em>
+                                wszystkim, którzy w&nbsp;jakikolwiek sposób angażują się
+                                w&nbsp;parafialne duszpasterstwo.</p>
+                                <p>2. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.00 Msza&nbsp;św.
+                                na&nbsp;zakończenie roku z&nbsp;uroczystym „Te Deum”
+                                i&nbsp;błogosławieństwem Najświętszym Sakramentem.</p>
+                                <p>3. W&nbsp;najbliższą niedzielę 1&nbsp;stycznia - Uroczystość
+                                Świętej Bożej Rodzicielki – Nowy Rok. Światowy Dzień Pokoju.</p>
+                                <p>4. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+                                Mszą&nbsp;św. o&nbsp;godz.&nbsp;11.15 – adoracja Najśw. Sakramentu
+                                połączona z&nbsp;modlitwą różańcową, którą poprowadzi Koło Żywego
+                                Różańca z&nbsp;naszej parafii i&nbsp;zmiana tajemnic różańcowych.
+                                Zapraszamy do&nbsp;udziału w&nbsp;tej modlitwie.</p>
+                                <p>5. Jutro, tj.&nbsp;we&nbsp;wtorek, Święto św.&nbsp;Jana Apostoła
+                                i&nbsp;Ewangelisty, i&nbsp;po&nbsp;Mszy&nbsp;św. wieczornej,
+                                błogosławieństwo wina.</p>
+                                <p>6. Sandomierski Chór Katedralny zaprasza na&nbsp;Noworoczny Koncert
+                                Kolęd, który odbędzie się w&nbsp;niedzielę 1&nbsp;stycznia 2023 r.
+                                o&nbsp;godz.&nbsp;16.00 w&nbsp;bazylice Katedralnej
+                                w&nbsp;Sandomierzu.</p>
+                                <p>7. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”, Gość
+                                Niedzielny”, dla dzieci „Mały Gość”.</p>
+                                <p>8. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+                                za&nbsp;życzenia Bożonarodzeniowe skierowane do&nbsp;księży
+                                od&nbsp;osób i&nbsp;instytucji, za&nbsp;wszelką pomoc, złożone ofiary
+                                na&nbsp;rzecz parafii. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św.
+                                życzymy błogosławionego dnia Święta św.&nbsp;Szczepana.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 26.&nbsp;grudnia 2022&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
+
                         <div class="card">
                             <div class="card-header">
                                 <h3>INTENCJE MSZY ŚWIĘTYCH<br>

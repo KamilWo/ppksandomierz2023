@@ -1,41 +1,49 @@
 <div class="card">
     <div class="card-header">
-        <h3>26.&nbsp;grudnia 2022&nbsp;r.</h3>
-        <h3>Święto św. Szczepana, Rok A</h3>
+        <h3>1.&nbsp;stycznia 2023&nbsp;r.</h3>
+        <h3>Uroczystość Świętej Bożej Rodzicielki – Nowy Rok, Rok&nbsp;A</h3>
     </div>
     <div class="col">
-        <p>1. Słowa wdzięczności kierujemy do&nbsp;parafian, którzy prosili
-        o&nbsp;anonimowość, którzy przygotowali Bożonarodzeniową szopkę
-        w&nbsp;naszym parafialnym kościele. Dziękujemy za&nbsp;wykonanie
-        dekoracji Bożonarodzeniowej przy ołtarzu. <em>Bóg zapłać</em>
-        wszystkim, którzy w&nbsp;jakikolwiek sposób angażują się
-        w&nbsp;parafialne duszpasterstwo.</p>
-        <p>2. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.00 Msza&nbsp;św.
-        na&nbsp;zakończenie roku z&nbsp;uroczystym „Te Deum”
-        i&nbsp;błogosławieństwem Najświętszym Sakramentem.</p>
-        <p>3. W&nbsp;najbliższą niedzielę 1&nbsp;stycznia - Uroczystość
-        Świętej Bożej Rodzicielki – Nowy Rok. Światowy Dzień Pokoju.</p>
-        <p>4. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
-        Mszą&nbsp;św. o&nbsp;godz.&nbsp;11.15 – adoracja Najśw. Sakramentu
-        połączona z&nbsp;modlitwą różańcową, którą poprowadzi Koło Żywego
-        Różańca z&nbsp;naszej parafii i&nbsp;zmiana tajemnic różańcowych.
-        Zapraszamy do&nbsp;udziału w&nbsp;tej modlitwie.</p>
-        <p>5. Jutro, tj.&nbsp;we&nbsp;wtorek, Święto św.&nbsp;Jana Apostoła
-        i&nbsp;Ewangelisty, i&nbsp;po&nbsp;Mszy&nbsp;św. wieczornej,
-        błogosławieństwo wina.</p>
-        <p>6. Sandomierski Chór Katedralny zaprasza na&nbsp;Noworoczny Koncert
-        Kolęd, który odbędzie się w&nbsp;niedzielę 1&nbsp;stycznia 2023 r.
-        o&nbsp;godz.&nbsp;16.00 w&nbsp;bazylice Katedralnej
-        w&nbsp;Sandomierzu.</p>
-        <p>7. Zachęcamy do&nbsp;czytania prasy katolickiej: „Niedziela”, Gość
-        Niedzielny”, dla dzieci „Mały Gość”.</p>
-        <p>8. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
-        za&nbsp;życzenia Bożonarodzeniowe skierowane do&nbsp;księży
-        od&nbsp;osób i&nbsp;instytucji, za&nbsp;wszelką pomoc, złożone ofiary
-        na&nbsp;rzecz parafii. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św.
-        życzymy błogosławionego dnia Święta św.&nbsp;Szczepana.</p>
+        <p>1. Dziękujemy wszystkim tym rodzinom z&nbsp;naszej parafii, które
+        w&nbsp;minionym tygodniu przyjęły nas kapłanów z&nbsp;wizyta
+        duszpasterską. Niech to&nbsp;błogosławieństwo Boże, które
+        pozostawiliśmy w&nbsp;Waszych domach, napełni Was i&nbsp;wasze rodziny
+        pokojem i&nbsp;radością, umocni wiarę i&nbsp;pomaga z&nbsp;ufnością
+        pokładaną Bogu przezwyciężać różne problemy codziennego życia.
+        Serdeczne: <em>Bóg zapłać</em>.</p>
+        <p>2. W&nbsp;najbliższy piątek – Uroczystość Objawienia Pańskiego –
+        w&nbsp;tradycji: Święto Trzech Króli – prządek Mszy&nbsp;św., jak
+        w&nbsp;niedzielę. Poświęcenie kredy i&nbsp;kadzidła
+        na&nbsp;Mszach&nbsp;św. Poświęconą kredą oznaczamy odrzwia naszych
+        domów i&nbsp;mieszkań <strong>C+M+B 2023</strong>.
+        O&nbsp;godz.&nbsp;12.00 w&nbsp;tym dniu wyruszy od&nbsp;naszego
+        kościoła orszak z&nbsp;jednym z&nbsp;„Trzech Króli”. Wspólnie udamy
+        się ze&nbsp;śpiewem kolęd do&nbsp;stajenki na&nbsp;rynku Starego
+        Miasta, aby złożyć pokłon Nowonarodzonemu Królowi Świata. Zakończenie
+        uroczystości o&nbsp;godz.&nbsp;13.30. Będzie gorąca herbata
+        i&nbsp;pączek. Zapraszamy wszystkich, dorosłych, młodzież
+        i&nbsp;dzieci!</p>
+        <p>3. <strong>Prządek Wizyty Duszpasterskiej</strong> – zakładka
+        na&nbsp;stronie.</p>
+        <p>4. W&nbsp;tym tygodniu Pierwszy czwartek, piątek miesiąca.
+        W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
+        od&nbsp;godz.&nbsp;17.30.</p>
+        <p>5. Koncert kolęd Chóru Katedralnego dziś o&nbsp;godz.&nbsp;16.00
+        w&nbsp;katedrze Sandomierskiej. Zapraszamy.</p>
+        <p>6. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15. – nabożeństwo
+        Różańcowe poprowadzi Legion Maryi z&nbsp;naszej parafii.</p>
+        <p>7. W&nbsp;przyszłą niedzielę – Święto Chrztu Pańskiego. Koniec
+        Okresu Bożego Narodzenia. Tradycyjnie bożonarodzeniową dekorację
+        zachowujemy w&nbsp;kościele do&nbsp;Święta Ofiarowania Pańskiego –
+        tradycyjnie – Matki Bożej Gromnicznej.</p>
+        <p>8. Wdzięczni jesteśmy za&nbsp;modlitwę, dobre słowo, składane
+        ofiary na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym
+        tygodniu obchodzą swoje imieniny, urodziny, inne rocznice, składamy
+        najlepsze życzenia z&nbsp;kapłańskim błogosławieństwem. Wszystkim
+        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli
+        i&nbsp;Szczęśliwego Nowego Roku.</p>
         <p>
-            <span style="float: left;">Sandomierz, 26.&nbsp;grudnia 2022&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 1.&nbsp;stycznia 2023&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
