@@ -36,10 +36,6 @@ include 'facebook.php';
                     <p class="lead mb-5">Kancelaria parafialna czynna:<br>
                         codziennie, <strong>od poniedziałku do piątku</strong>, po Mszy Świętej odprawianej o godzinie 18.00.</p>
 
-                            <h3><span style="color: red;">31&nbsp;grudnia Msza Święta
-                            na&nbsp;zakończenie starego roku o&nbsp;godz.&nbsp;17.00
-                            (NIE MA&nbsp;MSZY ŚWIĘTEJ O&nbsp;GODZ.&nbsp;18.00)</span></h3>
-
                     <h3>Strona internetowa Diecezji Sandomierskiej:</h3>
 
                     <p><a href="https://www.diecezjasandomierska.pl/">https://www.diecezjasandomierska.pl/</a></p>

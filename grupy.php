@@ -63,10 +63,10 @@
 
 <div class="card">
     <div class="card-header">
-        KCPR
+        KCPR w Sandomierzu
     </div>
     <div class="col">
-        <p></p>
+        <p><a href="https://pl-pl.facebook.com/KCPRSandomierz/">KCPR w Sandomierzu na Facebooku</a></p>
     </div>
 </div>
 <br>

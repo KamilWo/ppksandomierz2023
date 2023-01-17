@@ -1,26 +1,27 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            09.01.2022 – 15.01.2023&nbsp;r.
+            16.01.2022 – 22.01.2023&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>9&nbsp;stycznia, Poniedziałek</b></td>
+            <td colspan="2" class="center"><b>16&nbsp;stycznia, Poniedziałek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Irenę Teter</td>
+            <td>W&nbsp;intencji dzieci i&nbsp;chrześniaków,
+            o&nbsp;BB, potrzebne łaski, opiekę MB, dary Ducha Świętego</td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Ryszarda Grzegolca</td>
+            <td>+ Zdzisława Bernasia (+3)</td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Bożenę Kubala</td>
+            <td>+ Franciszka Muchę, Władysławę, Władysława Grudniów</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -31,21 +32,20 @@
             <td>+ Irenę Teter</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>10&nbsp;stycznia, Wtorek</b></td>
+            <td colspan="2" class="center"><b>17&nbsp;stycznia, Wtorek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>O&nbsp;nawrócenie męża Piotra
-            i&nbsp;ojca Tadeusza</td>
+            <td>Dziękczynna z&nbsp;prośbą o&nbsp;BB, potrzebne łaski,
+            opiekę MB i&nbsp;św.&nbsp;Józefa dla całej rodziny</td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>W&nbsp;int. osób uzależnionych i&nbsp;ich rodzin
-            o&nbsp;łaskę uzdrowienia i&nbsp;wyzwolenia</td>
+            <td>+ Dariusza Jastrzębia</td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Marię, Zofię, Tadeusza Pająków</td>
+            <td>+ Krystynę Wojciechowską</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -53,48 +53,92 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>Dzięk.-błag. z&nbsp;racji 10&nbsp;r.&nbsp;powstania
-            w&nbsp;naszej parafii Legionu Maryi z&nbsp;prośbą o&nbsp;dalsza</td>
+            <td>+ Henryka Warzochę</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>11&nbsp;stycznia, Środa</b></td>
+            <td colspan="2" class="center"><b>18&nbsp;stycznia, Środa</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Teodozję w&nbsp;r.&nbsp;śm., Zdzisława Dudków
+            <td>+ Kazimierza Jaworskiego</td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Mariannę Surowiec</td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Henryka Wieczorka</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Irenę Teter</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td colspan="2" class="center"><b>19&nbsp;stycznia, Czwartek</b></td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Henryka Wieczorka</td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Jana Skorupskiego</td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Janinę Adamiak</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Henryka Semprucha</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td colspan="2" class="center"><b>20&nbsp;stycznia, Piątek</b></td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Marię Włoch</td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Kazimierza Włocha</td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Szczepana</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Roberta Drozda</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td colspan="2" class="center"><b>21&nbsp;stycznia, Sobota</b></td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Zdzisława w&nbsp;r.&nbsp;śm., Teodozję Dudków
             i&nbsp;zm. z&nbsp;rodz. oraz dusze w&nbsp;c.c.</td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Macieja Wodza</td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Teresę, Józefa Janasów</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Bolesława Kamińskiego</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>12&nbsp;stycznia, Czwartek</b></td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
             <td>+ Kazimierza Jaworskiego</td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Wiesława, Jana, Kazimierz, Sylwestra, Kazimierę Wojnów</td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Helenę, Mieczysława Wilków i&nbsp;zm.
-            z&nbsp;rodz. Wilków Kolasińskich</td>
+            <td>+ Bożenę Kubalę</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -102,79 +146,35 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Janinę w&nbsp;r.&nbsp;śm.</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>13&nbsp;stycznia, Piątek</b></td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>O&nbsp;BB, potrzebne łaski, opiekę MB
-            dla Asi z&nbsp;racji urodzin</td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Dariusza Pietrasika</td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Dariusza Chmiela</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
+            <td>W&nbsp;intencji jedności wszystkich chrześcijan</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Marię, Władysława, Czesława Barańskich, Andrzeja Krawczyka</td>
+            <td>+ Danutę Serwicką</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>14&nbsp;stycznia, Sobota</b></td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+Dzięk.-błag., o&nbsp;Miłosierdzie Boże, wiarę,
-            nadzieję, miłość, łaskę pokory, nawrócenie
-            i&nbsp;uzdrowienie w&nbsp;rodzinie</td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Kazimierza Jaworskiego</td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Piotra Prusa</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Irenę Teter</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>15&nbsp;stycznia, Niedziela</b></td>
+            <td colspan="2" class="center"><b>22&nbsp;stycznia, Niedziela</b></td>
         </tr>
         <tr>
             <td class="center">7.30</td>
-            <td>+ Michała Dudę i&nbsp;zm. z&nbsp;rodziny Dudów</td>
+            <td>+ Ryszarda Grzegolca</td>
         </tr>
         <tr>
             <td class="center">9.30</td>
-            <td>+ Zenona Kędziorę (+5)</td>
+            <td>+ Bogusława Sarzyńskiego, Annę, Janusza, Stanisława
+            Rożmiejów, Zofię, Mikołaja, Eugeniusza Kapustów</td>
         </tr>
         <tr>
             <td class="center">11.15</td>
-            <td>W&nbsp;intencji parafian</td>
+            <td>+ Henryka Semprucha</td>
         </tr>
         <tr>
             <td class="center">12.30</td>
-            <td>W&nbsp;intencji Domowego Kościoła</td>
+            <td>W&nbsp;intencji parafii</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Sławomira Rykowskiego</td>
+            <td>+ Mariana Bieleckiego (+50)</td>
         </tr>
     </tbody>
 </table>

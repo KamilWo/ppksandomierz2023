@@ -19,7 +19,264 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 8.&nbsp;stycznia 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 15.&nbsp;stycznia 2023&nbsp;r.</h2>
+
+                        <h2 class="first-content-header"><i class="fa fa-person-walking"></i> Wizyta duszpasterska</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>Prządek Wizyty Duszpasterskiej</h3>
+                            </div>
+                            <div class="col">
+                                <p style="font-weight: bold; text-decoration: underline;">9&nbsp;STYCZNIA (PONIEDZIAŁEK) od&nbsp;godz.&nbsp;15.30</p>
+                                <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego 4, 5</p>
+                                <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego 6, 7</p>
+                                <p><strong>III&nbsp;KSIĄDZ</strong>: ul.&nbsp;Orzeszkowej</p><br>
+
+                                <p style="font-weight: bold; text-decoration: underline;">10&nbsp;STYCZNIA (WTOREK) od&nbsp;godz.&nbsp;15.30</p>
+                                <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego 8, 9, 10</p>
+                                <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego 11, 13, 15</p>
+                                <p><strong>III&nbsp;KSIĄDZ</strong>: <strong>domy wolnostojące</strong>: ul.&nbsp;Czachowskiego,
+                                Maciejowskiego, Zielna, Mickiewicza</p><br>
+
+                                <p style="font-weight: bold; text-decoration: underline;">11&nbsp;STYCZNIA (ŚRODA) od&nbsp;godz.&nbsp;15.30</p>
+                                <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego 32, 36, 38, 40, 47</p>
+                                <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego 34, Cieśli 1, 9</p>
+                                <p><strong>III&nbsp;KSIĄDZ</strong>: ul.&nbsp;Cieśli 3, 7</p><br>
+
+                            </div>
+                        </div>
+                        <br>
+
+                        <h4 class="mt-2">Poprzednie wpisy przeniesiono do&nbsp;<a href="archiwum.php">archiwum</a>.</h4>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    09.01.2022 – 15.01.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>9&nbsp;stycznia, Poniedziałek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Irenę Teter</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Ryszarda Grzegolca</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Bożenę Kubala</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Irenę Teter</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>10&nbsp;stycznia, Wtorek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>O&nbsp;nawrócenie męża Piotra
+                                    i&nbsp;ojca Tadeusza</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>W&nbsp;int. osób uzależnionych i&nbsp;ich rodzin
+                                    o&nbsp;łaskę uzdrowienia i&nbsp;wyzwolenia</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Marię, Zofię, Tadeusza Pająków</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>Dzięk.-błag. z&nbsp;racji 10&nbsp;r.&nbsp;powstania
+                                    w&nbsp;naszej parafii Legionu Maryi z&nbsp;prośbą o&nbsp;dalsza</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>11&nbsp;stycznia, Środa</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Teodozję w&nbsp;r.&nbsp;śm., Zdzisława Dudków
+                                    i&nbsp;zm. z&nbsp;rodz. oraz dusze w&nbsp;c.c.</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Macieja Wodza</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Teresę, Józefa Janasów</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Bolesława Kamińskiego</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>12&nbsp;stycznia, Czwartek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Kazimierza Jaworskiego</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Wiesława, Jana, Kazimierz, Sylwestra, Kazimierę Wojnów</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Helenę, Mieczysława Wilków i&nbsp;zm.
+                                    z&nbsp;rodz. Wilków Kolasińskich</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Janinę w&nbsp;r.&nbsp;śm.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>13&nbsp;stycznia, Piątek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>O&nbsp;BB, potrzebne łaski, opiekę MB
+                                    dla Asi z&nbsp;racji urodzin</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Dariusza Pietrasika</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Dariusza Chmiela</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Marię, Władysława, Czesława Barańskich, Andrzeja Krawczyka</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>14&nbsp;stycznia, Sobota</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+Dzięk.-błag., o&nbsp;Miłosierdzie Boże, wiarę,
+                                    nadzieję, miłość, łaskę pokory, nawrócenie
+                                    i&nbsp;uzdrowienie w&nbsp;rodzinie</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Kazimierza Jaworskiego</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Prusa</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Irenę Teter</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>15&nbsp;stycznia, Niedziela</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>+ Michała Dudę i&nbsp;zm. z&nbsp;rodziny Dudów</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>+ Zenona Kędziorę (+5)</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>W&nbsp;intencji parafian</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>W&nbsp;intencji Domowego Kościoła</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Sławomira Rykowskiego</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>8.&nbsp;stycznia 2023&nbsp;r.</h3>
+                                <h3>Niedziela – Święto chrztu Pańskiego, Rok&nbsp;A</h3>
+                                <h3>Zakończenie okresu Narodzenia Pańskiego</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Dziękujemy tym parafianom, którzy wzięli udział w&nbsp;Orszaku
+                                Trzech Króli, za&nbsp;wspólne śpiewanie kolęd w &nbsp;czasie
+                                przemarszu. <em>Bóg zapłać</em> wszystkim.</p>
+                                <p>2. Zachęcamy do&nbsp;czytania prasy katolickiej. Jest
+                                do&nbsp;nabycia na&nbsp;stoliku pod chórem w&nbsp;kościele.</p>
+                                <p>3. W&nbsp;przyszłą niedzielę w&nbsp;naszym parafialnym kościele
+                                na&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;12.30 i&nbsp;chwilę
+                                po&nbsp;Niej wystąpi Chór Katedralny. Zapraszamy.</p>
+                                <p>4. Dziękujemy wszystkim tym rodzinom z&nbsp;naszej parafii, które
+                                w&nbsp;minionym tygodniu przyjęły nas kapłanów z&nbsp;wizyta
+                                duszpasterską. Dziękujemy za&nbsp;wspólna modlitwę
+                                i&nbsp;spotkanie.</p>
+                                <p>5. <strong>Prządek Wizyty Duszpasterskiej</strong> – zakładka
+                                na&nbsp;stronie.</p>
+                                <p>6. Kolędę kończymy w&nbsp;najbliższą środę. Jeśli ktoś
+                                z&nbsp;parafian chciałby przyjąć księdza w&nbsp;ramach wizyty
+                                duszpasterskiej, a&nbsp;dotychczas jakiś powodów nie doszło
+                                to&nbsp;do&nbsp;skutku, prosimy to&nbsp;zgłosić. W&nbsp;czwartek
+                                od&nbsp;godz.&nbsp;15.30 odwiedzimy.</p>
+                                <p>7. Od&nbsp;poniedziałku rozpoczyna się okres zwykły i&nbsp;trwa
+                                do&nbsp;wtorku, tj.&nbsp;21&nbsp;lutego, przed Środą Popielcową.</p>
+                                <p>8. Wdzięczni jesteśmy za&nbsp;modlitwę, dobre słowo, składane
+                                ofiary na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym
+                                tygodniu obchodzą swoje imieniny, urodziny, inne rocznice, składamy
+                                najlepsze życzenia z&nbsp;kapłańskim błogosławieństwem. Wszystkim
+                                uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+                                niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 8.&nbsp;stycznia 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
+
 
                         <h2 class="first-content-header"><i class="fa fa-person-walking"></i> Wizyta duszpasterska</h2>
 
@@ -305,6 +562,18 @@ include 'head.php';
                                     <span style="float: left;">Sandomierz, 1.&nbsp;stycznia 2023&nbsp;r.</span>
                                     <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
                                 </p>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>Ważny komunikat</h3>
+                            </div>
+                            <div class="col">
+                                <h3><span style="color: red;">31&nbsp;grudnia Msza Święta
+                                na&nbsp;zakończenie starego roku o&nbsp;godz.&nbsp;17.00
+                                (NIE MA&nbsp;MSZY ŚWIĘTEJ O&nbsp;GODZ.&nbsp;18.00)</span></h3>
                             </div>
                         </div>
                         <br>
