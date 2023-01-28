@@ -1,5 +1,16 @@
 <div class="card">
     <div class="card-header">
+        <h3>28.&nbsp;stycznia 2023&nbsp;r.</h3>
+        <h3>Wieczór Uwielbienia 28&nbsp;stycznia 2023&nbsp;r.</h3>
+    </div>
+    <div class="col">
+        <img src="static/download/Emmanuel_Bóg_z_nami.jpg" style="width: 100%;" />
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
         <h3>22.&nbsp;stycznia 2023&nbsp;r.</h3>
         <h3>III NIEDZIELA  Zwykła, Rok&nbsp;A</h3>
     </div>
