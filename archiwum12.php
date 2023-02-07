@@ -19,7 +19,223 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 22.&nbsp;stycznia 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 5.&nbsp;lutego 2023&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    23.01.2022 – 29.01.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>23&nbsp;stycznia, Poniedziałek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Kazimierza Jaworskiego</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Dariusza Pietrasika</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Prusia</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Barbarę</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>24&nbsp;stycznia, Wtorek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Andrzeja, Genowefę Tosiów, Mariannę Sendrowicz</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Kazimierza Włocha</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Marcina Gierachę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Irenę Teter</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>25&nbsp;stycznia, Środa</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Macieja Wodza</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Mariana Kapustę</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Marcina Gierachę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mariannę, Eugeniusza Jedlińskich</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>26&nbsp;stycznia, Czwartek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Szczepana w&nbsp;r.&nbsp;śm., Jadwigę
+                                    i&nbsp;zm. z&nbsp;rodz. Kasprzyckich oraz dusze w&nbsp;c.c.</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Józefę, Stanisława Patynów,
+                                    zm.&nbsp;z&nbsp;rodz. Patynów i&nbsp;Nasiłowskich</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>W&nbsp;intencji wynagradzającej Panu Bogu
+                                    za&nbsp;grzechy aborcji i&nbsp;eutanazji</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>27&nbsp;stycznia, Piątek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Kazimierza Jaworskiego</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Susa</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Wiesława Szalę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mieczysława, Helenę, Jana Wnuków, Katarzynę,
+                                    Stanisława Wyrzykowskich, Tadeusza Judę, Piotra Bogdańskiego</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>28&nbsp;stycznia, Sobota</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Emilię, Edwarda Paluchów</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Dariusza Jastrzębia</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Stanisława, Genowefę i&nbsp;zm. z&nbsp;rodz.</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Kazimierza Jaworskiego</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>29&nbsp;stycznia, Niedziela</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>Dzięk.-błag. z&nbsp;racji 50&nbsp;r.&nbsp;ślubu
+                                    Krystyny i&nbsp;Andrzeja, o&nbsp;BB, potrzebne
+                                    łaski, opiekę MB</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>+ Kazimierza (+20), Stefanię, Jana,
+                                    Stanisława, Jerzego Słodowników</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>+ Zofię, Władysława Gusciorów</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>+ Ryszarda Grzegolca</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>O&nbsp;BB, opiekę MB, potrzebne łaski
+                                    dla Krystiana z&nbsp;racji urodzin</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>28.&nbsp;stycznia 2023&nbsp;r.</h3>
+                                <h3>Wieczór Uwielbienia 28&nbsp;stycznia 2023&nbsp;r.</h3>
+                            </div>
+                            <div class="col">
+                                <img src="static/download/Emmanuel_Bóg_z_nami.jpg" style="width: 100%;" />
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>22.&nbsp;stycznia 2023&nbsp;r.</h3>
+                                <h3>III NIEDZIELA Zwykła, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. 28&nbsp;stycznia w&nbsp;najbliższą sobotę w&nbsp;naszej parafii
+                                o&nbsp;godz.&nbsp;18.00 rozpocznie się Mszą Świętą wieczór
+                                uwielbienia, zaś po&nbsp;niej adoracja Najświętszego Sakramentu.</p>
+                                <p>2. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej,
+                                która znajduje się na&nbsp;stoliku pod chórem.</p>
+                                <p>3. Wdzięczni jesteśmy za&nbsp;modlitwę, dobre słowo, składane
+                                ofiary na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym
+                                tygodniu obchodzą swoje imieniny, urodziny, inne rocznice, składamy
+                                najlepsze życzenia z&nbsp;kapłańskim błogosławieństwem. Wszystkim
+                                uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+                                niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 22.&nbsp;stycznia 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
