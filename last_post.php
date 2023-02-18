@@ -1,42 +1,66 @@
 <div class="card">
     <div class="card-header">
-        <h3>12.&nbsp;lutego 2023&nbsp;r.</h3>
-        <h3>VI NIEDZIELA Zwykła, Rok&nbsp;A</h3>
+        <h3>19.&nbsp;lutego 2023&nbsp;r.</h3>
+        <h3>VII NIEDZIELA Zwykła, Rok&nbsp;A</h3>
     </div>
     <div class="col">
-        <p>1. Dziś po&nbsp;Mszach św.&nbsp;zamiast zbiórki do&nbsp;puszek
-        na&nbsp;Fundusz pomocy chorym kapłanom diecezji sandomierskiej,
-        zebrane pieniądze przekażemy na&nbsp;pomoc ofiarom trzęsienia ziemi
-        w&nbsp;Syrii i&nbsp;Turcji. W&nbsp;przyszłym terminie zorganizujemy
-        zbiórkę dla chorych księży.</p>
-        <p>2. W&nbsp;najbliższy piątek, jak w&nbsp;każdy trzeci piątek
-        miesiąca, zapraszamy na&nbsp;kolejne spotkanie ABS czyli Akademii
-        Biblijnej w&nbsp;Sandomierzu. Tematem tego spotkania będzie księga
-        Wyjścia (plagi egipskie i&nbsp;wyjście Żydów z&nbsp;Egiptu);
-        poprowadzi je&nbsp;wykładowca Pisma świętego, ks.&nbsp;Paweł Lasek.
-        Spotkanie będzie w&nbsp;piątek, 17&nbsp;lutego
-        o&nbsp;godz.&nbsp;18.45, w&nbsp;nowym miejscu, mianowicie w&nbsp;auli
-        Wyższego Seminarium Duchownego, wejście przez furtę seminarium.
-        Serdecznie zapraszamy!</p>
-        <p>3. Polecamy prasę katolicką i&nbsp;zachęcamy do&nbsp;jej
-        lektury.</p>
-        <p>4. Wszystkich, którzy chcieliby zrozumieć więcej na&nbsp;temat
-        naszej wiary lub potrzebują duchowego wsparcia i&nbsp;wspólnoty
-        życzliwych osób, zapraszamy na&nbsp;KATECHEZY od&nbsp;13&nbsp;lutego
-        w&nbsp;poniedziałki i&nbsp;piątki o&nbsp;19.15 w&nbsp;Sali przy
-        parafii św.&nbsp;Józefa w&nbsp;Sandomierzu
-        (pl.&nbsp;Św.&nbsp;Wojciecha&nbsp;2). Zaprasza Wspólnota
-        Neokatechumenatu.</p>
-        <p>5. We&nbsp;wtorek w&nbsp;kościele; Dzień modlitw za&nbsp;narody
-        słowiańskie – wspomnienie św.&nbsp;Cyrla i&nbsp;Metodego, Patronów
-        Europy. Potrzeba modlitwy o&nbsp;pokój w&nbsp;naszej części
-        Europy.</p>
-        <p>6. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
-        za&nbsp;wszelką pomoc, złożone ofiary na&nbsp;rzecz parafii –
-        <em>Bóg zapłać</em>. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św.
-        życzymy błogosławionej niedzieli.</p>
+        <p>1. W&nbsp;dniach od&nbsp;19 do&nbsp;25 lutego&nbsp;br.
+        w&nbsp;Kościele w&nbsp;Polsce przeżywamy Tydzień modlitw
+        o&nbsp;trzeźwość Polaków. Tam, gdzie brakuje trzeźwości, tam
+        pojawiają się w&nbsp;nadmiarze problemy, mnożą się dramaty całych
+        rodzin, wspólnot, ale także&nbsp;i&nbsp;całych środowisk. Trzeźwość jest
+        tamą, która chroni życie indywidualne, rodzinne, ale także społeczne
+        przed wielką powodzią cierpienia. Módlmy się i&nbsp;troszczmy
+        o&nbsp;trzeźwość.</p>
+        <p>2. W&nbsp;tym tygodniu rozpoczynamy czas Wielkiego Postu,
+        najbliższa środa to&nbsp;Środa Popielcowa. Msze&nbsp;św.
+        z&nbsp;posypaniem głów popiołem o&nbsp;godz.&nbsp;6.30, 9.00
+        i&nbsp;18.00. Przypominamy, że w&nbsp;tym dniu obowiązuje post ścisły
+        ilościowy i&nbsp;jakościowy. Katolicy powinni w&nbsp;tych dniach
+        powstrzymać się od&nbsp;przyjmowania mięsa i&nbsp;posiłków mięsnych.
+        <strong>Taca ze&nbsp;Środy Popielcowej przeznaczona jest
+        na&nbsp;Caritas.</strong></p>
+        <p>3. W&nbsp;zeszłą niedzielę do&nbsp;puszek na&nbsp;pomoc ofiarom
+        trzęsienia ziemi w&nbsp;Turcji i&nbsp;Syrii, zostało zebrane
+        4988&nbsp;zł, pieniądze zostały przekazane na&nbsp;powyższy cel.</p>
+        <p>4. Kurs Przedmałżeński w&nbsp;dekanacie sandomierskim rozpoczyna
+        się w&nbsp;parafii Chrystusa Króla Jedynego Zbawiciela Świata
+        u&nbsp;OO.&nbsp;Pallotynów w&nbsp;Sandomierzu,
+        w&nbsp;I&nbsp;niedzielę Wielkiego Postu o&nbsp;godz.&nbsp;15.00,
+        spotkanie na&nbsp;plebanii.</p>
+        <p>5. Porządek Dróg Krzyżowych Stacyjnych w&nbsp;Sandomierzu
+        wywieszony w&nbsp;gablocie Parafialnej.</p>
+        <p>6. Legion Maryi zaprasza 20&nbsp;lutego&nbsp;br.
+        w&nbsp;poniedziałek o&nbsp;godz.&nbsp;16.15 na&nbsp;Modlitwę
+        Różańcową w&nbsp;ramach modlitwy Nowenny Pompejańskiej
+        w&nbsp;intencji „O&nbsp;pokój w&nbsp;naszych sercach, rodzinach,
+        w&nbsp;Ojczyźnie naszej i&nbsp;na&nbsp;świecie.</p>
+        <p>7. Z&nbsp;niedzieli na&nbsp;poniedziałek, tj.&nbsp;12 na&nbsp;13
+        marca br. Dekanat sandomierski ma&nbsp;czuwanie modlitewne
+        na&nbsp;Jasnej Górze przed wizerunkiem Czarnej Madonny w&nbsp;intencji
+        powołań w&nbsp;Kościele Sandomierskim. Wyjazd autokarem
+        w&nbsp;niedzielę o&nbsp;godz.&nbsp;15.00 powrót nocą. Prosimy
+        o&nbsp;zgłoszenie się chętnych do&nbsp;wyjazdu. Zapisujemy
+        w&nbsp;zakrystii.</p>
+        <p>8. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+        o&nbsp;godz.&nbsp;17.15 - zapraszamy do&nbsp;udziału.</p>
+        <p>9. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego przyjęcia
+        Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej, siódmej
+        i&nbsp;ósmej z&nbsp;naszej parafii zapraszamy na&nbsp;spotkanie
+        w&nbsp;parafialnym kościele w&nbsp;najbliższy piątek
+        godz.&nbsp;17.15.</p>
+        <p>10. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
+        Żali” z&nbsp;nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
+        Święta.</p>
+        <p>11. Kolejny Wieczór Uwielbienia odbędzie się w&nbsp;naszym
+        kościele w&nbsp;najbliższą sobotę o&nbsp;godzinie 18.00. Serdecznie
+        zapraszamy.</p>
+        <p>12. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        Gazety na&nbsp;stoliku pod chórem.</p>
+        <p>13. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy
+        błogosławionej niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 5.&nbsp;lutego 2023&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 19.&nbsp;lutego 2023&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
