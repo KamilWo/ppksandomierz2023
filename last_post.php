@@ -1,5 +1,17 @@
 <div class="card">
     <div class="card-header">
+        <h3>25.&nbsp;lutego 2023&nbsp;r.</h3>
+        <h3>Wieczór Uwielbienia 25&nbsp;lutego 2023&nbsp;r.</h3>
+    </div>
+    <div class="col">
+        <img src="static/download/wieczor_uwielbienia_przebaczam_2023-02-25.jpg"
+             style="width: 100%;" />
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
         <h3>19.&nbsp;lutego 2023&nbsp;r.</h3>
         <h3>VII NIEDZIELA Zwykła, Rok&nbsp;A</h3>
     </div>
