@@ -19,7 +19,278 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 19.&nbsp;lutego 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 26.&nbsp;lutego 2023&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    20.02.2022 – 26.02.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>20&nbsp;lutego, Poniedziałek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Kazimierza Włocha</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Tadeusza Mazura i&nbsp;zm. z&nbsp;rodz. Mazurów,
+                                    Łukasiewiczów, Seweryna Rybę w&nbsp;r.&nbsp;śm.
+                                    i&nbsp;zm. z&nbsp;rodz. Rybów</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mariannę Kwiatkowską</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Bożenę Kubala, Macieja Wodza</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>21&nbsp;lutego, Wtorek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>O&nbsp;BB, potrzebne łaski, opiekę MB dla Witolda
+                                    z&nbsp;racji urodzin</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Józefę Bednarczyk</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Sławomira Rykowskiego</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Kazimierza Makowskiego (+2)</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>22&nbsp;lutego, Środa</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Tadeusza, Genowefę Szymańskich, Annę Moszczyńską
+                                    i&nbsp;zm. z&nbsp;rodz. Szymańskich, Łukaszków</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.00</td>
+                                    <td>+ Marcina Gierachę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>Dzięk.-błag., o&nbsp;Miłosierdzie Boże, wiarę,
+                                    nadzieję, miłość, łaskę pokory, nawrócenia
+                                    i&nbsp;uzdrowienia w&nbsp;rodzinie</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mariannę Surowiec</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>23&nbsp;lutego, Czwartek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Susa</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Wiesława Szala</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Jadwigę Bieńko</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Danutę Chodoła</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>24&nbsp;lutego, Piątek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Janinę, Józefa Tutaków</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Susa</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Danutę, Stefana Pytelewicz, Leokadię, Władysława
+                                    Siatraków</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Elżbietę Stefanek (+23)</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>25&nbsp;lutego, Sobota</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Kazimierza Włocha</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Susa</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Henryka Wieczorka</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Dariusza Pietrasika</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>26&nbsp;lutego, Niedziela</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>W&nbsp;int. parafian</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>+ Bogusława Sarzyńskiego, Annę, Janusza, Stanisława
+                                    Rożmiejów, Zofię, Mikołaja, Eugeniusza Kapustów</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>+ Zenona Mądrego, rodziców, dziadków, Teresę,
+                                    Eugeniusza Paciochów</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>+ Waldemara Zbocha i&nbsp;zm. z&nbsp;rodz. Zbochów,
+                                    Kwitków, Stępniów, Zawiszów, Pyszczków</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Kazimierza Jaworskiego</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>25.&nbsp;lutego 2023&nbsp;r.</h3>
+                                <h3>Wieczór Uwielbienia 25&nbsp;lutego 2023&nbsp;r.</h3>
+                            </div>
+                            <div class="col">
+                                <img src="static/download/wieczor_uwielbienia_przebaczam_2023-02-25.jpg"
+                                     style="width: 100%;" />
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>19.&nbsp;lutego 2023&nbsp;r.</h3>
+                                <h3>VII NIEDZIELA Zwykła, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. W&nbsp;dniach od&nbsp;19 do&nbsp;25 lutego&nbsp;br.
+                                w&nbsp;Kościele w&nbsp;Polsce przeżywamy Tydzień modlitw
+                                o&nbsp;trzeźwość Polaków. Tam, gdzie brakuje trzeźwości, tam
+                                pojawiają się w&nbsp;nadmiarze problemy, mnożą się dramaty całych
+                                rodzin, wspólnot, ale także&nbsp;i&nbsp;całych środowisk. Trzeźwość jest
+                                tamą, która chroni życie indywidualne, rodzinne, ale także społeczne
+                                przed wielką powodzią cierpienia. Módlmy się i&nbsp;troszczmy
+                                o&nbsp;trzeźwość.</p>
+                                <p>2. W&nbsp;tym tygodniu rozpoczynamy czas Wielkiego Postu,
+                                najbliższa środa to&nbsp;Środa Popielcowa. Msze&nbsp;św.
+                                z&nbsp;posypaniem głów popiołem o&nbsp;godz.&nbsp;6.30, 9.00
+                                i&nbsp;18.00. Przypominamy, że w&nbsp;tym dniu obowiązuje post ścisły
+                                ilościowy i&nbsp;jakościowy. Katolicy powinni w&nbsp;tych dniach
+                                powstrzymać się od&nbsp;przyjmowania mięsa i&nbsp;posiłków mięsnych.
+                                <strong>Taca ze&nbsp;Środy Popielcowej przeznaczona jest
+                                na&nbsp;Caritas.</strong></p>
+                                <p>3. W&nbsp;zeszłą niedzielę do&nbsp;puszek na&nbsp;pomoc ofiarom
+                                trzęsienia ziemi w&nbsp;Turcji i&nbsp;Syrii, zostało zebrane
+                                4988&nbsp;zł, pieniądze zostały przekazane na&nbsp;powyższy cel.</p>
+                                <p>4. Kurs Przedmałżeński w&nbsp;dekanacie sandomierskim rozpoczyna
+                                się w&nbsp;parafii Chrystusa Króla Jedynego Zbawiciela Świata
+                                u&nbsp;OO.&nbsp;Pallotynów w&nbsp;Sandomierzu,
+                                w&nbsp;I&nbsp;niedzielę Wielkiego Postu o&nbsp;godz.&nbsp;15.00,
+                                spotkanie na&nbsp;plebanii.</p>
+                                <p>5. Porządek Dróg Krzyżowych Stacyjnych w&nbsp;Sandomierzu
+                                wywieszony w&nbsp;gablocie Parafialnej.</p>
+                                <p>6. Legion Maryi zaprasza 20&nbsp;lutego&nbsp;br.
+                                w&nbsp;poniedziałek o&nbsp;godz.&nbsp;16.15 na&nbsp;Modlitwę
+                                Różańcową w&nbsp;ramach modlitwy Nowenny Pompejańskiej
+                                w&nbsp;intencji „O&nbsp;pokój w&nbsp;naszych sercach, rodzinach,
+                                w&nbsp;Ojczyźnie naszej i&nbsp;na&nbsp;świecie.</p>
+                                <p>7. Z&nbsp;niedzieli na&nbsp;poniedziałek, tj.&nbsp;12 na&nbsp;13
+                                marca br. Dekanat sandomierski ma&nbsp;czuwanie modlitewne
+                                na&nbsp;Jasnej Górze przed wizerunkiem Czarnej Madonny w&nbsp;intencji
+                                powołań w&nbsp;Kościele Sandomierskim. Wyjazd autokarem
+                                w&nbsp;niedzielę o&nbsp;godz.&nbsp;15.00 powrót nocą. Prosimy
+                                o&nbsp;zgłoszenie się chętnych do&nbsp;wyjazdu. Zapisujemy
+                                w&nbsp;zakrystii.</p>
+                                <p>8. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+                                o&nbsp;godz.&nbsp;17.15 - zapraszamy do&nbsp;udziału.</p>
+                                <p>9. W&nbsp;ramach przygotowania młodzieży do&nbsp;godnego przyjęcia
+                                Sakramentu Bierzmowania – młodzież z&nbsp;klasy szóstej, siódmej
+                                i&nbsp;ósmej z&nbsp;naszej parafii zapraszamy na&nbsp;spotkanie
+                                w&nbsp;parafialnym kościele w&nbsp;najbliższy piątek
+                                godz.&nbsp;17.15.</p>
+                                <p>10. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
+                                Żali” z&nbsp;nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
+                                Święta.</p>
+                                <p>11. Kolejny Wieczór Uwielbienia odbędzie się w&nbsp;naszym
+                                kościele w&nbsp;najbliższą sobotę o&nbsp;godzinie 18.00. Serdecznie
+                                zapraszamy.</p>
+                                <p>12. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+                                Gazety na&nbsp;stoliku pod chórem.</p>
+                                <p>13. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy
+                                błogosławionej niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 19.&nbsp;lutego 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
