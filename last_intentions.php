@@ -1,18 +1,37 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            27.02.2022 – 05.03.2023&nbsp;r.
+            06.03. – 12.03.2023&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>27&nbsp;lutego, Poniedziałek</b></td>
+            <td colspan="2" class="center"><b>6&nbsp;marca, Poniedziałek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Kazimierza Włocha</td>
+            <td>+ Piotra Susa</td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Wiesława Szala</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Mariana Kapustę</td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Zofię, Jana, Judę, Jadwigę, Jana Kondrata</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td colspan="2" class="center"><b>7&nbsp;marca, Wtorek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
@@ -24,23 +43,22 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Barbarę Marzec (+2)</td>
+            <td>+ Helenę, Józefa, Andrzeja Wąsików</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Dariusza Jastrzębia</td>
+            <td>+ Piotra Susa</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>28&nbsp;lutego, Wtorek</b></td>
+            <td colspan="2" class="center"><b>8&nbsp;marca, Środa</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Marię Woś (+25), Stefanię, Franciszka Kowalskich,
-            Wiesławę Wałcerz</td>
+            <td>O&nbsp;łaskę dobrej śmierci</td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Mariana Patynę, Józefę Palińską</td>
+            <td>+ Piotra Susa</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -48,43 +66,14 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Piotra Prusia</td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Dariusza Pietrasika</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>1&nbsp;marca, Środa</b></td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Macieja Wodza</td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Kazimierza Włocha</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Stanisławę, Jana, Stanisława, Witolda, Mariana,
-            Krystynę, Mariannę</td>
+            <td>+ Stanisława Kudelskiego</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
             <td>+ Henryka Wieczorka</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>2&nbsp;marca, Czwartek</b></td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Mariana w&nbsp;r.&nbsp;śm., Stanisławę,
-            zm.&nbsp;z&nbsp;rodz. oraz dusze w&nbsp;c.c.</td>
+            <td colspan="2" class="center"><b>9&nbsp;marca, Czwartek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
@@ -96,26 +85,22 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Izabelę Socha</td>
+            <td>+ Dariusza Jastrzębia</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Piotra Prusia</td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Janinę Adamiak</td>
+            <td>+ Barbarę Rutkowską (+4)</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>3&nbsp;marca, Piątek</b></td>
+            <td colspan="2" class="center"><b>10&nbsp;marca, Piątek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>O&nbsp;świętość kapłanów, nowe liczne powołania</td>
+            <td>+ Dariusza Pietrasika</td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Marcina Gierachę</td>
+            <td>+ Piotra Susa</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -123,25 +108,22 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Mariannę Kapusta</td>
+            <td>O&nbsp;nawrócenie męża Piotra i&nbsp;ojca Tadeusza</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ zm.&nbsp;z&nbsp;rodz. Kaczorowskich, braci
-            i&nbsp;rodziców</td>
+            <td>+ zm.&nbsp;z&nbsp;rodz. Erkolani</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>4&nbsp;marca, Sobota</b></td>
+            <td colspan="2" class="center"><b>11&nbsp;marca, Sobota</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>Dzięk.-błag. o&nbsp;BB, potrzebne łaski, opiekę MB dla
-            Asi z&nbsp;racji urodzin</td>
+            <td>+ Helenę, Jerzego Bażantów</td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Kazimierza Płazę i&nbsp;zm. z&nbsp;rodz., dusze
-            w&nbsp;c.c.</td>
+            <td>+ Piotra Susa</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -149,36 +131,37 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>W&nbsp;int. wynagradzającej Niepokalanemu Sercu Maryi
-            za&nbsp;grzechy świata</td>
+            <td>+ Helenę (+18), Stanisława Bodułów</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Kazimierza Kaczmarskiego, Małgorzatę Walczyna</td>
+            <td>+ Bożenę Kubala</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>5&nbsp;marca, Niedziela</b></td>
+            <td colspan="2" class="center"><b>12&nbsp;marca, Niedziela</b></td>
         </tr>
         <tr>
             <td class="center">7.30</td>
-            <td>+ Kazimierza Gacha, Kazimierę Czajkę, zm. z&nbsp;rodz.
-            Czajków i&nbsp;Gachów</td>
+            <td>+ Bogusławę, Józefa Cukrowskich, zm.&nbsp;z&nbsp;rodz.
+            Cukrowskich, Marców</td>
         </tr>
         <tr>
             <td class="center">9.30</td>
-            <td>W&nbsp;int. parafian</td>
+            <td>+ Władysława (+7) Marca, Katarzynę, Wincentego
+            Królów</td>
         </tr>
         <tr>
             <td class="center">11.15</td>
-            <td>W&nbsp;int. K.Ż.R. – zelatorki Teodora Kwiecień</td>
+            <td>+ Władysława, Władysławę Mrówków
+            i&nbsp;zm.&nbsp;z&nbsp;rodz. Mrówków i&nbsp;Wodzów</td>
         </tr>
         <tr>
             <td class="center">12.30</td>
-            <td>+ Janinę, Czesława, Krzysztofa Płazów</td>
+            <td>+ Andrzeja (+12), Józefę, Idziego Dudków</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Annę, Pawła Cichoniów</td>
+            <td>W&nbsp;int. parafian</td>
         </tr>
     </tbody>
 </table>
