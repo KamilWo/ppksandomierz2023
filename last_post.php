@@ -1,5 +1,17 @@
 <div class="card">
     <div class="card-header">
+        <h3>17.&nbsp;marca 2023&nbsp;r.</h3>
+        <h3>Droga Krzyżowa za kapłanów 17&nbsp;marca 2023&nbsp;r.</h3>
+    </div>
+    <div class="col">
+        <img src="static/download/2023_03_17_Droga_krzyzowa_za_kaplanow_image0000001004.jpg"
+             style="width: 100%;" />
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
         <h3>5.&nbsp;marca 2023&nbsp;r.</h3>
         <h3>II&nbsp;Niedziela Wielkiego Postu, Rok&nbsp;A</h3>
     </div>
