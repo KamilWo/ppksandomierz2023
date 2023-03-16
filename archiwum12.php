@@ -19,7 +19,248 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 5.&nbsp;marca 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 12.&nbsp;marca 2023&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    06.03. – 12.03.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>6&nbsp;marca, Poniedziałek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Susa</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Wiesława Szala</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mariana Kapustę</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Zofię, Jana, Judę, Jadwigę, Jana Kondrata</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>7&nbsp;marca, Wtorek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Susa</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Helenę, Józefa, Andrzeja Wąsików</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Piotra Susa</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>8&nbsp;marca, Środa</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>O&nbsp;łaskę dobrej śmierci</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Susa</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Stanisława Kudelskiego</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Henryka Wieczorka</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>9&nbsp;marca, Czwartek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Susa</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Dariusza Jastrzębia</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Barbarę Rutkowską (+4)</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>10&nbsp;marca, Piątek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Dariusza Pietrasika</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Susa</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>O&nbsp;nawrócenie męża Piotra i&nbsp;ojca Tadeusza</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ zm.&nbsp;z&nbsp;rodz. Erkolani</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>11&nbsp;marca, Sobota</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Helenę, Jerzego Bażantów</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Susa</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Helenę (+18), Stanisława Bodułów</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Bożenę Kubala</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>12&nbsp;marca, Niedziela</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>+ Bogusławę, Józefa Cukrowskich, zm.&nbsp;z&nbsp;rodz.
+                                    Cukrowskich, Marców</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>+ Władysława (+7) Marca, Katarzynę, Wincentego
+                                    Królów</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>+ Władysława, Władysławę Mrówków
+                                    i&nbsp;zm.&nbsp;z&nbsp;rodz. Mrówków i&nbsp;Wodzów</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>+ Andrzeja (+12), Józefę, Idziego Dudków</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>W&nbsp;int. parafian</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>17.&nbsp;marca 2023&nbsp;r.</h3>
+                                <h3>Droga Krzyżowa za kapłanów 17&nbsp;marca 2023&nbsp;r.</h3>
+                            </div>
+                            <div class="col">
+                                <img src="static/download/2023_03_17_Droga_krzyzowa_za_kaplanow_image0000001004.jpg"
+                                     style="width: 100%;" />
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>5.&nbsp;marca 2023&nbsp;r.</h3>
+                                <h3>II&nbsp;Niedziela Wielkiego Postu, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Z&nbsp;niedzieli na&nbsp;poniedziałek, tj.&nbsp;12
+                                na&nbsp;13&nbsp;marca br.&nbsp;dekanat sandomierski ma&nbsp;czuwanie
+                                modlitewne na&nbsp;Jasnej Górze przed wizerunkiem Czarnej Madonny
+                                w&nbsp;intencji powołań w&nbsp;Kościele Sandomierskim. Wyjazd
+                                autokarem w&nbsp;niedzielę o&nbsp;godz.&nbsp;15.00 z&nbsp;przed
+                                naszego kościoła parafialnego, powrót nocą. Prosimy o&nbsp;zgłoszenie
+                                się chętnych do&nbsp;wyjazdu. Jeszcze dziś zapisujemy
+                                na&nbsp;tę&nbsp;pielgrzymkę.</p>
+                                <p>2. Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
+                                o&nbsp;godz.&nbsp;17.15 - zapraszamy do&nbsp;udziału.</p>
+                                <p>3. <strong>Parafialne Rekolekcje Wielkopostne</strong>
+                                w&nbsp;naszej parafii rozpoczną się w&nbsp;<strong>czwartą niedzielę
+                                Wielkiego Postu</strong>, tj.&nbsp;19&nbsp;marca&nbsp;br.</p>
+                                <p>4. W&nbsp;każdą niedzielę Wielkiego Postu nabożeństwo „Gorzkich
+                                Żali” z&nbsp;nauką pasyjną o&nbsp;godz.&nbsp;17.30, następnie Msza
+                                Święta.</p>
+                                <p>5. W&nbsp;ramach jałmużny wielkopostnej, dziś
+                                po&nbsp;Mszach&nbsp;św. zbiórka do&nbsp;puszek na&nbsp;rzecz dzieła
+                                pomocy misjonarzom „Ad&nbsp;Gentes”.</p>
+                                <p>6. Początek nowenny przed uroczystością św.&nbsp;Józefa
+                                10&nbsp;marca&nbsp;br., tj.&nbsp;w&nbsp;piątek, po&nbsp;Mszy&nbsp;św.
+                                wieczorem.</p>
+                                <p>7. Od&nbsp;dnia 8&nbsp;marca (środa) w&nbsp;naszej diecezji
+                                przeżywać będziemy Jubileusz 800 – lecia śmierci bł.&nbsp;Wincentego
+                                Kadłubka. Tego dnia o&nbsp;godz.&nbsp;17.00 we&nbsp;Włostowie Biskup
+                                Ordynariusz Krzysztof Nitkiewicz odprawi Mszę&nbsp;św. inaugurującą
+                                jubileusz. Zapraszamy do&nbsp;udziału w&nbsp;inauguracji
+                                we&nbsp;Włostowie i&nbsp;w&nbsp;samym Jubileuszu.</p>
+                                <p>8. Katolickie Stowarzyszenie Młodzieży Diecezji Sandomierskiej
+                                wraz z&nbsp;Wydziałem Duszpasterskim Kurii Diecezjalnej
+                                w&nbsp;Sandomierzu zaprasza do&nbsp;wzięcia udziału w&nbsp;konkursie
+                                na&nbsp;najładniejszą palmę wielkanocną. Więcej informacji
+                                w&nbsp;gablocie parafialnej.</p>
+                                <p>9. W&nbsp;zakrystii są&nbsp;do&nbsp;nabycia Baranki wielkanocne
+                                w&nbsp;cenie 8&nbsp;zł.</p>
+                                <p>10. W&nbsp;najbliższą środę, dzień modlitwy w&nbsp;intencji
+                                kobiet.</p>
+                                <p>11.  Dziękujemy za&nbsp;modlitwę, wszelką pomoc, składane ofiary
+                                na&nbsp;potrzeby parafii. Wszystkim, którzy w&nbsp;tym tygodniu
+                                obchodzą swoje imieniny, urodziny, inne rocznice, składamy najlepsze
+                                życzenia z&nbsp;kapłańskim błogosławieństwem. Wszystkim
+                                uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+                                niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 5.&nbsp;marca 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
+
 
                         <div class="card">
                             <div class="card-header">
