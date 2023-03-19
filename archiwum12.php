@@ -19,7 +19,236 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 12.&nbsp;marca 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 19.&nbsp;marca 2023&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    13.03. – 19.03.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>13&nbsp;marca, Poniedziałek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Susa</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Wiesława Szala</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Marię, Władysława, Czesława Barańskich, Andrzeja
+                                    Krawczyka</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mariannę, Tadeusza, Marka Niemczyków</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>14&nbsp;marca, Wtorek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>O&nbsp;BB, opiekę MB, potrzebne łaski, dary
+                                    Ducha&nbsp;Św. dla Bogusława z&nbsp;racji urodzin
+                                    i&nbsp;imienin</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Mariannę Kwiatkowską</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>W&nbsp;int. osób uzależnionych i&nbsp;ich rodzin
+                                    o&nbsp;łaskę uzdrowienia, i&nbsp;wyzwolenia</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Leonarda Konopkę w&nbsp;r.&nbsp;śm.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>15&nbsp;marca, Środa</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>W&nbsp;int. dzieci i&nbsp;chrześniaków</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Susa</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>W&nbsp;int. wynagradzającej Panu Bogu za&nbsp;grzechy
+                                    aborcji i&nbsp;eutanazji</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mariannę Surowiec</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>16&nbsp;marca, Czwartek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Susa</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Piotra Prusia</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Marię Włoch</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>17&nbsp;marca, Piątek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Susa</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Bogusława Tetera w&nbsp;miesiąc po&nbsp;śm.</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>W&nbsp;int. rodziny zm.&nbsp;Dariusza Piertrasika</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Kazimierza Włocha</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>18&nbsp;marca, Sobota</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Susa</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Jana (+8) i&nbsp;jego rodziców</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mariannę Surowiec</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Stanisława Branię</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>19&nbsp;marca, Niedziela</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>+ Alicję Gilewską, Józefa, Stefanię Janusów</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>+ Józefę, Jana Marców, Ryszarda, Józefę, Stefana
+                                    Pietruszków</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>W&nbsp;int. Domowego Kościoła i&nbsp;ich rodzin</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>W&nbsp;int. parafian</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>Dzięk.-błag. o&nbsp;Miłosierdzie Boże, wiarę,
+                                    nadzieję i&nbsp;miłość, łaskę pokory, nawrócenie
+                                    i&nbsp;uzdrowienie w&nbsp;rodzinie</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>12.&nbsp;marca 2023&nbsp;r.</h3>
+                                <h3>III&nbsp;Niedziela Wielkiego Postu, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. <strong>Parafialne Rekolekcje Wielkopostne</strong>
+                                w&nbsp;naszej parafii rozpoczną się w&nbsp;<strong>czwartą
+                                niedzielę Wielkiego Postu</strong>,
+                                tj.&nbsp;19&nbsp;marca&nbsp;br. Spowiedź parafialna wielkopostna
+                                we&nbsp;wtorek po&nbsp;V&nbsp;niedzieli Wielkiego Postu,
+                                tj.&nbsp;28&nbsp;marca&nbsp;br.</p>
+                                <p>2. Rocznica pontyfikatu Ojca Świętego Franciszka wypadnie
+                                13&nbsp;marca&nbsp;br., tj.&nbsp;jutro. Polecajmy Go&nbsp;Panu Bogu
+                                w&nbsp;naszych modlitwach.</p>
+                                <p>3. Z&nbsp;okazji 800-tnej rocznicy śmierci bł.&nbsp;Wincentego
+                                Kadłubka - patrona miasta i&nbsp;Diecezji Sandomierskiej biskup
+                                Krzysztof Nitkiewicz ogłosił rok 2023&nbsp;rokiem błogosławionego
+                                Wincentego Kadłubka. Aby przybliżyć postać błogosławionego Wydział
+                                Nauki i&nbsp;Wychowania Katolickiego wraz z&nbsp;Wydziałem
+                                Duszpasterstwa Kurii diecezjalnej w&nbsp;Sandomierzu ogłasza konkurs
+                                dla uczniów szkół podstawowych i&nbsp;ponadpodstawowych pt.:
+                                <em>“Błogosławiony Wincenty Kadłubek - patron diecezji sandomierskiej”</em>.
+                                Więcej informacji na&nbsp;ten temat w&nbsp;trzeciej gablocie,
+                                wychodząc z&nbsp;kościoła.</p>
+                                <p>4. Akcja Katolicka Diecezji Sandomierskiej zaprasza wszystkich
+                                wiernych Diecezji Sandomierskiej do&nbsp;wzięcia udziału
+                                w&nbsp;inicjatywie modlitewnej „Różaniec o&nbsp;pokój”.</p>
+                                <p>5. W&nbsp;zeszłą niedzielę po&nbsp;Mszach&nbsp;św. do&nbsp;puszek
+                                na&nbsp;rzecz dzieła pomocy misjonarzom „Ad Gentes”, zostało zebrane
+                                5286&nbsp;zł. <em>Bóg zapłać</em> ofiarodawcom. Pieniądze zostały
+                                przekazane na&nbsp;wcześniej wspomniany cel.</p>
+                                <p>6. Uroczystość św.&nbsp;Józefa Oblubieńca NMP przeniesiona
+                                na&nbsp;20&nbsp;marca&nbsp;br., tj.&nbsp;w&nbsp;poniedziałek.</p>
+                                <p>7. Do&nbsp;nabycia w&nbsp;zakrystii Baranki wielkanocne
+                                w&nbsp;cenie 8&nbsp;zł.</p>
+                                <p>8. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+                                Gazety na&nbsp;stoliku pod chórem.</p>
+                                <p>9. Dziękujemy za&nbsp;modlitwę, wszelką pomoc, składane ofiary
+                                na&nbsp;potrzeby parafii i&nbsp;nie tylko. Wszystkim uczestniczącym
+                                we&nbsp;Mszy&nbsp;św. życzymy błogosławionej niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 12.&nbsp;marca 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
