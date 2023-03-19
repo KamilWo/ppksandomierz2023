@@ -1,5 +1,17 @@
 <div class="card">
     <div class="card-header">
+        <h3>25.&nbsp;marca 2023&nbsp;r.</h3>
+        <h3>Wieczór uwielbienia - Siedem słów z Krzyża 25&nbsp;marca 2023&nbsp;r.</h3>
+    </div>
+    <div class="col">
+        <img src="static/download/2023_03_25_wieczor_ubielbienia_siedem_slow_image0000001005.jpg"
+             style="width: 100%;" />
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
         <h3>12.&nbsp;marca 2023&nbsp;r.</h3>
         <h3>III&nbsp;Niedziela Wielkiego Postu, Rok&nbsp;A</h3>
     </div>
