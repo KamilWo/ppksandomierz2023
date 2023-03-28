@@ -103,7 +103,7 @@
             <td>+ Bogusława Żyłę (+7)</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>1&nbsp;marca, Sobota</b></td>
+            <td colspan="2" class="center"><b>1&nbsp;kwietnia, Sobota</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
@@ -124,7 +124,7 @@
             Krystynę, Mariana</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>2&nbsp;marca, Niedziela</b></td>
+            <td colspan="2" class="center"><b>2&nbsp;kwietnia, Niedziela</b></td>
         </tr>
         <tr>
             <td class="center">7.30</td>
@@ -151,7 +151,7 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Stanisława Drzymalskiego i&nbsp;zm.
+            <td>+ Sławomira Drzymalskiego i&nbsp;zm.
             z&nbsp;rodz.</td>
         </tr>
     </tbody>
