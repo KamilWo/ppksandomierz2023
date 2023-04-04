@@ -1,85 +1,67 @@
 <div class="card">
     <div class="card-header">
-        <h3>26.&nbsp;marca 2023&nbsp;r.</h3>
-        <h3>V&nbsp;Niedziela Wielkiego Postu, Rok&nbsp;A</h3>
+        <h3>2.&nbsp;kwietnia 2023&nbsp;r.</h3>
+        <h3>Niedziela Palmowa, Rok&nbsp;A</h3>
     </div>
     <div class="col">
-        <p>1. Zapraszamy do&nbsp;udziału w&nbsp;wielkopostnych nabożeństwach
-        - Droga Krzyżowa w&nbsp;każdy piątek Wielkiego Postu
-        o&nbsp;godz.&nbsp;17.30, w&nbsp;każdą niedzielę Wielkiego Postu
-        nabożeństwo „Gorzkich Żali” z&nbsp;nauką pasyjną
-        o&nbsp;godz.&nbsp;17.30.</p>
-        <p>2. Przypominamy, że&nbsp;dziś po&nbsp;Mszach&nbsp;św.
-        w&nbsp;naszym kościele jest zbiórka pieniędzy do&nbsp;puszek,
-        na&nbsp;rzecz budowy Domu Hospicyjnego w&nbsp;Skowierzynie
-        w&nbsp;naszej diecezji Sandomierskiej, dla dzieci chorych
-        na&nbsp;raka. Zbiórkę poprowadzi Fundacja „Z&nbsp;Serca dla Serca”,
-        która zajmuje się budową. <em>Bóg zapłać</em> wszystkim
-        ofiarodawcom.</p>
-        <p>3. Najbliższa niedziela to&nbsp;już Niedziela Palmowa. Poświęcenie
-        palm na&nbsp;każdej Mszy Świętej. Procesja z&nbsp;palmami wokół
-        kościoła na&nbsp;Mszy&nbsp;św. o&nbsp;godz.&nbsp;11.15.</p>
-        <p>4. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+        <p>1. Jutro od&nbsp;godz.&nbsp;8.00 kapłani odwiedzą chorych
+        z&nbsp;posługą sakramentalną. Prosimy, zgłosić w&nbsp;zakrystii, tych
+        chorych, którzy pragną przyjąć Pana Jezusa w&nbsp;sakramentach.</p>
+        <p>2. W&nbsp;Wielki Czwartek w&nbsp;naszym kościele Msza&nbsp;Św.
+        Wieczerzy Pańskiej o&nbsp;godzinie 18.00. Na&nbsp;zakończenie
+        przeniesiemy Najświętszy Sakrament do&nbsp;przygotowanego ołtarza
+        adoracji – Ciemnicy. Adoracja do&nbsp;godziny 22.00.</p>
+        <p>3. W&nbsp;Wielki Piątek adoracja przy Ciemnicy od&nbsp;godziny
+        8.00. Katolików obowiązuje post ścisły i&nbsp;wstrzemięźliwość
+        od&nbsp;pokarmów mięsnych. O&nbsp;godzinie 17.15 Droga Krzyżowa,
+        a&nbsp;po&nbsp;niej o&nbsp;godzinie 18.00 rozpocznie się Liturgia
+        Wielkiego Piątku. Na&nbsp;zakończenie, po&nbsp;przeniesieniu
+        Najświętszego Sakramentu do&nbsp;przygotowanego Grobu Pańskiego
+        adoracja do&nbsp;godziny 22.00. Ofiary z&nbsp;Wielkiego Piątku
+        na&nbsp;Grób Pański w&nbsp;Jerozolimie.</p>
+        <p>4. W&nbsp;Wielką Sobotę adorujemy Pana Jezusa w&nbsp;Najświętszym
+        Sakramencie, w&nbsp;Grobie Pańskim od&nbsp;godz.&nbsp;8.00.
+        Poświęcenie pokarmów w&nbsp;kościele od&nbsp;godz.&nbsp;9.00
+        do&nbsp;13.00 (co&nbsp;15&nbsp;minut). O&nbsp;godzinie 19.00
+        rozpocznie się Liturgia Wielkiej Soboty od&nbsp;poświęcenia ognia.
+        Przynosimy świece.</p>
+        <p>5. Rezurekcja w&nbsp;Niedzielę Zmartwychwstania o&nbsp;godzinie
+        6.00. Następna Msza Święta będzie sprawowana o&nbsp;godzinie 9.30
+        i&nbsp;dalej porządek, jak w&nbsp;każdą Niedzielę.</p>
+        <p>6. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
         Gazety są&nbsp;na&nbsp;stoliku pod chórem. Do&nbsp;nabycia
-        są&nbsp;także „baranki wielkanocne” w&nbsp;zakrystii.</p>
-        <p>5. W&nbsp;Wielki Poniedziałek, tj.&nbsp;3&nbsp;kwietnia br.
-        od&nbsp;godz.&nbsp;8.00 kapłani odwiedzą chorych z&nbsp;posługą
-        sakramentalną. Prosimy, aby zgłosić w&nbsp;zakrystii, tych chorych,
-        którzy pragną przyjąć Pana Jezusa w&nbsp;sakramentach&nbsp;św.</p>
-        <p>6. W&nbsp;środę zapraszamy młodzież przygotowującą się
-        do&nbsp;sakramentu bierzmowania z&nbsp;klas ósmych i&nbsp;wraz
-        z&nbsp;rodzicami na&nbsp;godz.&nbsp;18.00.</p>
-        <p>7. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;15.00 nabożeństwo
-        do&nbsp;Miłosierdzia Bożego, które poprzedzi tzw.&nbsp;Miejską drogę
-        Krzyżową, która rozpocznie się od&nbsp;naszego kościoła parafialnego,
-        a&nbsp;zakończenie w&nbsp;kościele seminaryjnym, przewodniczyć będzie
-        nabożeństwu ks.&nbsp;Biskup Ordynariusz. Zapraszamy.</p>
-        <p>8. Rekolekcje dla dzieci i&nbsp;młodzieży w&nbsp;naszym kościele
-        parafialnym w&nbsp;najbliższy poniedziałek, wtorek
-        i&nbsp;w&nbsp;najbliższą środę. Spotkanie z&nbsp;dziećmi
-        o&nbsp;godz.&nbsp;9.30 i&nbsp;młodzieży z&nbsp;klas szóstych,
-        siódmych i&nbsp;ósmych o&nbsp;godz.&nbsp;11.00. W&nbsp;najbliższy
-        wtorek, dzieci i&nbsp;młodzież biorący udział w&nbsp;rekolekcjach
-        będą mogli przystąpić do&nbsp;spowiedzi&nbsp;św. do&nbsp;południa.</p>
-        <p>9. Spowiedź parafialna w&nbsp;najbliższy wtorek rano
-        od&nbsp;godz.&nbsp;9.30 do&nbsp;10.30, a&nbsp;po&nbsp;południu
-        od&nbsp;16.30 do&nbsp;18.00.</p>
-        <p>10. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
-        Mszą&nbsp;św. o&nbsp;godz.&nbsp;11.15 – adoracja Najśw. Sakramentu
-        połączona z&nbsp;modlitwą różańcową, którą poprowadzi Koło Żywego
-        Różańca z&nbsp;naszej parafii i&nbsp;zmiana tajemnic różańcowych.
-        Zapraszamy do&nbsp;udziału w&nbsp;tej modlitwie.</p>
-        <p>11. Przypominamy, że&nbsp;Akcja Katolicka Diecezji Sandomierskiej
-        zaprasza wszystkich wiernych diecezji sandomierskiej do&nbsp;wzięcia
-        udziału w&nbsp;inicjatywie modlitewnej <strong>„Różaniec
-        o&nbsp;pokój”</strong>. Polecając miłosiernemu  Bogu, przez
-        wstawiennictwo Matki Bożej sprawę pokoju na&nbsp;świecie, zachęcamy
-        wszystkich do&nbsp;modlitwy różańcowej, a&nbsp;następnie przekazanie
-        omodlonego różańca ks.&nbsp;proboszczowi swojej parafii.
-        Na&nbsp;koniec Wielkiego Postu, zgromadzone różańce zostaną przesłane
-        do&nbsp;Kijowa, gdzie miejscowe siostry będą rozdawać mieszkańcom
-        i&nbsp;zachęcać do&nbsp;jedności modlitewnej.</p>
-        <p>12. Ofiary na&nbsp;kwiaty do&nbsp;Grobu Pańskiego złożyły:
-        od&nbsp;Róży Różańcowej, której zelatorką jest Jadwiga Mojduszko -
-        300&nbsp;zł i&nbsp;od&nbsp;Róży Różańcowej - zelator Teodora Kwiecień
-        – 100&nbsp;zł i&nbsp;ofiara anonimowa – 100&nbsp;zł. <em>Bóg
-        zapłać</em>.</p>
-        <p>13. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15. – nabożeństwo
-        Różańcowe poprowadzi Legion Maryi z&nbsp;naszej parafii.</p>
-        <p>14. W&nbsp;dniu 31&nbsp;marca 2023&nbsp;roku z&nbsp;kościoła
-        pw.&nbsp;Ducha&nbsp;Św. w&nbsp;Sandomierzu wyruszy po&nbsp;raz kolejny
-        Ekstremalna Droga Krzyżowa. Rozpoczęcie Mszą&nbsp;św.
-        o&nbsp;godz.&nbsp;20.00. Więcej informacji na&nbsp;plakacie
-        w&nbsp;gablocie. Ekstremalna Droga Krzyżowa to&nbsp;forma duchowości
-        dla tych, którzy nie boją się wyzwań, pragnąc doświadczyć obecności
-        Chrystusa w&nbsp;ciszy, samotności, zmęczeniu wędrując kilkadziesiąt
-        kilometrów. Tegoroczna edycja <strong>Ekstremalnej Drogi
-        Krzyżowej</strong> odbywa się pod hasłem: <strong>Idę, bo&nbsp;szukam
-        nadziei</strong>.</p>
-        <p>15. Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy
-        błogosławionej niedzieli.</p>
+        są&nbsp;także „baranki wielkanocne”.</p>
+        <p>7. Zapraszamy do&nbsp;udziału do&nbsp;uczczenia Osiemnastej
+        Rocznicy śmierci św.&nbsp;Jana Pawła&nbsp;II. Spotkajmy się dziś
+        o&nbsp;godz.&nbsp;21.00 przed pomnikiem św.&nbsp;Jana Pawła&nbsp;II
+        na&nbsp;błoniach sandomierskich, gdzie odśpiewamy Apel Jasnogórski,
+        złożymy kwiaty i&nbsp;zapalimy znicze. Następnie przejdziemy
+        do&nbsp;Bazyliki Katedralnej, w&nbsp;której będzie miała miejsce
+        krótka prelekcja o&nbsp;św.&nbsp;Janie Pawle&nbsp;II, projekcja filmu
+        o&nbsp;tym wielkim Świętym. Zakończymy nasze spotkanie modlitwą
+        i&nbsp;błogosławieństwem.</p>
+        <p>8. Dziękujemy parafianom z&nbsp;Milczan za&nbsp;wykonanie palmy,
+        która zdobi ołtarz. <em>Bóg zapłać</em>.</p>
+        <p>9. Ofiary na&nbsp;kwiaty do&nbsp;Grobu Pańskiego w&nbsp;naszym
+        kościele parafialnym złożyły: Pani Agnieszka Pliżga – 200&nbsp;zł,
+        Róża Różańcowa zelator Ewa Łukawska – 100&nbsp;zł, od&nbsp;Róży
+        Różańcowej z&nbsp;Milczan – 300&nbsp;zł, Róża Różańcowa, zelator
+        Teresa Borkowska – 150&nbsp;zł i&nbsp;anonimowi ofiarodawcy
+        200&nbsp;zł. <em>Bóg zapłać</em> wszystkim.</p>
+        <p>10. Do&nbsp;puszek, na&nbsp;rzecz budowy Domu Hospicyjnego
+        w&nbsp;Skowierzynie w&nbsp;naszej diecezji Sandomierskiej, dla dzieci
+        chorych na&nbsp;raka zebrano 2922&nbsp;zł. <em>Bóg zapłać</em>
+        wszystkim ofiarodawcom.</p>
+        <p>11. Kancelaria parafialna czynna do&nbsp;Wielkiej Środy włącznie.
+        We&nbsp;wtorek spowiedź w&nbsp;katedrze od&nbsp;godz.&nbsp;15.30
+        do&nbsp;17.00. W&nbsp;naszym kościele od&nbsp;17.30 do&nbsp;18.00,
+        od&nbsp;poniedziałku do&nbsp;Wielkiej Środy włącznie.</p>
+        <p>12. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc,
+        parafiankom za&nbsp;uporządkowanie przy kościele klombów
+        z&nbsp;kwiatami, za&nbsp;składane ofiary na&nbsp;potrzeby parafii.
+        Wszystkim życzymy błogosławionej Niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 26.&nbsp;marca 2023&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 2.&nbsp;kwietnia 2023&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
