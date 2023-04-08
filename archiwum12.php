@@ -19,7 +19,258 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 2.&nbsp;kwietnia 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 9.&nbsp;kwietnia 2023&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    03.04. – 09.04.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>3&nbsp;kwietnia, Poniedziałek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Ryszarda Chrząstowskiego</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Izabelę Socha</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mariannę Surowiec</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Henryka Wieczorka</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>4&nbsp;kwietnia, Wtorek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Szczepana w&nbsp;r.&nbsp;śm., Emilię, Teodozję,
+                                    Zdzisława Dudków, zm.&nbsp;z&nbsp;rodz. i&nbsp;dusze
+                                    w&nbsp;c.c.</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Dariusza Jastrzębia</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Marina Gierachę</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>5&nbsp;kwietnia, Środa</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ zm.&nbsp;Rodziców, rodzeństwo, dziadków, teściów,
+                                    dusze w&nbsp;c.c.</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mariana Kapustę</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Reginę, Józefa Buczków, Wandę, Stanisława Słowików,
+                                    Zofię, Mariana Wróblewskich</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>6&nbsp;kwietnia, WIELKI CZWARTEK</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>W&nbsp;intencji kapłanów</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>O&nbsp;BB, potrzebne łaski, dary Ducha Świętego
+                                    na&nbsp;dalsze lata kapłańskiej posługi dla księży
+                                    w&nbsp;naszej parafii – Legion Maryi</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>O&nbsp;BB, dary Ducha Świętego, opiekę Matki Bożej
+                                    i&nbsp;potrzebne łaski dla kapłanów, którzy posługuję
+                                    i&nbsp;posługiwali w&nbsp;naszej parafii</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>7&nbsp;kwietnia, WIELKI PIĄTEK</b></td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">17.15</td>
+                                    <td class="center"><strong>NABOŻEŃSTWO DROGI KRZYŻÓWEJ</strong></td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td class="center"><strong>LITURIA WIELKIEGO PIĄTKU</strong></td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>8&nbsp;kwietnia, WIELKA SOBOTA</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">19.00</td>
+                                    <td>+ Leokadię, Stanisława, Marię, Romana Majchów,
+                                    Krzysztofa, Józefa, Stefanię Łukawskich, Zofię Woźniak</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">19.00</td>
+                                    <td>+ Tadeusza Fietko (+2)</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">19.00</td>
+                                    <td>+ Ewę Jaworską (+11)</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>9&nbsp;kwietnia, NIEDZIELA ZMARTWYCHWSTANIA</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.00</td>
+                                    <td>REZUREKCJA - w&nbsp;intencji parafian</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>+ Alicję Gilewską, Stefanię w&nbsp;r.&nbsp;śm.,
+                                    Józefa Janusów</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>+ Jerzego Bodułę i&nbsp;zm. z&nbsp;rodz., Janinę,
+                                    Wacława, Stanisława, Andrzeja Mendalów</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>+ Stefana (+2) Orłowskiego i&nbsp;zm. z&nbsp;rodz.,
+                                    Władysława, Barbarę Domaradzkich i&nbsp;zm.
+                                    z&nbsp;rodz.</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Jana Mazura</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>2.&nbsp;kwietnia 2023&nbsp;r.</h3>
+                                <h3>Niedziela Palmowa, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Jutro od&nbsp;godz.&nbsp;8.00 kapłani odwiedzą chorych
+                                z&nbsp;posługą sakramentalną. Prosimy, zgłosić w&nbsp;zakrystii, tych
+                                chorych, którzy pragną przyjąć Pana Jezusa w&nbsp;sakramentach.</p>
+                                <p>2. W&nbsp;Wielki Czwartek w&nbsp;naszym kościele Msza&nbsp;Św.
+                                Wieczerzy Pańskiej o&nbsp;godzinie 18.00. Na&nbsp;zakończenie
+                                przeniesiemy Najświętszy Sakrament do&nbsp;przygotowanego ołtarza
+                                adoracji – Ciemnicy. Adoracja do&nbsp;godziny 22.00.</p>
+                                <p>3. W&nbsp;Wielki Piątek adoracja przy Ciemnicy od&nbsp;godziny
+                                8.00. Katolików obowiązuje post ścisły i&nbsp;wstrzemięźliwość
+                                od&nbsp;pokarmów mięsnych. O&nbsp;godzinie 17.15 Droga Krzyżowa,
+                                a&nbsp;po&nbsp;niej o&nbsp;godzinie 18.00 rozpocznie się Liturgia
+                                Wielkiego Piątku. Na&nbsp;zakończenie, po&nbsp;przeniesieniu
+                                Najświętszego Sakramentu do&nbsp;przygotowanego Grobu Pańskiego
+                                adoracja do&nbsp;godziny 22.00. Ofiary z&nbsp;Wielkiego Piątku
+                                na&nbsp;Grób Pański w&nbsp;Jerozolimie.</p>
+                                <p>4. W&nbsp;Wielką Sobotę adorujemy Pana Jezusa w&nbsp;Najświętszym
+                                Sakramencie, w&nbsp;Grobie Pańskim od&nbsp;godz.&nbsp;8.00.
+                                Poświęcenie pokarmów w&nbsp;kościele od&nbsp;godz.&nbsp;9.00
+                                do&nbsp;13.00 (co&nbsp;15&nbsp;minut). O&nbsp;godzinie 19.00
+                                rozpocznie się Liturgia Wielkiej Soboty od&nbsp;poświęcenia ognia.
+                                Przynosimy świece.</p>
+                                <p>5. Rezurekcja w&nbsp;Niedzielę Zmartwychwstania o&nbsp;godzinie
+                                6.00. Następna Msza Święta będzie sprawowana o&nbsp;godzinie 9.30
+                                i&nbsp;dalej porządek, jak w&nbsp;każdą Niedzielę.</p>
+                                <p>6. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+                                Gazety są&nbsp;na&nbsp;stoliku pod chórem. Do&nbsp;nabycia
+                                są&nbsp;także „baranki wielkanocne”.</p>
+                                <p>7. Zapraszamy do&nbsp;udziału do&nbsp;uczczenia Osiemnastej
+                                Rocznicy śmierci św.&nbsp;Jana Pawła&nbsp;II. Spotkajmy się dziś
+                                o&nbsp;godz.&nbsp;21.00 przed pomnikiem św.&nbsp;Jana Pawła&nbsp;II
+                                na&nbsp;błoniach sandomierskich, gdzie odśpiewamy Apel Jasnogórski,
+                                złożymy kwiaty i&nbsp;zapalimy znicze. Następnie przejdziemy
+                                do&nbsp;Bazyliki Katedralnej, w&nbsp;której będzie miała miejsce
+                                krótka prelekcja o&nbsp;św.&nbsp;Janie Pawle&nbsp;II, projekcja filmu
+                                o&nbsp;tym wielkim Świętym. Zakończymy nasze spotkanie modlitwą
+                                i&nbsp;błogosławieństwem.</p>
+                                <p>8. Dziękujemy parafianom z&nbsp;Milczan za&nbsp;wykonanie palmy,
+                                która zdobi ołtarz. <em>Bóg zapłać</em>.</p>
+                                <p>9. Ofiary na&nbsp;kwiaty do&nbsp;Grobu Pańskiego w&nbsp;naszym
+                                kościele parafialnym złożyły: Pani Agnieszka Pliżga – 200&nbsp;zł,
+                                Róża Różańcowa zelator Ewa Łukawska – 100&nbsp;zł, od&nbsp;Róży
+                                Różańcowej z&nbsp;Milczan – 300&nbsp;zł, Róża Różańcowa, zelator
+                                Teresa Borkowska – 150&nbsp;zł i&nbsp;anonimowi ofiarodawcy
+                                200&nbsp;zł. <em>Bóg zapłać</em> wszystkim.</p>
+                                <p>10. Do&nbsp;puszek, na&nbsp;rzecz budowy Domu Hospicyjnego
+                                w&nbsp;Skowierzynie w&nbsp;naszej diecezji Sandomierskiej, dla dzieci
+                                chorych na&nbsp;raka zebrano 2922&nbsp;zł. <em>Bóg zapłać</em>
+                                wszystkim ofiarodawcom.</p>
+                                <p>11. Kancelaria parafialna czynna do&nbsp;Wielkiej Środy włącznie.
+                                We&nbsp;wtorek spowiedź w&nbsp;katedrze od&nbsp;godz.&nbsp;15.30
+                                do&nbsp;17.00. W&nbsp;naszym kościele od&nbsp;17.30 do&nbsp;18.00,
+                                od&nbsp;poniedziałku do&nbsp;Wielkiej Środy włącznie.</p>
+                                <p>12. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc,
+                                parafiankom za&nbsp;uporządkowanie przy kościele klombów
+                                z&nbsp;kwiatami, za&nbsp;składane ofiary na&nbsp;potrzeby parafii.
+                                Wszystkim życzymy błogosławionej Niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 2.&nbsp;kwietnia 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
