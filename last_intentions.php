@@ -186,7 +186,7 @@
         </tr>
         <tr>
             <td>&nbsp;</td>
-            <td>+ Henryka Wieczorka</td>
+            <td></td>
         </tr>
         <tr>
             <td class="center">18.00</td>
@@ -196,7 +196,7 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td></td>
+            <td>+ Henryka Wieczorka</td>
         </tr>
         <tr class="actualnosci_day">
             <td colspan="2" class="center"><b>16&nbsp;kwietnia, Niedziela Miłosierdzia Bożego</b></td>
