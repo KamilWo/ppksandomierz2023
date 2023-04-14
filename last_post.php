@@ -1,5 +1,17 @@
 <div class="card">
     <div class="card-header">
+        <h3>16.&nbsp;kwietnia 2023&nbsp;r.</h3>
+        <h3>Godziny Miłosierdzia w intencji kapłanów 16&nbsp;kwietnia 2023&nbsp;r.</h3>
+    </div>
+    <div class="col">
+        <img src="static/download/2023-04-16_Godziny_milosierdzia_w_intencji_kaplanow_image0000001.jpg"
+             style="width: 100%;" />
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
         <h3>10.&nbsp;kwietnia 2023&nbsp;r.</h3>
         <h3>Poniedziałek Wielkanocny, Rok&nbsp;A</h3>
     </div>
