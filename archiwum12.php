@@ -19,7 +19,333 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 9.&nbsp;kwietnia 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 16.&nbsp;kwietnia 2023&nbsp;r.</h2>
+
+                        <h3 class="text-center">
+                            W&nbsp;PONIEDZIAŁEK WIELKANOCNY<br>
+                            <span>NIE MA&nbsp;MSZY&nbsp;ŚW. O&nbsp;GODZ.&nbsp;18.00</span>
+                        </h3>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    09.04. – 16.04.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>9&nbsp;kwietnia, NIEDZIELA ZMARTWYCHWSTANIA</b></td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.00</td>
+                                    <td>REZUREKCJA - w&nbsp;intencji parafian</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>+ Alicję Gilewską, Stefanię w&nbsp;r.&nbsp;śm.,
+                                    Józefa Janusów</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>+ Jerzego Bodułę i&nbsp;zm. z&nbsp;rodz., Janinę,
+                                    Wacława, Stanisława, Andrzeja Mendalów</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>+ Stefana (+2) Orłowskiego i&nbsp;zm. z&nbsp;rodz.,
+                                    Władysława, Barbarę Domaradzkich i&nbsp;zm.
+                                    z&nbsp;rodz.</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Jana Mazura</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>10&nbsp;kwietnia, PONIEDZIAŁEK WIELKANOCNY</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>+ Stefanię, Franciszka Kowalskich, Marię Woś, Wiesławę
+                                    Wałcerz, Celinę, Jana, Jarosława Gucałów</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>+ Krzysztofa Deryło (+3)</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>+ Mirosława, Mariannę, Błażeja Łukasiewiczów,
+                                    Stanisławę, Jana Gwizdowskich, Ignacego Mianowanego</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>O&nbsp;nawrócenie męża Piotra i&nbsp;ojca
+                                    Tadeusza</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>11&nbsp;kwietnia, Wtorek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Pawłowskiego</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>W&nbsp;intencji osób uzależnionych i&nbsp;ich rodzin,
+                                    o&nbsp;łaskę uzdrowienia i&nbsp;wyzwolenia</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>W&nbsp;intencji wynagradzającej Panu Bogu
+                                    za&nbsp;grzechy aborcji i&nbsp;eutanazji</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>12&nbsp;kwietnia, Środa</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Pawłowskiego</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Piotra Prusia</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Wiesława Szala</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>13&nbsp;kwietnia, Czwartek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>O&nbsp;świętość kapłanów i&nbsp;nowe powołania</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Marcina Gierachę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>Dziękczynna z&nbsp;racji 18&nbsp;r.&nbsp;urodzin
+                                    Macieja z&nbsp;prośbą o&nbsp;Boże błogosławieństwo</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Marię, Władysława, Czesława Barańskich, Andrzeja
+                                    Krawczyka</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>14&nbsp;kwietnia, Piątek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Zygmunta Szczerowodę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Stanisława, Rozalię Oszczudłowskich</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Dariusza Pietrasika</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>15&nbsp;kwietnia, Sobota</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Kazimierza Włocha</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Dzięk.-błag. o&nbsp;Miłosierdzie Boże, wiarę,
+                                    nadzieję, miłość, łaskę pokory, nawrócenie
+                                    i&nbsp;uzdrowienie w&nbsp;rodzinie</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Henryka Wieczorka</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>16&nbsp;kwietnia, Niedziela Miłosierdzia Bożego</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>+ Mariannę Pyszczyńską (+4)</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>W&nbsp;intencji parafian</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>Dziękczynna z&nbsp;racji 35&nbsp;r.&nbsp;ślubu
+                                    Marzanny i&nbsp;Dariusza</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>W&nbsp;intencji Domowego Kościoła i&nbsp;ich rodzin</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Bogusława Sarzyńskiego, Annę, Janusza, Stanisława
+                                    Rożmiej, Zofię, Mikołaja, Eugeniusza Kapustów</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>16.&nbsp;kwietnia 2023&nbsp;r.</h3>
+                                <h3>Godziny Miłosierdzia w&nbsp;intencji kapłanów
+                                16&nbsp;kwietnia 2023&nbsp;r.</h3>
+                            </div>
+                            <div class="col">
+                                <img src="static/download/2023-04-16_Godziny_milosierdzia_w_intencji_kaplanow_image0000001.jpg"
+                                     style="width: 100%;" />
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>10.&nbsp;kwietnia 2023&nbsp;r.</h3>
+                                <h3>Poniedziałek Wielkanocny, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Rozpoczęliśmy tzw.&nbsp;„Biały Tydzień” –&nbsp;<strong>Oktawę
+                                Wielkanocy</strong>, która jest przedłużeniem świętowania uroczystości
+                                Zmartwychwstania. W&nbsp;ten sposób Kościół podkreśla fundamentalne
+                                znaczenie Zmartwychwstania Chrystusa dla całego chrześcijaństwa.
+                                Druga Niedziela Wielkanocna, to&nbsp;Niedziela Bożego Miłosierdzia,
+                                nazywana też Białą Niedzielą, od&nbsp;koloru
+                                <a href="https://pl.wikipedia.org/wiki/Szata_liturgiczna">szat
+                                liturgicznych</a>, ale przede wszystkim od&nbsp;koloru szat
+                                <a href="https://pl.wikipedia.org/wiki/Katechumenat">katechumenów</a>
+                                ochrzczonych w&nbsp;<a href="https://pl.wikipedia.org/wiki/Wigilia_paschalna">Wigilię
+                                Paschalną</a>. W&nbsp;białych szatach chodzili oni przez cały tydzień
+                                od&nbsp;Wielkiej Nocy i&nbsp;zdejmowali je&nbsp;dopiero
+                                na&nbsp;zakończenie oktawy w&nbsp;następną niedzielę po&nbsp;Wielkiej
+                                Niedzieli.</p>
+                                <p>2. Dziś o&nbsp;godz.&nbsp;18.00 nie będzie sprawowana
+                                Msza&nbsp;św.</p>
+                                <p>3. W&nbsp;najbliższy piątek nie obowiązuje wstrzemięźliwość
+                                od&nbsp;pokarmów mięsnych z&nbsp;racji Oktawy Wielkanocnej.
+                                Te&nbsp;osiem pierwszych dni Okresu Wielkanocnego stanowi oktawę,
+                                obchodzi się je&nbsp;jako uroczystości Pańskie.</p>
+                                <p>4. Dzisiejsza taca przeznaczona jest na&nbsp;Katolicki Uniwersytet
+                                Lubelski.</p>
+                                <p>5. Dziękujemy za&nbsp;ofiary na&nbsp;kwiaty do&nbsp;Grobu
+                                Pańskiego. Wdzięczni jesteśmy naszym parafianom za&nbsp;przygotowanie
+                                wielkanocnej dekoracji w&nbsp;naszym kościele. <em>Bóg zapłać</em>
+                                Księżom wikariuszom, ministrantom za&nbsp;przygotowanie liturgii
+                                i&nbsp;wszystkim, którzy wzięli w&nbsp;niej udział. Wszystkim, którzy
+                                w&nbsp;jakikolwiek sposób przyczynili się swoim zaangażowaniem,
+                                abyśmy jako parafia przeżywali te&nbsp;Uroczystości radośnie
+                                i&nbsp;pobożnie. Wyrażamy podziękowanie za&nbsp;wykonanie porządków
+                                wokół budynku kościoła parafialnego: My&nbsp;księża posługujący
+                                w&nbsp;tej parafii jesteśmy wdzięczni za&nbsp;modlitwę w&nbsp;naszej
+                                intencji, za&nbsp;skierowane do&nbsp;nas świąteczne życzenia,
+                                za&nbsp;wszelkie dobro. Dziękujemy za&nbsp;ofiarowane cukierki dla
+                                dzieci, którym udzielamy błogosławieństwa w&nbsp;czasie niedzielnej
+                                Mszy&nbsp;św. o&nbsp;godz.&nbsp;12.30. Niech Bóg wszystkim wcześniej
+                                wspomnianym hojnie błogosławi.</p>
+                                <p>6. Księża Pallotyni zapraszają na Seminarium Odnowy Wiary – jest
+                                to&nbsp;seria cotygodniowych spotkań, prowadzonych przez wspólnotę
+                                <strong>Przyjaciele Oblubieńca</strong>. Spotkania rozpoczną się
+                                19&nbsp;kwietnia o&nbsp;godz.&nbsp;19.00 w&nbsp;kościele Chrystusa
+                                Króla i&nbsp;będą kontynuowane w&nbsp;każdą środę. Mają służyć
+                                przebudzeniu wiary lub jej pogłębieniu, aby spotkać Boga działającego
+                                w&nbsp;życiu każdego z&nbsp;nas.</p>
+                                <p>7. Duszpasterstwo Kobiet diecezji Sandomierskiej zaprasza wszystkie
+                                Panie na&nbsp;Mszę&nbsp;św. w&nbsp;ich intencji w&nbsp;najbliższy
+                                wtorek na&nbsp;godz.&nbsp;19.00 do&nbsp;kościoła św.&nbsp;Józefa
+                                w&nbsp;Sandomierzu, a&nbsp;po&nbsp;niej konferencja siostry psycholog
+                                Bożeny Ligięza pt.&nbsp;Jak budować udane relacje?</p>
+                                <p>Wszystkim życzymy radosnego Poniedziałku Wielkanocnego i&nbsp;całej
+                                Oktawy Wielkanocnej. Chrystus zmartwychwstał - prawdziwie
+                                zmartwychwstał. Alleluja.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 10.&nbsp;kwietnia 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
