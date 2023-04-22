@@ -1,18 +1,19 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            17.04. – 23.04.2023&nbsp;r.
+            24.04. – 30.04.2023&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>17&nbsp;kwietnia, Poniedziałek</b></td>
+            <td colspan="2" class="center"><b>24&nbsp;kwietnia, Poniedziałek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Piotra Pawłowskiego</td>
+            <td>Dziękczynno-błagalna o&nbsp;BB z&nbsp;okazji rocznicy
+            ślubu</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -20,40 +21,18 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Jarosława (+11), Genowefę Burków, Paulinę,
-            Mieczysława Ramusów</td>
+            <td>+ Edmunda Niewiadomskiego – 7&nbsp;r.&nbsp;śm.</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Mariannę Polak w&nbsp;r.&nbsp;śm., Jerzego, Janinę,
-            Mariana</td>
+            <td>+ Mariannę Kwiatkowską</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>18&nbsp;kwietnia, Wtorek</b></td>
+            <td colspan="2" class="center"><b>25&nbsp;kwietnia, Wtorek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>W&nbsp;int. dzieci i&nbsp;chrześniaków, i&nbsp;ich
-            rodzin, o&nbsp;BB, potrzebne łaski, opiekę MB</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Mieczysława Osmalę w&nbsp;r.&nbsp;śm.</td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Dariusza Jastrzębia</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>19&nbsp;kwietnia, Środa</b></td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>Adama Kowalskiego</td>
+            <td>O&nbsp;łaskę dobrej śmierci</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -65,15 +44,14 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Mieczysława (+13), Krystynę Dylów, Marię, Andrzeja
-            Styczniów</td>
+            <td>+ Kazimierza Włocha</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>20&nbsp;kwietnia, Czwartek</b></td>
+            <td colspan="2" class="center"><b>26&nbsp;kwietnia, Środa</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Roberta Peksę</td>
+            <td>+ Piotra Pawłowskiego</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -81,23 +59,19 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Mariannę, Tadeusza Musiałów, Helenę, Józefa
-            Prychocen</td>
+            <td>+ zm.&nbsp;z&nbsp;rodz. Dominików i&nbsp;Hałów</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Krystynę, Jerzego Wojciechowskich</td>
+            <td>+ Antonię, Władysława, zm.&nbsp;z&nbsp;rodz.
+            Materkowskich</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>21&nbsp;kwietnia, Piątek</b></td>
+            <td colspan="2" class="center"><b>27&nbsp;kwietnia, Czwartek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Piotra Wnuka</td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Jana, Justynę, Tadeusza</td>
+            <td>+ Piotra Pawłowskiego</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -105,14 +79,18 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Tadeusza Iwańskiego (+14)</td>
+            <td>+ Stanisława – w&nbsp;r.&nbsp;śm.</td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Stanisława Branię</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>22&nbsp;kwietnia, Sobota</b></td>
+            <td colspan="2" class="center"><b>28&nbsp;kwietnia, Piątek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Marię, Czesława Witków</td>
+            <td>+ Piotra Pawłowskiego</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -120,21 +98,47 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Wincentego Kołodzieja, Irenę, Tadeusza Kołaczów,
-            Marię Włoch, Juliannę, Wincentego Bulirów, Stanisława,
-            Stanisławę Woś</td>
+            <td>O&nbsp;łaskę zdrowia</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Kazimierza Dubiela</td>
+            <td>+ Zbigniewa Patynę</td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Włodzimierza Bartosika (10&nbsp;r.), Mariannę,
+            Romana Patynów</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>23&nbsp;kwietnia, Niedziela</b></td>
+            <td colspan="2" class="center"><b>29&nbsp;kwietnia, Sobota</b></td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Piotra Pawłowskiego</td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Annę Chwiałkowską</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Dariusza Jastrzębia</td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Dariusza Pietrasika</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td colspan="2" class="center"><b>30&nbsp;kwietnia,
+            IV&nbsp;Niedziela Wielkanocna</b></td>
         </tr>
         <tr>
             <td class="center">7.30</td>
-            <td>O&nbsp;BB, potrzebne łaski, opiekę MB dla Elżbiety
-            i&nbsp;Włodzimierza w&nbsp;50 r.&nbsp;ślubu</td>
+            <td>+ Mariannę, Eugeniusza Jedlińskich</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -142,8 +146,7 @@
         </tr>
         <tr>
             <td class="center">9.30</td>
-            <td>+ Aleksandrę, Dorotę, Jadwigę, Marię, Stanisławę,
-            Reginę</td>
+            <td>+ Ryszarda Kaczora (1&nbsp;r.&nbsp;śm.)</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -151,8 +154,7 @@
         </tr>
         <tr>
             <td class="center">11.15</td>
-            <td>O&nbsp;BB, potrzebne łaski, opiekę MB, dary
-            Ducha&nbsp;Św. dla rodziny Pacholczyków</td>
+            <td>Za&nbsp;parafian</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -160,7 +162,7 @@
         </tr>
         <tr>
             <td class="center">12.30</td>
-            <td>W&nbsp;intencji parafian</td>
+            <td>W&nbsp;intencji Panu Bogu wiadomej</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -168,8 +170,7 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Jerzego, Piotra, Alicję Bugalskich i&nbsp;zm.
-            z&nbsp;rodz.</td>
+            <td>+ Ryszarda (19&nbsp;r.&nbsp;śm.)</td>
         </tr>
     </tbody>
 </table>

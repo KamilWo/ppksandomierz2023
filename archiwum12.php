@@ -19,7 +19,224 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 16.&nbsp;kwietnia 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 23.&nbsp;kwietnia 2023&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    17.04. – 23.04.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>17&nbsp;kwietnia, Poniedziałek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Pawłowskiego</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Jarosława (+11), Genowefę Burków, Paulinę,
+                                    Mieczysława Ramusów</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mariannę Polak w&nbsp;r.&nbsp;śm., Jerzego, Janinę,
+                                    Mariana</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>18&nbsp;kwietnia, Wtorek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>W&nbsp;int. dzieci i&nbsp;chrześniaków, i&nbsp;ich
+                                    rodzin, o&nbsp;BB, potrzebne łaski, opiekę MB</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mieczysława Osmalę w&nbsp;r.&nbsp;śm.</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Dariusza Jastrzębia</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>19&nbsp;kwietnia, Środa</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>Adama Kowalskiego</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mariannę Surowiec</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mieczysława (+13), Krystynę Dylów, Marię, Andrzeja
+                                    Styczniów</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>20&nbsp;kwietnia, Czwartek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Roberta Peksę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mariannę, Tadeusza Musiałów, Helenę, Józefa
+                                    Prychocen</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Krystynę, Jerzego Wojciechowskich</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>21&nbsp;kwietnia, Piątek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Piotra Wnuka</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Jana, Justynę, Tadeusza</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Tadeusza Iwańskiego (+14)</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>22&nbsp;kwietnia, Sobota</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Marię, Czesława Witków</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Wincentego Kołodzieja, Irenę, Tadeusza Kołaczów,
+                                    Marię Włoch, Juliannę, Wincentego Bulirów, Stanisława,
+                                    Stanisławę Woś</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Kazimierza Dubiela</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>23&nbsp;kwietnia, Niedziela</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>O&nbsp;BB, potrzebne łaski, opiekę MB dla Elżbiety
+                                    i&nbsp;Włodzimierza w&nbsp;50 r.&nbsp;ślubu</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>+ Aleksandrę, Dorotę, Jadwigę, Marię, Stanisławę,
+                                    Reginę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>O&nbsp;BB, potrzebne łaski, opiekę MB, dary
+                                    Ducha&nbsp;Św. dla rodziny Pacholczyków</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>W&nbsp;intencji parafian</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Jerzego, Piotra, Alicję Bugalskich i&nbsp;zm.
+                                    z&nbsp;rodz.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>16.&nbsp;kwietnia 2023&nbsp;r.</h3>
+                                <h3>II&nbsp;Niedziela Wielkanocna – Niedziela Miłosierdzia
+                                Bożego, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Od&nbsp;dziś do&nbsp;soboty trwa Tydzień Miłosierdzia.
+                                W&nbsp;tym czasie szczególnie módlmy się „Koronką do&nbsp;Miłosierdzia
+                                Bożego”. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek
+                                na&nbsp;Caritas.</p>
+                                <p>2. Dziękujemy grupie dekoracyjnej za&nbsp;pracę przy demontażu
+                                dekoracji ciemnicy w&nbsp;naszym kościele parafialnym. Wszystkim
+                                serdeczne <em>Bóg zapłać</em>.</p>
+                                <p>3. Apostolat <strong>Margaretka</strong> Diecezji Sandomierskiej
+                                zaprasza na&nbsp;<strong>Godzinę Miłosierdzia</strong>, w&nbsp;czasie
+                                której modlić się będziemy w&nbsp;intencji kapłanów, która odbędzie
+                                się dziś o&nbsp;godzinie 15.00 w&nbsp;naszym parafialnym kościele.</p>
+                                <p>4. Zachęcamy do&nbsp;nabycia i&nbsp;lektury katolickiej prasy.
+                                Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
+                                <p>5. Księża Pallotyni zapraszają na&nbsp;Seminarium Odnowy Wiary –
+                                jest to&nbsp;seria cotygodniowych spotkań, prowadzonych przez
+                                wspólnotę <strong>Przyjaciele Oblubieńca</strong>. Spotkania rozpoczną
+                                się 19&nbsp;kwietnia o&nbsp;godz.&nbsp;19.00 w&nbsp;kościele Chrystusa
+                                Króla i&nbsp;będą kontynuowane w&nbsp;każdą środę. Mają służyć
+                                przebudzeniu wiary lub jej pogłębieniu, aby spotkać Boga działającego
+                                w&nbsp;życiu każdego z&nbsp;nas.</p>
+                                <p>6. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+                                ofiary na&nbsp;potrzeby parafii, przejawy szacunku i&nbsp;sympatii.
+                                Wszystkim życzymy błogosławionej Niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 16.&nbsp;kwietnia 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <h3 class="text-center">
                             W&nbsp;PONIEDZIAŁEK WIELKANOCNY<br>
