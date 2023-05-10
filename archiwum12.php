@@ -19,7 +19,260 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 30.&nbsp;kwietnia 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 7.&nbsp;maja 2023&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    01.05. – 07.05.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>1&nbsp;maja, Poniedziałek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Zygmunta Szczerowodę</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Bogusława Tetera</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Stanisława, Jana, Stanisława, Witolda, Mariana,
+                                    Krystynę, Mariana</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Dariusza Pietrasika</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>2&nbsp;maja, Wtorek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ zmarłych z&nbsp;rodziny Danuty i&nbsp;Ryszarda</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Marię Homę</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>Dziękczynno-błagalna o&nbsp;BB dla dzieci
+                                    i&nbsp;wnuczki</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>3&nbsp;maja, Środa</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>+ Jana, Józefę, Tadeusza i&nbsp;Leona</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>Za&nbsp;Ojczyznę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>+ Eleonorę, Jana Typków, zm.&nbsp;z&nbsp;rodz.
+                                    Żurawskich i&nbsp;Typków</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Zofię Opalę</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>4&nbsp;maja, Czwartek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>W&nbsp;int. Moniki z&nbsp;racji imienin – o&nbsp;BB,
+                                    opiekę MB, Dary Ducha Świętego</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Dariusza Jastrzębia</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Kazimierza Włocha</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>5&nbsp;maja, Piątek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>O&nbsp;świętość kapłanów i&nbsp;nowe powołania</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Antoniego, Helenę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Otolię i&nbsp;Czesława Ciachów</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>6&nbsp;maja, Sobota</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Stanisława Nawarę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Irenę Teter</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>Wynagradzająca za&nbsp;grzechy świata Niepokalanemu
+                                    Sercu Maryi</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>7&nbsp;maja,
+                                    V&nbsp;Niedziela Wielkanocna</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>+ Stanisława Pliżgę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>+ Krystynę Dyl</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>KŻR</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Genowefę, Stanisława Rusaków</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>30.&nbsp;kwietnia 2023&nbsp;r.</h3>
+                                <h3>IV&nbsp;Niedziela Wielkanocna, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Dziś w&nbsp;Kościele obchodzimy Niedzielę Dobrego Pasterza,
+                                która rozpoczyna Tydzień Modlitw o&nbsp;Powołania Kapłańskie, Zakonne
+                                i&nbsp;Misyjne. W&nbsp;naszej osobistej modlitwie powierzajmy Bogu
+                                te&nbsp;sprawy Kościoła.</p>
+                                <p>2. Przypominamy o&nbsp;obowiązku chrześcijanina - <em>Przynajmniej
+                                raz w&nbsp;roku przystąpić do&nbsp;sakramentu pokuty. Przynajmniej
+                                raz w&nbsp;roku, w&nbsp;okresie wielkanocnym, przyjąć Komunię
+                                Świętą</em>. Dlatego zadbajmy o&nbsp;nasze życie duchowe
+                                w&nbsp;jedności z&nbsp;Panem Bogiem. SPOWIEDŹ ŚWIĘTA CODZIENNIE PRZED
+                                MSZĄ ŚWIĘTĄ PORANNĄ ORAZ WIECZORNĄ OD&nbsp;GODZ.&nbsp;17.30 –
+                                17.50.</p>
+                                <p>3. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+                                Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
+                                <p>4. Nabożeństwa majowe w&nbsp;niedziele, święta i&nbsp;dni
+                                powszednie o&nbsp;godz.&nbsp;17.30.</p>
+                                <p>5. Jutro, tzw.&nbsp;Dzień Otwartej Furty w&nbsp;Wyższym Seminarium
+                                Duchownym w&nbsp;Sandomierzu, które zaprasza do&nbsp;udziału
+                                w&nbsp;tym wydarzeniu dzieci i&nbsp;młodzież z&nbsp;całej diecezji.
+                                Na&nbsp;program składają się Msza&nbsp;św. o&nbsp;godz.&nbsp;10.00
+                                i&nbsp;także niespodzianki, atrakcje i&nbsp;zabawy dla uczestników.
+                                Więcej informacji na&nbsp;plakacie w&nbsp;parafialnej gablocie.</p>
+                                <p>6. W&nbsp;środę - 3&nbsp;maja&nbsp;br. Uroczystość NMP Królowej
+                                Polski – niedzielny porządek Mszy&nbsp;św. w&nbsp;naszym kościele.</p>
+                                <p>7. W&nbsp;tym tygodniu Pierwszy Czwartek, Piątek i&nbsp;Pierwsza
+                                Sobota miesiąca. W&nbsp;Pierwszy Piątek miesiąca, spowiedź w&nbsp;tym
+                                dniu od&nbsp;godz.&nbsp;17.30.</p>
+                                <p>8. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+                                Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
+                                adoracja Najśw.&nbsp;Sakramentu połączona z&nbsp;modlitwą różańcową,
+                                którą poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii
+                                i&nbsp;zmiana tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej
+                                modlitwy.</p>
+                                <p>9. Przypominamy, że&nbsp;w&nbsp;kancelarii parafialnej przy
+                                wydawaniu dokumentów obowiązują zasady tzw.&nbsp;RODO.</p>
+                                <p>10. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc,
+                                składane ofiary na&nbsp;potrzeby parafii, za&nbsp;wszelką pomoc.
+                                Wszystkim życzymy błogosławionej Niedzieli.</p>
+                                <p>11. Spotkanie z&nbsp;kandydatami do&nbsp;przyjęcia Sakramentu
+                                Bierzmowania w&nbsp;najbliższą środę o&nbsp;godz.&nbsp;17.30,
+                                spowiedź&nbsp;św. dla tej młodzieży i&nbsp;jej rodziców oraz świadków;
+                                w&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.00.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 30.&nbsp;kwietnia 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
