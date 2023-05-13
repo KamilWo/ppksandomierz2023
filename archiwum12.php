@@ -1719,7 +1719,7 @@ include 'head.php';
                                 <h3>Wieczór uwielbienia - Siedem słów z Krzyża 25&nbsp;marca 2023&nbsp;r.</h3>
                             </div>
                             <div class="col">
-                                <img src="static/download/2023_03_25_wieczor_ubielbienia_siedem_slow_image0000001005.jpg"
+                                <img src="static/download/2023-03-25_wieczor_ubielbienia_siedem_slow_image0000001005.jpg"
                                      style="width: 100%;" />
                             </div>
                         </div>
@@ -2225,7 +2225,7 @@ include 'head.php';
                                 <h3>Droga Krzyżowa za kapłanów 17&nbsp;marca 2023&nbsp;r.</h3>
                             </div>
                             <div class="col">
-                                <img src="static/download/2023_03_17_Droga_krzyzowa_za_kaplanow_image0000001004.jpg"
+                                <img src="static/download/2023-03-17_Droga_krzyzowa_za_kaplanow_image0000001004.jpg"
                                      style="width: 100%;" />
                             </div>
                         </div>
