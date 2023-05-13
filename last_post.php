@@ -1,5 +1,18 @@
 <div class="card">
     <div class="card-header">
+        <h3>20.&nbsp;maja 2023&nbsp;r.</h3>
+        <h3>Majówka w&nbsp;intencji kapłanów 20&nbsp;maja
+        2023&nbsp;r.</h3>
+    </div>
+    <div class="col">
+        <img src="static/download/2023-05-20_Majowka_w_intencji_kaplanow_image0000001.jpg"
+             style="width: 100%;" />
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
         <h3>7.&nbsp;maja 2023&nbsp;r.</h3>
         <h3>V&nbsp;Niedziela Wielkanocna, Rok&nbsp;A</h3>
     </div>
