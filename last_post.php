@@ -13,33 +13,43 @@
 
 <div class="card">
     <div class="card-header">
-        <h3>7.&nbsp;maja 2023&nbsp;r.</h3>
-        <h3>V&nbsp;Niedziela Wielkanocna, Rok&nbsp;A</h3>
+        <h3>14.&nbsp;maja 2023&nbsp;r.</h3>
+        <h3>VI&nbsp;Niedziela Wielkanocna, Rok&nbsp;A</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy rodzicom dzieci, które przystąpią w&nbsp;tym roku
-        w&nbsp;naszej parafii do&nbsp;Pierwszej Komunii&nbsp;św.
-        za&nbsp;posprzątanie terenu wokół naszego kościoła parafialnego,
-        za&nbsp;posadzone kwiaty przy kościele. <em>Bóg zapłać</em>.</p>
-        <p>2. Słowa wdzięczności kierujemy do&nbsp;panów: Leszka Czajki
-        i&nbsp;Wacława Miszczaka, za&nbsp;wyczyszczenie ścian
-        z&nbsp;sodowego nalotu z&nbsp;wody, która płynęła po&nbsp;ścianie
-        prezbiterium z&nbsp;powodu nieszczelności kościelnego dachu.
-        <em>Bóg zapłać</em>.</p>
-        <p>3. Spotkanie z&nbsp;dziećmi przygotowującymi się do&nbsp;przyjęcia
-        Pierwszej Komunii&nbsp;św. i&nbsp;z&nbsp;ich rodzicami jutro
+        <p>1. Święto Wniebowstąpienia Pańskiego, przypadające
+        w&nbsp;czterdziesty dzień po&nbsp;Zmartwychwstaniu Pańskim
+        przeniesione na&nbsp;stałe na&nbsp;VII&nbsp;Niedzielę Wielkanocną.
+        Czyli za&nbsp;tydzień.</p>
+        <p>2. We&nbsp;wtorek (16&nbsp;maja) przypada święto św.&nbsp;Andrzeja
+        Boboli, kapłana męczennika, patrona Polski.</p>
+        <p>3. W&nbsp;najbliższy piątek rozpoczęcie nowenny przed uroczystością
+        Zesłania Ducha Świętego.</p>
+        <p>4. Spotkanie rodziców i&nbsp;dzieci przeżywających w&nbsp;tym roku
+        Pierwszą Rocznicę Pierwszej Komunii Świętej, odbędzie się
+        w&nbsp;najbliższy piątek, tj.&nbsp;19&nbsp;maja br.
         o&nbsp;godz.&nbsp;18.30.</p>
-        <p>4. Jutro 8&nbsp;maja uroczystość św.&nbsp;Stanisława Biskupa
-        Męczennika, głównego patrona Polski.</p>
-        <p>5. Spotkanie z&nbsp;kandydatami do&nbsp;przyjęcia Sakramentu
-        Bierzmowania w&nbsp;najbliższą piątek na&nbsp;17.30.</p>
-        <p>6. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
-        Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
-        <p>7. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+        <p>5. Apostolat Margaretka Diecezji Sandomierskiej serdecznie zaprasza
+        na&nbsp;Nabożeństwo Majowe w&nbsp;intencji kapłanów, które odbędzie
+        się w&nbsp;naszym kościele parafialnym dnia 20&nbsp;maja,
+        tj.&nbsp;w&nbsp;najbliższą sobotę.</p>
+        <p>6. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek
+        na&nbsp;Instytut Teologiczny w&nbsp;Sandomierzu.</p>
+        <p>7. Od&nbsp;czwartego czerwca br. będziemy przyjmować intencje
+        mszalne na&nbsp;2024 r.</p>
+        <p>8. W&nbsp;najbliższy piątek, jak w&nbsp;każdy trzeci piątek
+        miesiąca, zapraszamy na&nbsp;kolejne spotkanie ABS, czyli Akademii
+        Biblijnej w&nbsp;Sandomierzu; poprowadzi je&nbsp;wykładowca Pisma
+        Świętego, ks.&nbsp;Paweł Lasek. Temat tego spotkania: Dekalog
+        w&nbsp;Nowym Testamencie – czy jest ważny? Spotkanie będzie
+        w&nbsp;piątek, 19&nbsp;maja o&nbsp;godz.&nbsp;18.45, w&nbsp;auli
+        Wyższego Seminarium Duchownego, wejście przez furtę seminarium.
+        Serdecznie zapraszamy.</p>
+        <p>9. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
         ofiary na&nbsp;potrzeby parafii. Wszystkim życzymy błogosławionej
-        niedzieli.</p>
+        Niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 7.&nbsp;maja 2023&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 14.&nbsp;maja 2023&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
