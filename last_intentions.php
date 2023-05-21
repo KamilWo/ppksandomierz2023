@@ -1,23 +1,21 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            15.05. – 21.05.2023&nbsp;r.
+            22.05. – 28.05.2023&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>15&nbsp;maja, Poniedziałek</b></td>
+            <td colspan="2" class="center"><b>22&nbsp;maja, Poniedziałek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Zofię, Wincentego i&nbsp;zm.&nbsp;z&nbsp;rodz.&nbsp;Bryłów</td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Mariannę, Józefa Łatkowskich i&nbsp;zm.&nbsp;z&nbsp;rodz.&nbsp;Łatkowskich
-            i&nbsp;Długowolskich</td>
+            <td>O&nbsp;BB, potrzebne łaski, dary Ducha Świętego
+            na&nbsp;dalsze lata posługi kapłańskiej dla
+            ks.&nbsp;Łukasza i&nbsp;ks.&nbsp;Szczepana z&nbsp;okazji
+            rocznicy święceń</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -25,19 +23,19 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Zofię Strzemską</td>
+            <td>O&nbsp;BB, opiekę&nbsp;MB dla Wojciecha i&nbsp;całej
+            jego rodziny</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Józefa Szczębarę i&nbsp;zm.&nbsp;z&nbsp;rodz.&nbsp;Szczębarów,
-            Golców, Królów, Ostrowskich i&nbsp;dusze w&nbsp;c.c.</td>
+            <td>+ Stanisława Kozłowskiego w&nbsp;r.&nbsp;śm.</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>16&nbsp;maja, Wtorek</b></td>
+            <td colspan="2" class="center"><b>23&nbsp;maja, Wtorek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>W&nbsp;intencji dzieci i&nbsp;chrześniaków</td>
+            <td>+ Krystynę Walasek</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -45,22 +43,19 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Krzysztofa (+1), Elżbietę, Kazimierza Bajdów</td>
+            <td>+ Piotra Susa</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Zofię, Wacława Borcuch, Michalinę, Franciszka Irków</td>
+            <td>+ Piotra Pawłowskiego</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>17&nbsp;maja, Środa</b></td>
+            <td colspan="2" class="center"><b>24&nbsp;maja, Środa</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>O&nbsp;łaskę dobrej śmierci</td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Genowefę, Stanisława i&nbsp;zm.&nbsp;z&nbsp;rodz.</td>
+            <td>W&nbsp;int. Asi w&nbsp;dniu imienin, o&nbsp;BB,
+            potrzebne łaski, opiekę&nbsp;MB</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -68,19 +63,19 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Marię, Mieczysława, Danutę Śliwińskich,
-            i&nbsp;zm.&nbsp;z&nbsp;rodz. Kiliańczyków, Śliwińskich</td>
+            <td>+ Marię Stachowicz</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Mariannę Surowiec</td>
+            <td>+ Kazimierza Grządkowskiego w&nbsp;r.&nbsp;śm.,
+            Kazimierza Jarocha</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>18&nbsp;maja, Czwartek</b></td>
+            <td colspan="2" class="center"><b>25&nbsp;maja, Czwartek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Wacława, Jadwigę Wieczorków</td>
+            <td>+ Piotra Pawłowskiego</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -88,22 +83,24 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Tomasza Chlebnego w&nbsp;r.&nbsp;śm.</td>
+            <td>+ Pawła Grzesiaka (+3)</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Dariusza Pietrasika</td>
+            <td>+ Albinę Borkowską z&nbsp;racji dnia matki</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>19&nbsp;maja, Piątek</b></td>
+            <td colspan="2" class="center"><b>26&nbsp;maja, Piątek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Marka Mudynę</td>
+            <td>O&nbsp;BB, potrzebne łaski, dary DŚ na&nbsp;dalsze
+            lata posługi kapłańskiej dla ks.&nbsp;Damiana z&nbsp;racji
+            rocznicy święceń kapłańskich</td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Stefana, Pawła, Marię, Annę, Piotra</td>
+            <td>+ Marię Włoch</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -111,18 +108,18 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Ewę Marciniak (+1)</td>
+            <td>+ Mariannę, Eugeniusza Jedlińskich</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Dariusza Jastrzębia</td>
+            <td>+ Weronikę Błaszczyk</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>20&nbsp;maja, Sobota</b></td>
+            <td colspan="2" class="center"><b>27&nbsp;maja, Sobota</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Zygmunta Szczerwodę</td>
+            <td>+ Stanisława Komorowskiego (+24)</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -130,22 +127,19 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>W&nbsp;intencji wynagradzającej Panu Bogu
-            za&nbsp;grzechy aborcji i&nbsp;eutanazji</td>
+            <td>+ Piotra Pawłowskiego</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>Dzięk.-błag. o&nbsp;Miłosierdzie Boże, wiarę, nadzieję,
-            miłość, łaskę pokory, nawrócenia i&nbsp;uzdrowienia
-            w&nbsp;rodzinie</td>
+            <td>+ Piotra Pawłowskiego</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>21&nbsp;maja,
-            VII&nbsp;Niedziela Wielkanocna</b></td>
+            <td colspan="2" class="center"><b>28&nbsp;maja,
+            Niedziela Zesłania Ducha Świętego</b></td>
         </tr>
         <tr>
             <td class="center">7.30</td>
-            <td>+ Alicję Gilewską, Józefa, Stefanię Janusów</td>
+            <td>+ Edmunda, Zofię, Władysława Niewiadomskich</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -153,7 +147,7 @@
         </tr>
         <tr>
             <td class="center">9.30</td>
-            <td>+ Irenę, Edwarda Gachów</td>
+            <td>+ Anielę, Romualda, Pamelę, Aleksandra Kapisów</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -161,7 +155,7 @@
         </tr>
         <tr>
             <td class="center">11.15</td>
-            <td>Za&nbsp;parafian</td>
+            <td>+ Mariannę, Witolda Jaworskich</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -169,7 +163,7 @@
         </tr>
         <tr>
             <td class="center">12.30</td>
-            <td>W&nbsp;intencji Domowego Kościoła i&nbsp;ich rodzin</td>
+            <td><strong>I&nbsp;KOMUNIA ŚWIĘTA</strong></td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -177,7 +171,7 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Helenę, Antoniego Wrzosków, Andrzeja Sado</td>
+            <td>+ Zofię, Władysława Chrząstowskich</td>
         </tr>
     </tbody>
 </table>

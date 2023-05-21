@@ -19,7 +19,252 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 14.&nbsp;maja 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 21.&nbsp;maja 2023&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    15.05. – 21.05.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>15&nbsp;maja, Poniedziałek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Zofię, Wincentego i&nbsp;zm.&nbsp;z&nbsp;rodz.&nbsp;Bryłów</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Mariannę, Józefa Łatkowskich i&nbsp;zm.&nbsp;z&nbsp;rodz.&nbsp;Łatkowskich
+                                    i&nbsp;Długowolskich</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Zofię Strzemską</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Józefa Szczębarę i&nbsp;zm.&nbsp;z&nbsp;rodz.&nbsp;Szczębarów,
+                                    Golców, Królów, Ostrowskich i&nbsp;dusze w&nbsp;c.c.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>16&nbsp;maja, Wtorek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>W&nbsp;intencji dzieci i&nbsp;chrześniaków</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Krzysztofa (+1), Elżbietę, Kazimierza Bajdów</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Zofię, Wacława Borcuch, Michalinę, Franciszka Irków</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>17&nbsp;maja, Środa</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>O&nbsp;łaskę dobrej śmierci</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Genowefę, Stanisława i&nbsp;zm.&nbsp;z&nbsp;rodz.</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Marię, Mieczysława, Danutę Śliwińskich,
+                                    i&nbsp;zm.&nbsp;z&nbsp;rodz. Kiliańczyków, Śliwińskich</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mariannę Surowiec</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>18&nbsp;maja, Czwartek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Wacława, Jadwigę Wieczorków</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Tomasza Chlebnego w&nbsp;r.&nbsp;śm.</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Dariusza Pietrasika</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>19&nbsp;maja, Piątek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Marka Mudynę</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Stefana, Pawła, Marię, Annę, Piotra</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Ewę Marciniak (+1)</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Dariusza Jastrzębia</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>20&nbsp;maja, Sobota</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Zygmunta Szczerwodę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>W&nbsp;intencji wynagradzającej Panu Bogu
+                                    za&nbsp;grzechy aborcji i&nbsp;eutanazji</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>Dzięk.-błag. o&nbsp;Miłosierdzie Boże, wiarę, nadzieję,
+                                    miłość, łaskę pokory, nawrócenia i&nbsp;uzdrowienia
+                                    w&nbsp;rodzinie</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>21&nbsp;maja,
+                                    VII&nbsp;Niedziela Wielkanocna</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>+ Alicję Gilewską, Józefa, Stefanię Janusów</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>+ Irenę, Edwarda Gachów</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>W&nbsp;intencji Domowego Kościoła i&nbsp;ich rodzin</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Helenę, Antoniego Wrzosków, Andrzeja Sado</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>20.&nbsp;maja 2023&nbsp;r.</h3>
+                                <h3>Majówka w&nbsp;intencji kapłanów 20&nbsp;maja
+                                2023&nbsp;r.</h3>
+                            </div>
+                            <div class="col">
+                                <img src="static/download/2023-05-20_Majowka_w_intencji_kaplanow_image0000001.jpg"
+                                     style="width: 100%;" />
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>14.&nbsp;maja 2023&nbsp;r.</h3>
+                                <h3>VI&nbsp;Niedziela Wielkanocna, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Święto Wniebowstąpienia Pańskiego, przypadające
+                                w&nbsp;czterdziesty dzień po&nbsp;Zmartwychwstaniu Pańskim
+                                przeniesione na&nbsp;stałe na&nbsp;VII&nbsp;Niedzielę Wielkanocną.
+                                Czyli za&nbsp;tydzień.</p>
+                                <p>2. We&nbsp;wtorek (16&nbsp;maja) przypada święto św.&nbsp;Andrzeja
+                                Boboli, kapłana męczennika, patrona Polski.</p>
+                                <p>3. W&nbsp;najbliższy piątek rozpoczęcie nowenny przed uroczystością
+                                Zesłania Ducha Świętego.</p>
+                                <p>4. Spotkanie rodziców i&nbsp;dzieci przeżywających w&nbsp;tym roku
+                                Pierwszą Rocznicę Pierwszej Komunii Świętej, odbędzie się
+                                w&nbsp;najbliższy piątek, tj.&nbsp;19&nbsp;maja br.
+                                o&nbsp;godz.&nbsp;18.30.</p>
+                                <p>5. Apostolat Margaretka Diecezji Sandomierskiej serdecznie zaprasza
+                                na&nbsp;Nabożeństwo Majowe w&nbsp;intencji kapłanów, które odbędzie
+                                się w&nbsp;naszym kościele parafialnym dnia 20&nbsp;maja,
+                                tj.&nbsp;w&nbsp;najbliższą sobotę.</p>
+                                <p>6. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek
+                                na&nbsp;Instytut Teologiczny w&nbsp;Sandomierzu.</p>
+                                <p>7. Od&nbsp;czwartego czerwca br. będziemy przyjmować intencje
+                                mszalne na&nbsp;2024 r.</p>
+                                <p>8. W&nbsp;najbliższy piątek, jak w&nbsp;każdy trzeci piątek
+                                miesiąca, zapraszamy na&nbsp;kolejne spotkanie ABS, czyli Akademii
+                                Biblijnej w&nbsp;Sandomierzu; poprowadzi je&nbsp;wykładowca Pisma
+                                Świętego, ks.&nbsp;Paweł Lasek. Temat tego spotkania: Dekalog
+                                w&nbsp;Nowym Testamencie – czy jest ważny? Spotkanie będzie
+                                w&nbsp;piątek, 19&nbsp;maja o&nbsp;godz.&nbsp;18.45, w&nbsp;auli
+                                Wyższego Seminarium Duchownego, wejście przez furtę seminarium.
+                                Serdecznie zapraszamy.</p>
+                                <p>9. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+                                ofiary na&nbsp;potrzeby parafii. Wszystkim życzymy błogosławionej
+                                Niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 14.&nbsp;maja 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
