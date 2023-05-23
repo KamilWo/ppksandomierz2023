@@ -1,5 +1,18 @@
 <div class="card">
     <div class="card-header">
+        <h3>27.&nbsp;maja 2023&nbsp;r.</h3>
+        <h3>Wieczór Uwielbienia Duchu Święty przyjdź 27&nbsp;maja
+        2023&nbsp;r.</h3>
+    </div>
+    <div class="col">
+        <img src="static/download/2023-05-27_wieczor_uwielbienia_Duchu_Święty_przyjdź.jpg"
+             style="width: 100%;" />
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
         <h3>21.&nbsp;maja 2023&nbsp;r.</h3>
         <h3>VII&nbsp;Niedziela Wielkanocna, Rok&nbsp;A</h3>
         <h3>Uroczystość Wniebowstąpienia Pańskiego</h3>
