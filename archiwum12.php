@@ -19,7 +19,262 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 28.&nbsp;maja 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 4.&nbsp;czerwca 2023&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    29.05. – 04.06.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>29&nbsp;maja, Poniedziałek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Teodozję, Zdzisława Dudków i&nbsp;zm. z&nbsp;rodz.
+                                    oraz dusze w&nbsp;c.c.</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Janusza Nawrota (+17)</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Zofię i&nbsp;zm. z&nbsp;rodz. Żubrynowiczów,
+                                    Gradzińskich, Chałupczaków</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Roberta Peksę</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>30&nbsp;maja, Wtorek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Grzegorza Pęgielskiego</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Stefanię, Adama Osuchów, Sławomira, Kazimierę,
+                                    Stanisława Rykowskich</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Zygmunta Szczerwodę</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>31&nbsp;maja, Środa</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Krystynę Wziątek i&nbsp;zm. z&nbsp;rodz. Chorabów,
+                                    Andrzeja Wołczyńskiego</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>O&nbsp;BB, potrzebne łaski, opiekę MB, dary DŚ dla
+                                    Jakuba Tarkowskieo z&nbsp;okazji 18.&nbsp;urodzin</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Tomasza Szyprowskiego</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Witolda Rybę (+5)</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>1&nbsp;czerwca, Czwartek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>O&nbsp;świętość kapłanów i&nbsp;o&nbsp;nowe
+                                    powołania</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Stanisławę, Jana, Stanisława, Witolda, Mariana,
+                                    Krystynę, Mariana</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Piotra Pawłowskiego</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>2&nbsp;czerwca, Piątek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>W&nbsp;int. dzieci i&nbsp;chrześniaków</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Zbigniewa Kamińskiego (+8), Ludwikę, Jana
+                                    Kamińskich</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Dariusza Pietrasika</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>3&nbsp;czerwca, Sobota</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Zdzisława Śledzia (+15)</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Mieczysława Świerkula</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>Wynagradzająca Niepokalanemu Sercu Maryi
+                                    za&nbsp;grzechy świata</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Ludwikę Szczębara, zm.&nbsp;z&nbsp;rodz. Szczębarów,
+                                    Królów, Ostrowskich i&nbsp;dusze w&nbsp;c.c.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>4&nbsp;czerwca,
+                                    Niedziela Trójcy Świętej</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>W&nbsp;int. parafian</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>+ Mariannę, Kazimierza Kieszkowskich i&nbsp;zm.
+                                    z&nbsp;rodz. Kieszkowskich, Nizielskich</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>K.Ż.R. – zelatorki Teresa Borkowska</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td><strong>ROCZNICA I&nbsp;KOMUNII ŚWIĘTEJ</strong></td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mieczysława, Helenę, Jana Wnuków, Katarzynę,
+                                    Stanisława Wyrzykowskich, Tadeusza Judę, Piotra
+                                    Bogdańskiego</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>28.&nbsp;maja 2023&nbsp;r.</h3>
+                                <h3>Uroczystość Zesłania Ducha Świętego, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej -
+                                „Niedziela”, „Gość Niedzielny”, dla dzieci nowy numer „Małego Gościa”.
+                                Jest nowy ciekawy kolorowy magazyn - Kościół, dziedzictwo, Ojczyzna,
+                                dla wszystkich, którym bliska jest tematyka historyczna, szczególnie
+                                z&nbsp;zakresu historii Kościoła i&nbsp;jego związków z&nbsp;narodem.
+                                – cena 15&nbsp;zł.</p>
+                                <p>2. Nabożeństwo czerwcowe bezpośrednio po&nbsp;Mszy&nbsp;św.
+                                wieczornej przez wszystkie dni miesiąca czerwca.</p>
+                                <p>3. Dnia 17&nbsp;czerwca o&nbsp;godz.&nbsp;15.00 na&nbsp;zamku
+                                Krzyżtopór w&nbsp;Ujeździe odbędzie się wręczenie Nagrody Diecezjalnej
+                                "Arbor Bona" oraz koncert Krzysztofa Antkowiaka. Zapraszamy wiernych
+                                do&nbsp;udziału w&nbsp;tym wydarzeniu, na&nbsp;które wstęp jest
+                                bezpłatny.</p>
+                                <p>4. Spotkanie z&nbsp;dziećmi, które były w&nbsp;zeszłym roku
+                                u&nbsp;Pierwszej Komunii&nbsp;św. i&nbsp;z&nbsp;ich rodzicami;
+                                w&nbsp;naszym kościele jutro o&nbsp;godz.&nbsp;18.30.
+                                W&nbsp;najbliższy piątek, kolejne spotkanie dzieci rocznicowych
+                                o&nbsp;godz.&nbsp;16.00, a&nbsp;potem Spowiedź&nbsp;św. dzieci
+                                i&nbsp;ich rodziców od&nbsp;godz.&nbsp;17.00.</p>
+                                <p>5. W&nbsp;przyszłą niedzielę zbiórka do&nbsp;puszek
+                                na&nbsp;Świątynię Opatrzności Bożej w&nbsp;ramach Dnia
+                                Dziękczynienia.</p>
+                                <p>6. W&nbsp;tym tygodniu Pierwszy czwartek, piątek, sobota miesiąca.
+                                W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
+                                od&nbsp;godz.&nbsp;17.00.</p>
+                                <p>7. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15. – nabożeństwo
+                                Różańcowe poprowadzi Legion Maryi z&nbsp;naszej parafii.</p>
+                                <p>8. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+                                Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
+                                adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
+                                poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
+                                tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
+                                <p>9. W&nbsp;przyszłą niedzielę tradycyjnie zbiórka do&nbsp;puszek
+                                na&nbsp;Świątynie Opatrzności Bożej w&nbsp;ramach Dnia
+                                Dziękczynienia.</p>
+                                <p>10. Jutro Święto Matki Kościoła – Msze&nbsp;św. w&nbsp;tym dniu
+                                Msze&nbsp;św. o&nbsp;6.30 i&nbsp;o&nbsp;18.00,
+                                a&nbsp;w&nbsp;najbliższy czwartek Święto Jezusa Chrystusa Najwyższego
+                                i&nbsp;Wiecznego Kapłana – modlimy się w&nbsp;tym dniu
+                                o&nbsp;powołania i&nbsp;za&nbsp;kapłanów.</p>
+                                <p>11. Od&nbsp;czwartego czerwca br., tj.&nbsp;od&nbsp;przyszłej
+                                niedzieli będziemy przyjmować intencje mszalne na&nbsp;2024&nbsp;r.</p>
+                                <p>12. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
+                                za&nbsp;wszelką pomoc i&nbsp;ofiary na&nbsp;rzecz naszej parafii.
+                                Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+                                urodziny, inne rocznice, składamy najlepsze życzenia
+                                z&nbsp;kapłańskim błogosławieństwem.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 28.&nbsp;maja 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
