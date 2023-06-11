@@ -1,55 +1,83 @@
 <div class="card">
     <div class="card-header">
-        <h3>4.&nbsp;czerwca 2023&nbsp;r.</h3>
-        <h3>IX&nbsp;Niedziela Zwykła, Rok&nbsp;A</h3>
-        <h3>Uroczystość Najświętszej Trójcy</h3>
+        <h3>17.&nbsp;czerwca 2023&nbsp;r.</h3>
+        <h3>Diecezjalne Spotkanie Apostolatu Margaretka 17&nbsp;czerwca
+        2023&nbsp;r.</h3>
     </div>
     <div class="col">
-        <p>1. Dziękujemy rodzicom tegorocznych dzieci pierwszokomunijnym
-        za&nbsp;posprzątanie kościoła, wykonanie kwiatowej dekoracji
-        na&nbsp;uroczystości oraz za&nbsp;złożoną ofiarę na&nbsp;potrzeby
-        parafii w&nbsp;wysokości 3&nbsp;tysięcy&nbsp;zł, na&nbsp;zakup nowej
-        monstrancji. Słowa wdzięczności wyrażamy także rodzicom dzieci, które
-        dziś obchodzą rocznicę Pierwszej Komunii&nbsp;św., którzy ofiarowali
-        1000&nbsp;zł na&nbsp;potrzeby parafii. Wszystkim <em>Bóg
-        zapłać</em>.</p>
-        <p>2. Uroczystość Najświętszego Ciała i&nbsp;Krwi Pańskiej
-        08&nbsp;czerwca&nbsp;br. w&nbsp;najbliższy czwartek. Rozpoczęcie,
-        tradycyjnie Mszą Świętą o&nbsp;godzinie 9.30 w&nbsp;naszym kościele
-        parafialnym, pod przewodnictwem Księdza Biskupa Edwarda Frankowskiego,
-        z&nbsp;udziałem kapłanów z&nbsp;miasta Sandomierza. Następnie procesja
-        Eucharystyczna ul.&nbsp;Mickiewicza do&nbsp;4&nbsp;ołtarzy.
-        Zakończenie i&nbsp;rozwiązanie procesji przy Wyższym Seminarium
-        Duchownym. Nasza parafia przygotowuje pierwszy ołtarz na&nbsp;trasie
-        procesji. Zapraszamy katolickie organizacje i&nbsp;wspólnoty,
-        wszystkich do&nbsp;wspólnej modlitwy. Dzieci w&nbsp;białych strojach
-        zapraszamy do&nbsp;sypania kwiatów.</p>
-        <p>3. Dziś zbiórka do&nbsp;puszek na&nbsp;Świątynię Opatrzności Bożej
-        w&nbsp;ramach Dnia Dziękczynienia.</p>
-        <p>4. Dnia 17&nbsp;czerwca, tj.&nbsp;w&nbsp;przyszłą sobotę
+        <img src="static/download/2023-06-17_Diecezjalne_Spotkanie_Apostolatu_Margaretka_image0000001.jpg"
+             style="width: 100%;" />
+    </div>
+</div>
+<br>
+
+<div class="card">
+    <div class="card-header">
+        <h3>11.&nbsp;czerwca 2023&nbsp;r.</h3>
+        <h3>X&nbsp;Niedziela Zwykła, Rok&nbsp;A</h3>
+    </div>
+    <div class="col">
+        <p>1. Dwunastego czerwca, tj.&nbsp;w&nbsp;poniedziałek przypada
+        rocznica wizyty apostolskiej św.&nbsp;Jana Pawła&nbsp;II
+        w&nbsp;Sandomierzu w&nbsp;1999 roku. W&nbsp;katedrze sandomierskiej
+        o&nbsp;godz.&nbsp;17.30 wspólna modlitwa dziękczynna, na&nbsp;którą
+        zapraszamy parafian.</p>
+        <p>2. Trzynastego czerwca rocznica nominacji
+        ks.&nbsp;dr&nbsp;Krzysztofa Nitkiewicza na&nbsp;Biskupa
+        Sandomierskiego w&nbsp;2009 roku, jest okazją do&nbsp;modlitwy
+        w&nbsp;intencji Pasterza Kościoła Sandomierskiego.</p>
+        <p>3. W&nbsp;czwartek zakończenie oktawy Bożego Ciała. Poświęcenie
+        wianków i&nbsp;błogosławieństwo dzieci na&nbsp;zakończenie nabożeństwa
+        eucharystycznego, które będzie po&nbsp;Mszy&nbsp;św.
+        o&nbsp;godz.&nbsp;18.00.</p>
+        <p>4. W&nbsp;najbliższy piątek Uroczystość Najświętszego Serca Pana
+        Jezusa – Dzień Modlitw o&nbsp;Świętość Kapłanów (nie obowiązuje
+        wstrzemięźliwość od&nbsp;pokarmów mięsnych).</p>
+        <p>5. Serdecznie zapraszamy wszystkich chętnych
+        na&nbsp;I&nbsp;Diecezjalne Spotkanie Apostolatu Margaretka, podczas
+        którego będziemy modlić się w&nbsp;intencji kapłanów. Spotkanie
+        odbędzie się w&nbsp;naszej parafii w&nbsp;najbliższą sobotę. Plan
+        spotkania na&nbsp;plakacie w&nbsp;gablotce.</p>
+        <p>6. Prasa katolicka do&nbsp;nabycia na&nbsp;stoliku pod chórem.
+        Polecamy.</p>
+        <p>7. W&nbsp;najbliższy piątek, jak w&nbsp;każdy trzeci piątek
+        miesiąca, zapraszamy na&nbsp;kolejne spotkanie ABS czyli Akademii
+        Biblijnej w&nbsp;Sandomierzu, ostatnie przed przerwą wakacyjną;
+        poprowadzi je&nbsp;wykładowca Pisma świętego, ks.&nbsp;Paweł Lasek.
+        Tematem tego spotkania będzie: Świątynia w&nbsp;Jerozolimie, jej
+        historia znaczenie i&nbsp;to&nbsp;czy zostanie odbudowana. Spotkanie
+        będzie w&nbsp;piątek, 16&nbsp;czerwca o&nbsp;godz.&nbsp;18.45,
+        w&nbsp;auli Wyższego Seminarium Duchownego. Serdecznie zapraszamy!</p>
+        <p>8. Jesteśmy wdzięczni parafianom za&nbsp;przygotowaniem pięknego
+        ołtarza na&nbsp;Uroczystość Bożego Ciała w&nbsp;tym roku, dzieciom
+        sypiącym kwiatki, niosącym chorągwie. Panu Andrzejowi Anwajlerowi
+        za&nbsp;przygotowanie nagłośnienia procesji, Panu Aleksandrowi
+        Stąporowi z&nbsp;firmy pogrzebowej, za&nbsp;skierowanie czterech
+        pracowników do&nbsp;niesienia tub nagłaśniających w&nbsp;czasie
+        procesji. Wyrażamy podziękowanie Panu Tadeuszowi Wożniakowi
+        za&nbsp;pomoc, wszystkim, którzy w&nbsp;jakikolwiek sposób przyczynili
+        się do&nbsp;tego, że&nbsp;mogliśmy przeżyć to&nbsp;święto godnie
+        i&nbsp;pobożnie. <em>Bóg zapłać</em>. Także wszystkim parafianom,
+        którzy wzięli udział w&nbsp;tej Uroczystości bardzo dziękujemy.</p>
+        <p>9. Uroczysta Msza&nbsp;św. odpustowa ku&nbsp;czci św.&nbsp;Brata
+        Alberta Chmielowskiego w&nbsp;najbliższą sobotę
+        o&nbsp;godz.&nbsp;18.00, w&nbsp;czasie której ks.&nbsp;biskup Edward
+        Frankowski udzieli młodzieży z&nbsp;naszej parafii sakrament
+        bierzmowania. Spowiedź&nbsp;św. dla tej młodzieży, świadków
+        bierzmowania i&nbsp;rodziców w&nbsp;najbliższy piątek
+        o&nbsp;godz.&nbsp;17.00.</p>
+        <p>10. Dnia 17&nbsp;czerwca, tj.&nbsp;w&nbsp;sobotę
         o&nbsp;godz.&nbsp;15.00 na&nbsp;zamku Krzyżtopór w&nbsp;Ujeździe
         odbędzie się wręczenie Nagrody Diecezjalnej "Arbor Bona" oraz koncert
         Krzysztofa Antkowiaka. Zapraszamy wiernych do&nbsp;udziału w&nbsp;tym
         wydarzeniu, na&nbsp;które wstęp jest bezpłatny. Wyjazd autokarem
-        w&nbsp;sobotę o&nbsp;godz.&nbsp;13.30. z&nbsp;przystanku przy naszym
-        kościele. Prosimy o&nbsp;zgłoszenie się do&nbsp;najbliższego piątku
-        przynajmniej 10&nbsp;osób chętnych do&nbsp;wyjazdu, a&nbsp;koszt
-        podróży 10&nbsp;zł od&nbsp;osoby. Zapisujemy w&nbsp;zakrystii.</p>
-        <p>5. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
-        Gazety są&nbsp;na&nbsp;stoliku pod chórem.</p>
-        <p>6. W&nbsp;sobotę, 10&nbsp;czerwca&nbsp;br. odbędzie się
-        XIV&nbsp;Sandomierski Rajd Papieski. Tym razem trasa powiedzie
-        z&nbsp;Sandomierza przez Radoszki, Pęczyny, Pielaszów, Malice
-        Kościelne do &nbsp;Karwowa. Rajd wystartuje z&nbsp;Rynku Starego
-        Miasta o&nbsp;godz.&nbsp;9.00. Biuro organizacyjne Rajdu będzie
-        czynne od&nbsp;8:00 do&nbsp;8:45 /Rynek Starego Miasta
-        w&nbsp;Sandomierzu/.<br>
-        Zakończenie Rajdu w&nbsp;Karwowie ok.&nbsp;godz.&nbsp;13.00.</p>
-        <p>7. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+        w&nbsp;sobotę o&nbsp;godz.&nbsp;13.30, z&nbsp;przystanku przy naszym
+        kościele.</p>
+        <p>11. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
         ofiary na&nbsp;potrzeby parafii. Wszystkim życzymy błogosławionej
         Niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 4.&nbsp;czerwca 2023&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 11.&nbsp;czerwca 2023&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks. proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
