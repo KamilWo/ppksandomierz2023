@@ -1,34 +1,14 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            12.06. – 18.06.2023&nbsp;r.
+            19.06. – 25.06.2023&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>12&nbsp;czerwca, Poniedziałek</b></td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Mieczysława, Janinę Kędzierskich i&nbsp;zm.
-            z&nbsp;rodz.</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Jana Ozdobę (+1)</td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Anielę, Antoniego Gospodarczyka</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>13&nbsp;czerwca, Wtorek</b></td>
+            <td colspan="2" class="center"><b>19&nbsp;czerwca, Poniedziałek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
@@ -40,20 +20,22 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>W&nbsp;int. osób uzależnionych i&nbsp;ich rodzin
-            o&nbsp;łaskę uzdrowienia i&nbsp;wyzwolenia</td>
+            <td>O&nbsp;BB, potrzebne łaski, opiekę MB&nbsp;dla Joanny
+            i&nbsp;Jarosława z&nbsp;racji 30&nbsp;r.&nbsp;ślubu -
+            dzięk.-błag.</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Marię, Władysława, Czesława Barańskich, Andrzeja
-            Krawczyka</td>
+            <td>+ Piotra Pawłowskiego</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>14&nbsp;czerwca, Środa</b></td>
+            <td colspan="2" class="center"><b>20&nbsp;czerwca, Wtorek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>Dzięk.-błag. za&nbsp;łaskę uzdrowienia</td>
+            <td>W&nbsp;int. Asi i&nbsp;Daniela
+            w&nbsp;3&nbsp;r.&nbsp;ślubu, o&nbsp;BB, potrzebne łaski,
+            opiekę MB</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -61,19 +43,18 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Barbarę, Stanisława Stańków, Andrzeja
-            Stroińskiego</td>
+            <td>+ Mieczysława Chmiela (+3)</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
             <td>+ Mieczysława Świerkulę</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>15&nbsp;czerwca, Czwartek</b></td>
+            <td colspan="2" class="center"><b>21&nbsp;czerwca, Środa</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Kazimierza Włocha</td>
+            <td>+ Izabelę Socha</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -81,20 +62,18 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>W&nbsp;int. wynagradzającej Panu Bogu za&nbsp;grzechy
-            aborcji i&nbsp;eutanazji</td>
+            <td>+ Dariusza Jastrzębia</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Dariusza Pietrasika</td>
+            <td>+ Zygmunta, Urszulę i&nbsp;zm. z&nbsp;rodz.</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>16&nbsp;czerwca, Piątek</b></td>
+            <td colspan="2" class="center"><b>22&nbsp;czerwca, Czwartek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Barbarę, Bronisława Webrów, Mariusza Skubidę
-            w&nbsp;r.&nbsp;śm. i&nbsp;zm. z&nbsp;rodz.</td>
+            <td>+ Zbigniewa Dębickiego</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -102,28 +81,31 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Marka Stefaniaka</td>
+            <td>+ Sławomira Rykowskiego w&nbsp;r.&nbsp;śm.</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Mieczysława Świerkulę</td>
+            <td>+ Włodzimierza, Stanisława, Karolinę Bartosików, Mariannę, Romana Patynów</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>17&nbsp;czerwca, Sobota,
-            UROCZYSTOŚĆ ODPUSTOWA</b></td>
+            <td colspan="2" class="center"><b>23&nbsp;czerwca, Piątek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Stanisława Nawarę, Michalinę, Józefa Strawczyńskich
-            i&nbsp;zm. z&nbsp;rodz.</td>
+            <td>+ Zdzisława, zm.&nbsp;z&nbsp;rodz., dusze
+            w&nbsp;c.&nbsp;c.</td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Jana Radzimowskiego</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
             <td></td>
         </tr>
         <tr>
-            <td class="center">9.00</td>
-            <td>+ Ewę (+1), Henryka Marciniaków</td>
+            <td class="center">8.00</td>
+            <td><strong>ZAKOŃCZENIE ROKU SZKOLNEGO</strong></td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -131,24 +113,42 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td><strong>W&nbsp;intencji Parafian – SUMA ODPUSTOWA
-            – BIERZMOWANIE</strong></td>
+            <td>O&nbsp;BB, potrzebne łaski, opiekę MB&nbsp;dla
+            Wojciecha Fularskiego i&nbsp;jego całej rodziny</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Emilię Rosińską</td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Mariannę, Franciszka, Henryka Banasiewiczów,
-            Stanisławę Pasik</td>
+            <td>+ Henryka Semprucha</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>18&nbsp;czerwca, Niedziela</b></td>
+            <td colspan="2" class="center"><b>24&nbsp;czerwca, Sobota</b></td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Jana Potrząsaja</td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Jana Chmiela</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Henryka Semprucha (+2)</td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Jana</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td colspan="2" class="center"><b>25&nbsp;czerwca, Niedziela</b></td>
         </tr>
         <tr>
             <td class="center">7.30</td>
-            <td>+ Alicję Gilewską, Józefa, Stefanię Janusów</td>
+            <td>+ Henryka Stefańskiego w&nbsp;r.&nbsp;śm.</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -156,7 +156,7 @@
         </tr>
         <tr>
             <td class="center">9.30</td>
-            <td>+ Alicję Przyłucką, Zygmunta, Annę Stylskich</td>
+            <td>+ Mariannę Brzyszcz</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -164,7 +164,7 @@
         </tr>
         <tr>
             <td class="center">11.15</td>
-            <td>W&nbsp;intencji Parafian</td>
+            <td>+ Zofię, Władysława Libickich</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -172,8 +172,7 @@
         </tr>
         <tr>
             <td class="center">12.30</td>
-            <td>W&nbsp;intencji Domowego Kościoła i&nbsp;ich
-            rodzin</td>
+            <td>W&nbsp;intencji Parafian</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -181,9 +180,7 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>Dzięk.-błag. o&nbsp;Miłosierdzie Boże, wiarę,
-            nadzieję i&nbsp;miłość, łaskę pokory, nawrócenia
-            i&nbsp;uzdrowienia w&nbsp;rodzinnie</td>
+            <td>+ Przemysława Kukiełkę i&nbsp;zm. z&nbsp;rodz.</td>
         </tr>
     </tbody>
 </table>
