@@ -1,34 +1,14 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            26.06. – 02.07.2023&nbsp;r.
+            03.07. – 09.07.2023&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>26&nbsp;czerwca, Poniedziałek</b></td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Izabelę Socha</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Ewę Wrzosek (+24), Bartłomieja, Jana, Teresę,
-            Janinę</td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Stanisława Barana w&nbsp;m-c po&nbsp;śmierci</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>27&nbsp;czerwca, Wtorek</b></td>
+            <td colspan="2" class="center"><b>3&nbsp;lipca, Poniedziałek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
@@ -40,15 +20,14 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Józefę, Andrzeja Szmajdów, Mariannę, Jana Serafinów
-            i&nbsp;zm. z&nbsp;rodz.</td>
+            <td>+ Czesława Szymańskiego, Krystynę Pycior</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>28&nbsp;czerwca, Środa</b></td>
+            <td colspan="2" class="center"><b>4&nbsp;lipca, Wtorek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Grzegorza Pęgielskiego</td>
+            <td>+ Izabelę Sochę</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -56,25 +35,18 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Jana Makowskiego (+5), Klarę, Jana, Ryszarda
-            Chrząstkowskich</td>
+            <td>+ Lecha Króla</td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Jana i&nbsp;Andrzeja Popków</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>29&nbsp;czerwca, Czwartek
-            – UROCZYSTOŚĆ PIOTRA I&nbsp;PAWŁA</b></td>
+            <td colspan="2" class="center"><b>5&nbsp;lipca, Środa</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Dariusza Pietrasika</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">9.00</td>
-            <td>Dzięk.-błag, o&nbsp;BB, potrzebne łaski, opiekę MB
-            dla Kasi</td>
+            <td>W&nbsp;int. dzieci i&nbsp;chrześniaków</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -82,21 +54,18 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>O&nbsp;BB, potrzebne łaski, dary DŚ. na&nbsp;dalsze
-            lata kapłańskiej posługi dla ks.&nbsp;Piotra z&nbsp;okazji
-            imienin</td>
+            <td>+ Piotra Pawłowskiego</td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Henryka Króla, zm.&nbsp;z&nbsp;rodz. Królów,
-            Ostrowskich, Szczębarów, Golców, dusze w&nbsp;c.c.</td>
+            <td>+ Aleksandrę Ciamagę</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>30&nbsp;czerwca, Piątek</b></td>
+            <td colspan="2" class="center"><b>6&nbsp;lipca, Czwartek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Izabelę Socha</td>
+            <td>O&nbsp;świętość kapłanów i&nbsp;owe powołania</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -104,23 +73,14 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Zofię Smolińską (+7)</td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Mariannę, Mieczysława, Józefa i&nbsp;zm.
-            z&nbsp;rodz.</td>
+            <td>+ Zofię, Henryka, Krystiana Kucwajów</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>1&nbsp;lipca, Sobota</b></td>
+            <td colspan="2" class="center"><b>7&nbsp;lipca, Piątek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Halinę Hagdej</td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Weronikę (+13), Krzysztofa (+2) Paluchów</td>
+            <td>+ Leokadię Wnuk (12&nbsp;rocz.)</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -128,20 +88,30 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Stanisława, Jana, Stanisława, Witolda, Mariana,
-            Krystynę, Mariana</td>
+            <td>+ Janusza Tworowskiego (1&nbsp;rocz.)</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td colspan="2" class="center"><b>8&nbsp;lipca, Sobota</b></td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Andrzeja i&nbsp;Geowefę Tosiów</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Marię, Antoniego Lasotów, Władysławę, Michalinę,
-            Wojciecha Politów</td>
+            <td>+ Józefę Marzec (13&nbsp;rocz.), Jana Marzec,
+            Ryszarda Pietruszkę</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>2&nbsp;lipca, Niedziela</b></td>
+            <td colspan="2" class="center"><b>9&nbsp;lipca, Niedziela</b></td>
         </tr>
         <tr>
             <td class="center">7.30</td>
-            <td>W&nbsp;intencji Parafian</td>
+            <td>+ Henryka, Leona Sochów, Stefana Stępnia</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -149,8 +119,7 @@
         </tr>
         <tr>
             <td class="center">9.30</td>
-            <td>+ Jana, Marię Wyrzykowskich, Eugeniusza, Antoniego,
-            Wiktorię Winiarczyków</td>
+            <td>+ Mieczysława i&nbsp;Genowefę Chałupczaków</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -158,7 +127,7 @@
         </tr>
         <tr>
             <td class="center">11.15</td>
-            <td>Młodzieżowa Róża Różańcowa, zm.&nbsp;członków Róży</td>
+            <td>+ Janinę, Czesława, Krzysztofa Płazów</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -166,8 +135,8 @@
         </tr>
         <tr>
             <td class="center">12.30</td>
-            <td>+ Helenę, Antoniego Teterów, zm.&nbsp;z&nbsp;rodz.
-            Teterów, Kowalskich, Lipców</td>
+            <td>+ Józefa Liśkiewicza i&nbsp;zm. z&nbsp;rodz.
+            Liśkiewiczów</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -175,8 +144,7 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>Dzięk.-błag, z&nbsp;prośbą o&nbsp;BB, potrzebne łaski,
-            wsparcie w&nbsp;chorobie Edyty</td>
+            <td>Za&nbsp;parafian</td>
         </tr>
     </tbody>
 </table>
