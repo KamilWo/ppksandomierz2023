@@ -19,7 +19,203 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 09.&nbsp;lipca 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 16.&nbsp;lipca 2023&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    10.07. – 16.07.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>10&nbsp;lipca, Poniedziałek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Aleksandrę (2&nbsp;rocz.&nbsp;śm.) i&nbsp;Zdzisława
+                                    Gajek</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>O&nbsp;nawrócenie męża Piotra i&nbsp;ojca
+                                    Tadeusza</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>11&nbsp;lipca, Wtorek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>O&nbsp;łaskę dobrej śmierci</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>W&nbsp;int. osób uzależnionych i&nbsp;ich rodzin
+                                    o&nbsp;łaskę uzdrowienia i&nbsp;wyzwolenia - KWC</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>12&nbsp;lipca, Środa</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Franciszka (35&nbsp;rocz.&nbsp;śm.), Stefanię
+                                    Kowalskich, Marię Woś, Wiesławę Wałcerz</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Zygmunta, Józefa, Annę Szcześniaków, Jana
+                                    i&nbsp;Agnieszkę Wieczorek</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>13&nbsp;lipca, Czwartek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Kazimierza Włoch</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Krystynę – rocz.&nbsp;śm.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>14&nbsp;lipca, Piątek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Grzegorza Pęgielskiego</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Marię, Władysława, Czesława Barańskich, Andrzeja
+                                    Krawczyka</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>15&nbsp;lipca, Sobota</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Teresę Piorun (1&nbsp;rocz.&nbsp;śm.)</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>W&nbsp;int. wynagradzającej Panu Bogu za&nbsp;grzechy
+                                    aborcji i&nbsp;eutanazji</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>16&nbsp;lipca, Niedziela</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>+ Stanisława i&nbsp;Janinę Kula, zm.&nbsp;z&nbsp;rodz.
+                                    Kulów i&nbsp;Czajów</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>+ Alicję Gilewską, Józefa w&nbsp;rocz.&nbsp;śm.,
+                                    Stefanię Janus</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>+ Reginę, Stanisława, Marka Zakrzewskich</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>Dziękczynno-błagalna o&nbsp;Miłosierdzie Boże, wiarę,
+                                    nadzieję i&nbsp;miłość, łaskę pokory i&nbsp;nawrócenie,
+                                    i&nbsp;uzdrowienie w&nbsp;rodzinie.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>09.&nbsp;lipca 2023&nbsp;r.</h3>
+                                <h3>XIV&nbsp;Niedziela Zwykła, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Przypominamy, że&nbsp;Wyższe Seminarium Duchowne
+                                w&nbsp;Sandomierzu przyjmuje zgłoszenia nowych kandydatów, którzy
+                                chcieliby rozpocząć formację i&nbsp;studia przygotowujące
+                                do&nbsp;sakramentu kapłaństwa. Chętni mogą zgłaszać się osobiście
+                                w&nbsp;siedzibie Seminarium Duchownego w&nbsp;Sandomierzu,
+                                ul.&nbsp;Żeromskiego&nbsp;6. Możliwy jest także kontakt telefoniczny
+                                (tel.: 511&nbsp;413&nbsp;002) lub mailowy (rozeznajpow@gmail.com).</p>
+                                <p>2. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+                                Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+                                Są&nbsp;czasopisma „Niedziela”, „Miłujcie się”, „Gość Niedzielny”
+                                i&nbsp;„Mały Gość Niedzielny”.</p>
+                                <p>3. W&nbsp;dniach od&nbsp;4 do&nbsp;12&nbsp;sierpnia&nbsp;br.
+                                odbędzie się XL&nbsp;Piesza Pielgrzymka Ziemi Sandomierskiej
+                                na&nbsp;Jasną Górę pod hasłem „Matko Kościoła prowadź”. Pielgrzymka
+                                ma&nbsp;charakter wędrownych rekolekcji z&nbsp;programem różnych
+                                modlitw, konferencji i&nbsp;śpiewu. Jest zarazem jedną z&nbsp;dróg
+                                prowadzących do&nbsp;Pana Boga poprzez wstawiennictwo Maryi.
+                                Zapraszamy na&nbsp;pątniczy szlak.</p>
+                                <p>4. W&nbsp;sobotę na&nbsp;Mszy&nbsp;św. chętnym założone zostaną
+                                szkaplerze karmelitańskie. Czym jest szkaplerz karmelitański? Jakie
+                                są&nbsp;obietnice i&nbsp;zobowiązania szkaplerzne? Odpowiedzi
+                                na&nbsp;te&nbsp;pytania zainteresowani znajdą w&nbsp;broszurach
+                                leżących na&nbsp;stoliku obok gazet, w&nbsp;gablocie parafialnej.</p>
+                                <p>5. Wszystkim, którzy w&nbsp;tym tygodniu obchodzą swoje imieniny,
+                                urodziny, inne rocznice, składamy najlepsze życzenia. Wszystkim
+                                uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+                                niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 09.&nbsp;lipca 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
