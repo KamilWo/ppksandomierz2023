@@ -1,14 +1,60 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            31.07. – 06.08.2023&nbsp;r.
+            07.08. – 13.08.2023&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>31&nbsp;lipca, Poniedziałek</b></td>
+            <td colspan="2" class="center"><b>7&nbsp;sierpnia, Poniedziałek</b></td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Zofię, Władysława Szczudłów, Mariana Czerepaka</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Weronikę Błaszczyk – 5&nbsp;r.&nbsp;śm.</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td colspan="2" class="center"><b>8&nbsp;sierpnia, Wtorek</b></td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Kazimierza Włocha</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>W&nbsp;int. osób uzależnionych i&nbsp;ich rodzin
+            o&nbsp;łaskę uzdrowienia i&nbsp;wyzwolenia</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td colspan="2" class="center"><b>9&nbsp;sierpnia, Środa</b></td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Mieczysława Świerkulę</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Stanisława, Zofię Stępniów, Marię Czech</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td colspan="2" class="center"><b>10&nbsp;sierpnia, Czwartek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
@@ -20,10 +66,10 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Małgorzatę Walczynę – 6&nbsp;rocz.&nbsp;śm.</td>
+            <td>O&nbsp;nawrócenie męża Piotra i&nbsp;ojca Tadeusza</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>1&nbsp;sierpnia, Wtorek</b></td>
+            <td colspan="2" class="center"><b>11&nbsp;sierpnia, Piątek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
@@ -35,14 +81,20 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Mariannę i&nbsp;Eugeniusza Jedlińskich</td>
+            <td>+ Wincentego Kołodzieja, Marię, Kazimierza Włochów,
+            Stanisława, Stanisławę Wosiów, Juliannę, Walentego
+            Bulirów, Tadeusza, Irenę Kołaczów</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>2&nbsp;sierpnia, Środa</b></td>
+            <td colspan="2" class="center"><b>12&nbsp;sierpnia, Sobota</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
-            <td>+ Zbigniewa Dębickiego</td>
+            <td>+ Jana Borkowskiego</td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Zygmunta Szpemalę</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -50,67 +102,15 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Stanisławę, Jana, Stanisława, Witolda, Mariana,
-            Krystynę, Mariana</td>
+            <td>+ Leszka, Annę, Stanisławę, Antoniego Koziełów,
+            Mariannę, Jana, Lucjana, Jana Majewskich</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>3&nbsp;sierpnia, Czwartek</b></td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Henryka Kwietnia i&nbsp;zm. z&nbsp;rodz.</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Stanisławę i&nbsp;Stanisława Wolińskich</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>4&nbsp;sierpnia, Piątek</b></td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Marię Włoch 3&nbsp;rocz.&nbsp;śm., Wincentego
-            Kołodzieja, Juliannę, Walentego Bulirów, Jerzego,
-            Zdzisława, Michała, Ewę, Marię, Józefa, Kazimierza
-            z&nbsp;rodz. Włochów, Stanisławę i&nbsp;Stanisława
-            Wosiów</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>W&nbsp;int. wynagradzającej Panu Bogu za&nbsp;grzechy
-            aborcji i&nbsp;eutanazji</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>5&nbsp;sierpnia, Sobota</b></td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Wiesławę Wałcerz 16&nbsp;rocz.&nbsp;śm., Stefanię,
-            Franciszka Kowalskich, Marię Woś</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>W&nbsp;int. wynagradzającej NSM za&nbsp;grzechy
-            świata</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>6&nbsp;sierpnia, Niedziela</b></td>
+            <td colspan="2" class="center"><b>13&nbsp;sierpnia, Niedziela</b></td>
         </tr>
         <tr>
             <td class="center">7.30</td>
-            <td>Za&nbsp;parafian</td>
+            <td>+ Alicję Gilewską, Józefa, Stefanię Janus</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -118,7 +118,7 @@
         </tr>
         <tr>
             <td class="center">9.30</td>
-            <td>+ Katarzynę i&nbsp;Franciszka Sadowskich</td>
+            <td>Za&nbsp;parafian</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -126,7 +126,8 @@
         </tr>
         <tr>
             <td class="center">11.15</td>
-            <td>KŻR</td>
+            <td>+ Bronisławę, Feliksa, Zenona Mądrych i&nbsp;zm.
+            z&nbsp;rodz. Gierachów i&nbsp;Kwietniów</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -134,9 +135,8 @@
         </tr>
         <tr>
             <td class="center">12.30</td>
-            <td>Dzięk.-błag. z&nbsp;racji 25&nbsp;rocz.
-            ur.&nbsp;Andrzeja o&nbsp;B.&nbsp;Bł., potrzebne łaski
-            i&nbsp;opiekę MB.</td>
+            <td>+ Marię, Władysława, Czesława Barańskich, Andrzeja
+            Krawczyka</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -144,7 +144,7 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Julię, Antoniego Serafinów</td>
+            <td>+ Tadeusza Płatosa – 4&nbsp;r.&nbsp;śm.</td>
         </tr>
     </tbody>
 </table>

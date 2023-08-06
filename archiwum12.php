@@ -19,7 +19,218 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 30.&nbsp;lipca 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 6.&nbsp;sierpnia 2023&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    31.07. – 06.08.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>31&nbsp;lipca, Poniedziałek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Izabelę Sochę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Małgorzatę Walczynę – 6&nbsp;rocz.&nbsp;śm.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>1&nbsp;sierpnia, Wtorek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Zbigniewa Dębickiego</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Mariannę i&nbsp;Eugeniusza Jedlińskich</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>2&nbsp;sierpnia, Środa</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Zbigniewa Dębickiego</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Stanisławę, Jana, Stanisława, Witolda, Mariana,
+                                    Krystynę, Mariana</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>3&nbsp;sierpnia, Czwartek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Henryka Kwietnia i&nbsp;zm. z&nbsp;rodz.</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Stanisławę i&nbsp;Stanisława Wolińskich</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>4&nbsp;sierpnia, Piątek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Marię Włoch 3&nbsp;rocz.&nbsp;śm., Wincentego
+                                    Kołodzieja, Juliannę, Walentego Bulirów, Jerzego,
+                                    Zdzisława, Michała, Ewę, Marię, Józefa, Kazimierza
+                                    z&nbsp;rodz. Włochów, Stanisławę i&nbsp;Stanisława
+                                    Wosiów</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>W&nbsp;int. wynagradzającej Panu Bogu za&nbsp;grzechy
+                                    aborcji i&nbsp;eutanazji</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>5&nbsp;sierpnia, Sobota</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Wiesławę Wałcerz 16&nbsp;rocz.&nbsp;śm., Stefanię,
+                                    Franciszka Kowalskich, Marię Woś</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>W&nbsp;int. wynagradzającej NSM za&nbsp;grzechy
+                                    świata</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>6&nbsp;sierpnia, Niedziela</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>+ Katarzynę i&nbsp;Franciszka Sadowskich</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>KŻR</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>Dzięk.-błag. z&nbsp;racji 25&nbsp;rocz.
+                                    ur.&nbsp;Andrzeja o&nbsp;B.&nbsp;Bł., potrzebne łaski
+                                    i&nbsp;opiekę MB.</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Julię, Antoniego Serafinów</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>30.&nbsp;lipca 2023&nbsp;r.</h3>
+                                <h3>XVII&nbsp;Niedziela Zwykła, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. W&nbsp;tym tygodniu Pierwszy czwartek, piątek, sobota miesiąca.
+                                W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
+                                od&nbsp;godz.&nbsp;17.30.</p>
+                                <p>2. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15. – nabożeństwo
+                                Różańcowe poprowadzi Legion Maryi z&nbsp;naszej parafii.</p>
+                                <p>3. We&nbsp;wtorek rozpoczyna się miesiąc modlitw o&nbsp;trzeźwość
+                                narodu polskiego. Tam, gdzie brakuje trzeźwości, tam pojawiają się
+                                w&nbsp;nadmiarze problemy, mnożą się dramaty całych rodzin, wspólnot,
+                                ale także i&nbsp;całych środowisk. Trzeźwość jest tamą, która chroni
+                                życie indywidualne, rodzinne, ale także społeczne przed wielką
+                                powodzią cierpienia. Módlmy się i&nbsp;troszczmy o&nbsp;trzeźwość.</p>
+                                <p>4. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+                                Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
+                                adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
+                                poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
+                                tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
+                                <p>5. Przypominamy, że&nbsp;Wyższe Seminarium Duchowne
+                                w&nbsp;Sandomierzu przyjmuje zgłoszenia nowych kandydatów, którzy
+                                chcieliby rozpocząć formację i&nbsp;studia przygotowujące
+                                do&nbsp;sakramentu kapłaństwa. Chętni mogą zgłaszać się osobiście
+                                w&nbsp;siedzibie Seminarium Duchownego w&nbsp;Sandomierzu,
+                                ul.&nbsp;Żeromskiego&nbsp;6. Możliwy jest także kontakt telefoniczny
+                                (tel.:&nbsp;511&nbsp;413&nbsp;002) lub mailowy
+                                (rozeznajpow@gmail.com).</p>
+                                <p>6. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+                                Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+                                Są&nbsp;czasopisma „Niedziela”, „Miłujcie się”, „Gość Niedzielny”
+                                i&nbsp;„Mały Gość Niedzielny”.</p>
+                                <p>7. W&nbsp;dniach od&nbsp;4 do&nbsp;12 sierpnia&nbsp;br. odbędzie
+                                się XL&nbsp;Piesza Pielgrzymka Ziemi Sandomierskiej na&nbsp;Jasną Górę
+                                pod hasłem „Matko Kościoła prowadź”. Więcej informacji
+                                na&nbsp;plakacie w&nbsp;gablocie przy głównym wejściu
+                                do&nbsp;kościoła. Zapraszamy na&nbsp;pątniczy szlak.</p>
+                                <p>8. We&nbsp;wtorek w&nbsp;Lizbonie rozpoczynają się 37&nbsp;Światowe
+                                Dni Młodzieży. W&nbsp;niedzielę 6&nbsp;sierpnia w&nbsp;Zawichoście
+                                odbędą się Dni Młodych naszej Diecezji w&nbsp;łączności z&nbsp;Ojcem
+                                Świętym Franciszkiem, który w&nbsp;tym czasie będzie z&nbsp;młodymi
+                                z&nbsp;całego świta w&nbsp;Lizbonie. Zapraszamy młodzież
+                                do&nbsp;uczestnictwa w&nbsp;tym wydarzeniu. Szczegółowe informacje
+                                i&nbsp;zapisy u&nbsp;Księży wikariuszy.</p>
+                                <p>9. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+                                ofiary na&nbsp;potrzeby parafii. Wszystkim życzymy błogosławionej
+                                Niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 30.&nbsp;lipca 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
