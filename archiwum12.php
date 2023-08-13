@@ -19,7 +19,200 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 6.&nbsp;sierpnia 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 13.&nbsp;sierpnia 2023&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    07.08. – 13.08.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>7&nbsp;sierpnia, Poniedziałek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Zofię, Władysława Szczudłów, Mariana Czerepaka</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Weronikę Błaszczyk – 5&nbsp;r.&nbsp;śm.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>8&nbsp;sierpnia, Wtorek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Kazimierza Włocha</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>W&nbsp;int. osób uzależnionych i&nbsp;ich rodzin
+                                    o&nbsp;łaskę uzdrowienia i&nbsp;wyzwolenia</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>9&nbsp;sierpnia, Środa</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Mieczysława Świerkulę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Stanisława, Zofię Stępniów, Marię Czech</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>10&nbsp;sierpnia, Czwartek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Izabelę Sochę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>O&nbsp;nawrócenie męża Piotra i&nbsp;ojca Tadeusza</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>11&nbsp;sierpnia, Piątek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Zbigniewa Dębickiego</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Wincentego Kołodzieja, Marię, Kazimierza Włochów,
+                                    Stanisława, Stanisławę Wosiów, Juliannę, Walentego
+                                    Bulirów, Tadeusza, Irenę Kołaczów</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>12&nbsp;sierpnia, Sobota</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Jana Borkowskiego</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Zygmunta Szpemalę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Leszka, Annę, Stanisławę, Antoniego Koziełów,
+                                    Mariannę, Jana, Lucjana, Jana Majewskich</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>13&nbsp;sierpnia, Niedziela</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>+ Alicję Gilewską, Józefa, Stefanię Janus</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>+ Bronisławę, Feliksa, Zenona Mądrych i&nbsp;zm.
+                                    z&nbsp;rodz. Gierachów i&nbsp;Kwietniów</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>+ Marię, Władysława, Czesława Barańskich, Andrzeja
+                                    Krawczyka</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Tadeusza Płatosa – 4&nbsp;r.&nbsp;śm.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>6.&nbsp;sierpnia 2023&nbsp;r.</h3>
+                                <h3>XVIII&nbsp;Niedziela Zwykła, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Trwa miesiąc modlitw o&nbsp;trzeźwość narodu polskiego. Tam,
+                                gdzie brakuje trzeźwości, tam pojawiają się w&nbsp;nadmiarze problemy,
+                                mnożą się dramaty całych rodzin, wspólnot, ale także i&nbsp;całych
+                                środowisk. Trzeźwość jest tamą, która chroni życie indywidualne,
+                                rodzinne, ale także społeczne przed wielką powodzią cierpienia. Módlmy
+                                się i&nbsp;troszczmy o&nbsp;trzeźwość.</p>
+                                <p>2. 15&nbsp;sierpnia w&nbsp;Raniżowie organizowane
+                                są&nbsp;Diecezjalne Dożynki. Początek Uroczystości
+                                o&nbsp;godz.&nbsp;10.30.</p>
+                                <p>3. Na&nbsp;stoliku pod chórem jest najnowsza prasa katolicka.
+                                Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+                                Są&nbsp;czasopisma „Niedziela”, „Miłujcie się”, „Gość Niedzielny”
+                                i&nbsp;„Mały Gość Niedzielny”.</p>
+                                <p>4. Organizowany wyjazd autokarem, 8&nbsp;sierpnia&nbsp;br. min.
+                                z&nbsp;naszego sandomierskiego dekanatu, nie odbędzie się
+                                z&nbsp;racji braku wystarczającej liczby chętnych na&nbsp;jednodniowy
+                                udział w&nbsp;Pieszej pielgrzymce do&nbsp;Częstochowy.
+                                (<strong>zgłosiły się tylko cztery osoby!</strong>).</p>
+                                <p>5. W&nbsp;naszych osobistych modlitwach pamiętajmy
+                                o&nbsp;pielgrzymach, módlmy się za&nbsp;przebywających
+                                na&nbsp;wakacjach, prośmy o&nbsp;Pana Boga o&nbsp;dobrą pogodę dla
+                                teogorocznych zbiorów: zboża i&nbsp;owoców.</p>
+                                <p>6. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+                                ofiary na potrzeby parafii. Wszystkim życzymy błogosławionej
+                                Niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 6.&nbsp;sierpnia 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
