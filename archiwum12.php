@@ -19,7 +19,236 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 13.&nbsp;sierpnia 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 20.&nbsp;sierpnia 2023&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    14.08. – 20.08.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>14&nbsp;sierpnia, Poniedziałek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Lecha Króla</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Henryka, Józefa, Mariannę Surowców,
+                                    zm&nbsp;z&nbsp;rodz. Michtów i&nbsp;Surowców</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>15&nbsp;sierpnia, Wtorek
+                                    –&nbsp;Uroczystość Wniebowzięcia NMP</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>+ Marię, Jana Wyrzykowskich</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>Dzięk-błag. w&nbsp;int. Ewy, Tomasza i&nbsp;córki
+                                    Michaliny z&nbsp;racji 25&nbsp;r.&nbsp;ślubu</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>+ Marię, Teresę Wrzosków, Henrykę, Józefa Kowalów,
+                                    Floriana Sado</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>+ Stanisława Nawarę (1&nbsp;r.&nbsp;śm.)</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>16&nbsp;sierpnia, Środa</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Kazimierza Włocha</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Zofię Kołodziej (m-c&nbsp;po&nbsp;śmierci)</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Józefa, Wąsika i&nbsp;Helenę</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>17&nbsp;sierpnia, Czwartek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Zbigniewa Dębickiego</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Aleksandrę, Józefa, Mariana, Marię Gradzińskich
+                                    i&nbsp;zm. z&nbsp;rodz. Żubrynowiczów
+                                    i&nbsp;Chałupczaków</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>18&nbsp;sierpnia, Piątek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Zbigniewa Dębickiego</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Piotra Pawłowskiego</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>19&nbsp;sierpnia, Sobota</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Zbigniewa Dębickiego</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Jerzego Gawrońskiego, Stanisława, Stefanię
+                                    Kołodziejów</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>20&nbsp;sierpnia, Niedziela</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>+ Genowefę Kordos, Mariannę Pliżgę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>+ Mariana, Władysława, Janinę, Mariana, Tadeusza
+                                    Fijałkowskich, Annę Ziębę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>+ Jana Klarę, Ryszarda Chrząstowskich, Jana
+                                    Makowskiego</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>Dz-błag. o&nbsp;Miłosierdzie Boże, wiarę, nadzieję,
+                                    miłość, łaskę pokory, nawrócenia i&nbsp;uzdrowienia
+                                    w&nbsp;rodzinie</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>13.&nbsp;sierpnia 2023&nbsp;r.</h3>
+                                <h3>XIX&nbsp;Niedziela Zwykła, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. We&nbsp;wtorek 15&nbsp;sierpnia przypada Uroczystość
+                                Wniebowzięcia Najświętsze Maryi Panny. Porządek Mszy świętych -
+                                niedzielny. Błogosławieństwo ziół i&nbsp;kwiatów na&nbsp;każdej
+                                Mszy&nbsp;św. Módlmy się za&nbsp;przebywających na&nbsp;wakacjach,
+                                prośmy Pana Boga o&nbsp;dobrą pogodę dla teogorocznych zbiorów: zboża
+                                i&nbsp;owoców.</p>
+                                <p>2. W&nbsp;niedzielę 6&nbsp;sierpnia w&nbsp;Zawichoście odbyły się
+                                Dni Młodych naszej Diecezji w&nbsp;łączności z&nbsp;Ojcem Świętym
+                                Franciszkiem, który w&nbsp;tym czasie modlił się z&nbsp;młodymi
+                                z&nbsp;całego świta w&nbsp;Lizbonie. Dziękujemy młodzieży
+                                z&nbsp;naszej parafii w&nbsp;liczbie 10&nbsp;osób, która uczestniczyła
+                                w&nbsp;tym spotkaniu młodych naszej diecezji, Ks.&nbsp;Krystianowi
+                                Kałuży za&nbsp;zorganizowanie wyjazdu i&nbsp;opiekę nad młodzieżą.
+                                <em>Bóg zapłać</em> wszystkim.</p>
+                                <p>3. W&nbsp;dniu 7&nbsp;września 2021&nbsp;r. o&nbsp;godz.&nbsp;7.30
+                                z&nbsp;Bazyliki Katedralnej wyrusza XVIII Piesza Pielgrzymka
+                                z&nbsp;Sandomierza do&nbsp;Sulisławic pod hasłem „z&nbsp;Maryją
+                                wierzymy w&nbsp;Kościół Chrystusowy”. Zapisy w&nbsp;dniu wyjścia
+                                od&nbsp;godz.&nbsp;7.00 przy katedrze oraz na&nbsp;trasie. Koszt
+                                udziału 20&nbsp;zł. Bliższe informacje na&nbsp;plakacie przy wejściu
+                                do&nbsp;Kościoła. Serdecznie zachęcamy i&nbsp;zapraszamy
+                                do&nbsp;wzięcia udziału.</p>
+                                <p>4. Zachęcamy do&nbsp;modlitwy w&nbsp;intencji osób uzależnionych
+                                od&nbsp;alkoholu i&nbsp;ich rodzin. Miesiąc sierpień w&nbsp;tradycji
+                                Kościoła w&nbsp;Polsce, jest okresem szczególnej modlitwy
+                                o&nbsp;trzeźwość w&nbsp;rodzinach.</p>
+                                <p>5. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.
+                                Są&nbsp;czasopisma „Niedziela”, „Miłujcie się”, „Gość Niedzielny”
+                                i&nbsp;„Mały Gość Niedzielny”.</p>
+                                <p>6. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+                                ofiary na&nbsp;potrzeby parafii. Wszystkim życzymy błogosławionej
+                                Niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 13.&nbsp;sierpnia 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">

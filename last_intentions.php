@@ -1,14 +1,14 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            14.08. – 20.08.2023&nbsp;r.
+            21.08. – 27.08.2023&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>14&nbsp;sierpnia, Poniedziałek</b></td>
+            <td colspan="2" class="center"><b>21&nbsp;sierpnia, Poniedziałek</b></td>
         </tr>
         <tr>
             <td class="center">6.30</td>
@@ -20,16 +20,101 @@
         </tr>
         <tr>
             <td class="center">18.00</td>
-            <td>+ Henryka, Józefa, Mariannę Surowców,
-            zm&nbsp;z&nbsp;rodz. Michtów i&nbsp;Surowców</td>
+            <td>+Andrzeja Kijanię w&nbsp;r.&nbsp;śm.</td>
         </tr>
         <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>15&nbsp;sierpnia, Wtorek
+            <td colspan="2" class="center"><b>22&nbsp;sierpnia, Wtorek
             –&nbsp;Uroczystość Wniebowzięcia NMP</b></td>
         </tr>
         <tr>
+            <td class="center">6.30</td>
+            <td>+ Andrzeja Spadło w&nbsp;18&nbsp;r.&nbsp;śm.</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Sławomira Rykowskiego – 1&nbsp;r.&nbsp;śm.</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td colspan="2" class="center"><b>23&nbsp;sierpnia, Środa</b></td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Bogusława Tetera</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>O&nbsp;BB, Opiekę MB dla Michała i&nbsp;Gabriela
+            z&nbsp;okazji urodzin</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td colspan="2" class="center"><b>24&nbsp;sierpnia, Czwartek</b></td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Wojciecha Granata</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>O&nbsp;BB i&nbsp;opiekę MB dla Wojciecha Fularskiego
+            i&nbsp;dla jego rodziny</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td colspan="2" class="center"><b>25&nbsp;sierpnia, Piątek</b></td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Wojciecha Granata</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Wojciecha Dobrochę</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td colspan="2" class="center"><b>26&nbsp;sierpnia, Sobota</b></td>
+        </tr>
+        <tr>
+            <td class="center">6.30</td>
+            <td>+ Roberta Pęksę</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center">9.00</td>
+            <td>+ Gustawa Polita</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="center">18.00</td>
+            <td>+ Zofię, Mariannę Krawczyków, Mariannę, Józefa
+            Mądrych</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td colspan="2" class="center"><b>27&nbsp;sierpnia, Niedziela</b></td>
+        </tr>
+        <tr>
             <td class="center">7.30</td>
-            <td>+ Marię, Jana Wyrzykowskich</td>
+            <td>+ Mieczysława Kunkiewicza</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -37,8 +122,8 @@
         </tr>
         <tr>
             <td class="center">9.30</td>
-            <td>Dzięk-błag. w&nbsp;int. Ewy, Tomasza i&nbsp;córki
-            Michaliny z&nbsp;racji 25&nbsp;r.&nbsp;ślubu</td>
+            <td>O&nbsp;BB, dary DŚ dla Agnieszki i&nbsp;Dariusza
+            z&nbsp;okazji 30&nbsp;rocznicy sakramentu małżeństwa</td>
         </tr>
         <tr>
             <td>&nbsp;</td>
@@ -46,123 +131,6 @@
         </tr>
         <tr>
             <td class="center">11.15</td>
-            <td>+ Marię, Teresę Wrzosków, Henrykę, Józefa Kowalów,
-            Floriana Sado</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">12.30</td>
-            <td>+ Stanisława Nawarę (1&nbsp;r.&nbsp;śm.)</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>Za&nbsp;parafian</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>16&nbsp;sierpnia, Środa</b></td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Kazimierza Włocha</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Zofię Kołodziej (m-c&nbsp;po&nbsp;śmierci)</td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Józefa, Wąsika i&nbsp;Helenę</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>17&nbsp;sierpnia, Czwartek</b></td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Zbigniewa Dębickiego</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Aleksandrę, Józefa, Mariana, Marię Gradzińskich
-            i&nbsp;zm. z&nbsp;rodz. Żubrynowiczów
-            i&nbsp;Chałupczaków</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>18&nbsp;sierpnia, Piątek</b></td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Zbigniewa Dębickiego</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Piotra Pawłowskiego</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>19&nbsp;sierpnia, Sobota</b></td>
-        </tr>
-        <tr>
-            <td class="center">6.30</td>
-            <td>+ Zbigniewa Dębickiego</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">18.00</td>
-            <td>+ Jerzego Gawrońskiego, Stanisława, Stefanię
-            Kołodziejów</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td colspan="2" class="center"><b>20&nbsp;sierpnia, Niedziela</b></td>
-        </tr>
-        <tr>
-            <td class="center">7.30</td>
-            <td>+ Genowefę Kordos, Mariannę Pliżgę</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">9.30</td>
-            <td>+ Mariana, Władysława, Janinę, Mariana, Tadeusza
-            Fijałkowskich, Annę Ziębę</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">11.15</td>
-            <td>+Jana Klarę, Ryszarda Chrząstowskich, Jana
-            Makowskiego</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="center">12.30</td>
             <td>Za&nbsp;parafian</td>
         </tr>
         <tr>
@@ -170,10 +138,19 @@
             <td></td>
         </tr>
         <tr>
+            <td class="center">12.30</td>
+            <td>+ Helenę, Jana, Bożenę, Ireeusza Kiliańskich, Sylwię
+            Pawłowską i&nbsp;zm. z&nbsp;rodz.</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td></td>
+        </tr>
+        <tr>
             <td class="center">18.00</td>
-            <td>Dz-błag. o&nbsp;Miłosierdzie Boże, wiarę, nadzieję,
-            miłość, łaskę pokory, nawrócenia i&nbsp;uzdrowienia
-            w&nbsp;rodzinie</td>
+            <td>Dz-bł w&nbsp;45&nbsp;r. zawarcia sakramentu małżeństwa
+            Stanisławy i&nbsp;Stanisława o&nbsp;BB, potrzebne łaski
+            i&nbsp;opiekę MB</td>
         </tr>
     </tbody>
 </table>
