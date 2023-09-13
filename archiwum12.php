@@ -19,7 +19,213 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 27.&nbsp;sierpnia 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 3.&nbsp;września 2023&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    28.08. – 03.09.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>28&nbsp;sierpnia, Poniedziałek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Dariusza Jastrzębia</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Łucję (23&nbsp;r.&nbsp;śm.), Wojciecha, Dionizego
+                                    Książków, Reginę, Józefa Buczków, Zofię Wróblewską</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>29&nbsp;sierpnia, Wtorek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Krystynę Dyl</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Wojciecha Granata</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>30&nbsp;sierpnia, Środa</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Barbarę Byrę</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>Za&nbsp;dusze w&nbsp;czyśćcu cierpiące</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>31&nbsp;sierpnia, Czwartek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Wojciecha Dobrocha</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Halinę Hagdej</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>O&nbsp;BB, potrzebne łaski, dary DŚ, opiekę MB dla
+                                    Bożeny z&nbsp;okazji 70&nbsp;r.&nbsp;urodzin</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>1&nbsp;września, Piątek</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Dariusza Jastrzębia - greg.</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Stanisławę, Jana, Stanisława, Witolda, Mariana,
+                                    Krystynę, Mariana</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Lucjana Wodza – 4&nbsp;r.&nbsp;śm.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>2&nbsp;września, Sobota</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">6.30</td>
+                                    <td>+ Dariusza Jastrzębia - greg.</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>W&nbsp;int. wynagradzającej NSM za grzechy świata</td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>O&nbsp;BB dla Wojciecha Fularskiego i&nbsp;dla jego
+                                    rodziny</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td colspan="2" class="center"><b>3&nbsp;września, Niedziela</b></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">7.30</td>
+                                    <td>+ Anielę, Stefana, Jana Jędrzejewskich</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">9.30</td>
+                                    <td>Za&nbsp;parafian</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">11.15</td>
+                                    <td>KŻR</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">12.30</td>
+                                    <td>+ Dariusza Jastrzębia - greg.</td>
+                                </tr>
+                                <tr>
+                                    <td>&nbsp;</td>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td class="center">18.00</td>
+                                    <td>+ Teresę – 6&nbsp;r.&nbsp;śm., Eugeniusza
+                                    Paciochów</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>27.&nbsp;sierpnia 2023&nbsp;r.</h3>
+                                <h3>XXI&nbsp;Niedziela Zwykła, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. W&nbsp;dniu 7&nbsp;września 2023&nbsp;r. z&nbsp;Bazyliki
+                                Katedralnej wyrusza XX&nbsp;Piesza Pielgrzymka z&nbsp;Sandomierza
+                                do&nbsp;Sulisławic pod hasłem „z&nbsp;Maryją wierzymy w&nbsp;Kościół
+                                Chrystusowy”. Zapisy w&nbsp;dniu wyjścia od&nbsp;godz.&nbsp;7.00 przy
+                                katedrze oraz na&nbsp;trasie. Serdecznie zachęcamy i&nbsp;zapraszamy
+                                do&nbsp;wzięcia udziału.</p>
+                                <p>2. Minionej niedzieli do&nbsp;puszek dla mieszkańców Słowenii,
+                                dotkniętych klęską powodzi zostało zebrane 4517&nbsp;zł i&nbsp;110
+                                euro. <em>Bóg zapłać</em> ofiarodawcom.</p>
+                                <p>3. W&nbsp;tym tygodniu Pierwszy czwartek, piątek, sobota miesiąca.
+                                W&nbsp;Pierwszy Piątek Miesiąca, spowiedź w&nbsp;tym dniu
+                                od&nbsp;godz.&nbsp;17.30.</p>
+                                <p>4. W&nbsp;najbliższą sobotę o&nbsp;godz.&nbsp;17.15. – nabożeństwo
+                                Różańcowe poprowadzi Legion Maryi z&nbsp;naszej parafii.</p>
+                                <p>5. W&nbsp;przyszłą niedzielę w kościele, pół godziny przed
+                                Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
+                                adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
+                                poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
+                                tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
+                                <p>6. W&nbsp;piątek - 1&nbsp;września przypada 84&nbsp;rocznica
+                                wybuchu II&nbsp;wojny światowej, pamiętajmy w&nbsp;modlitwie
+                                o&nbsp;tych, którzy polegli w&nbsp;obronie Ojczyzny, módlmy się także
+                                o&nbsp;pokój na&nbsp;świecie.</p>
+                                <p>7. Zbliża się początek owego roku szkolnego, przez cały tydzień
+                                jest możliwość dla dzieci i&nbsp;młodzieży skorzystania
+                                z&nbsp;sakramentu pokuty, aby w&nbsp;pełni uczestniczyć
+                                we&nbsp;Mszy&nbsp;św. inaugurującej nowy rok szkolny
+                                i&nbsp;katechetyczny.</p>
+                                <p>8. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+                                ofiary na&nbsp;potrzeby parafii. Wszystkim życzymy błogosławionej
+                                Niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 27.&nbsp;sierpnia 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
