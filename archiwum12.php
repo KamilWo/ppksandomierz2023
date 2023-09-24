@@ -19,7 +19,205 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 17.&nbsp;września 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 24.&nbsp;września 2023&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    18.09. – 24.09.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 18&nbsp;września</b></td>
+                                    <td><b>Wspomnienie<br>
+                                    św.&nbsp;Stanisława Kostki – Patrona dzieci
+                                    i&nbsp;młodzieży</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center" >6.30</td>
+                                    <td>+ Dariusza Jastrzębia – greg.&nbsp;18</td>
+                                </tr>
+                                <tr>
+                                    <td class="center" rowspan="2">18.00</td>
+                                    <td>O &nbsp;Boże błog., łaski i&nbsp;dary Ducha Świętego
+                                    na&nbsp;dalsze lata kapłańskiej posługi dla
+                                    Ks.&nbsp;Proboszcza z&nbsp;okazji imienin</td>
+                                </tr><tr style="border-bottom: 2px solid black;">
+                                    <td>+ Dariusza Jastrzębia</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>WTOREK, 19&nbsp;września</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Wojciecha Dobrocha</td>
+                                </tr>
+                                <tr>
+                                    <td class="center" rowspan="2">18.00</td>
+                                    <td>+ Dariusza Jastrzębia – greg.&nbsp;19</td></tr><tr>
+                                    <td>+ Mieczysława, Mariannę i&nbsp;Józefa oraz
+                                    za&nbsp;zm.&nbsp;z&nbsp;rodz.</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>ŚRODA, 20&nbsp;września</b></td>
+                                    <td><b>Wspomnienie Św.&nbsp;Męczenników Andrzeja Kim
+                                    Taegon, Pawła Chong Hasang i&nbsp;Towarzyszy</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Dariusza Jastrzębia – greg.&nbsp;20</td>
+                                </tr>
+                                <tr>
+                                    <td class="center" rowspan="2">18.00</td>
+                                    <td>+ Grzegorza Pęgielskiego</td>
+                                </tr><tr style="border-bottom: 2px solid black;">
+                                    <td>+ Krystynę Dyl</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>CZWARTEK, 21&nbsp;września</b></td>
+                                    <td><b>Święto Św.&nbsp;Mateusza Apostoła
+                                    i&nbsp;Ewangelisty</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Dariusza Jastrzębia – greg.&nbsp;21</td>
+                                </tr>
+                                <tr>
+                                    <td class="center" rowspan="3">18.00</td>
+                                    <td>Dziękcz.-błag. o&nbsp;Boże Błog. dary Ducha Świętego,
+                                    potrzebne łaski opiekę Matki Bożej dla Stanisława
+                                    z&nbsp;racji 18-stych urodzin</td>
+                                </tr><tr>
+                                    <td>+ Wojciecha Granata </td>
+                                </tr><tr style="border-bottom: 2px solid black;">
+                                    <td>+ Wojciecha Dobrocha</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>PIĄTEK, 22&nbsp;września</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Dariusza Jastrzębia – greg.&nbsp;22</td>
+                                </tr>
+                                <tr>
+                                    <td class="center" rowspan="2">18.00</td>
+                                    <td>+ Wojciecha Dobrocha</td>
+                                </tr><tr style="border-bottom: 2px solid black;">
+                                    <td>+ Barbarę Czech</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>SOBOTA, 23&nbsp;września</b></td>
+                                    <td><b>Wspomnienie Św.&nbsp;Pio z&nbsp;Pietrelciny</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Dariusza Jastrzębia – greg.&nbsp;23</td>
+                                </tr>
+                                <tr>
+                                    <td class="center" rowspan="2">18.00</td>
+                                    <td>+ Wojciecha Granata</td>
+                                </tr><tr style="border-bottom: 2px solid black;">
+                                    <td>+ Wojciecha Dobrocha</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>NIEDZIELA, 24&nbsp;września</b></td>
+                                    <td><b>
+                                        <span style="color: red">XXV Niedziela Zwykła</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Stanisława Pyszczyńskiego</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>+ Dariusza Jastrzębia – greg.&nbsp;24</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>+ Irenę Teter w&nbsp;rocz.&nbsp;śm.</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>+ Za&nbsp;parafian</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>Dziękcz.-błag. o&nbsp;Boże Błog., potrzebne łaski,
+                                    opiekę Matki Bożej, dary Ducha Świętego dla Anny
+                                    i&nbsp;Witolda z&nbsp;racji 12&nbsp;rocz. ślubu</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>17.&nbsp;września 2023&nbsp;r.</h3>
+                                <h3>XXIV&nbsp;Niedziela Zwykła, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Diecezjalne Studium Organistowskie w&nbsp;Sandomierzu ogłasza
+                                nabór na&nbsp;rok akademicki 2023/24.
+                                    <ul>
+                                        <li>Zapraszamy wszystkich chętnych, którzy pragną nabyć lub
+                                        pogłębić swoje umiejętności oraz wiedzę muzyczno-liturgiczną,
+                                        by&nbsp;pełnić posługę organisty.</li>
+                                        <li>Studium daje możliwość uzupełnienia kwalifikacji organistom.</li>
+                                        <li>Zajęcia odbywają się w&nbsp;soboty od&nbsp;października
+                                        do&nbsp;czerwca.</li>
+                                        <li>Nauka trwa 5&nbsp;lat.</li>
+                                        <li>Przyjmujemy młodzież począwszy od&nbsp;VII klasy szkoły
+                                        podstawowej oraz dorosłych.</li>
+                                    </ul>
+                                </p>
+                                <p>2. Po&nbsp;wakacyjnej przerwie wznawia swą działalność ABS czyli
+                                Akademia Biblijna w&nbsp;Sandomierzu. Są&nbsp;to&nbsp;spotkania dla
+                                wszystkich chcących poznać Pismo święte lub poszerzyć swoją wiedzę
+                                o&nbsp;nim; spotkania, gdzie będzie można porozmawiać o&nbsp;księdze
+                                Pisma świętego i&nbsp;gdzie będzie można zadać jakiekolwiek pytanie,
+                                związane z&nbsp;Biblią, ale nie tylko. Zapraszamy wszystkich, którzy
+                                chcą poznać Biblię, dowiedzieć się o&nbsp;niej więcej lub mają jakieś
+                                wątpliwości związane z&nbsp;treścią Pisma świętego. Spotkania będą
+                                odbywały się w&nbsp;Wyższym Seminarium Duchownym, w&nbsp;auli
+                                numer&nbsp;3, w&nbsp;każdy trzeci wtorek miesiąca,
+                                o&nbsp;godz.&nbsp;18.45; pierwsze spotkanie będzie w&nbsp;najbliższy
+                                wtorek czyli 19&nbsp;września. Temat tego pierwszego spotkania
+                                to:&nbsp;Wędrówka Izraela z&nbsp;Egiptu do&nbsp;Ziemi Obiecanej.
+                                Serdecznie zapraszamy!</p>
+                                <p>3. Dnia 8&nbsp;października br.&nbsp;w&nbsp;Sandomierzu odbędzie się
+                                zakończenie Roku Jubileuszowego bł.&nbsp;Wincentego Kadłubka.</p>
+                                <p>4. Pielgrzymka Kół Żywego Różańca do&nbsp;Włostowa, odbędzie się
+                                7&nbsp;października br. Bliższe informacje na&nbsp;plakacie.</p>
+                                <p>5. Jutro święto św.&nbsp;Stanisława Kostki, patrona dzieci
+                                i&nbsp;młodzieży, w&nbsp;środę Wspomnienie św.&nbsp;Męczenników
+                                koreańskich: kapłana Andrzeja Kim Tegona i&nbsp;Towarzyszy,
+                                w&nbsp;czwartek Święto św.&nbsp;Mateusza Apostoła, w&nbsp;sobotę
+                                Wspomnienie św.&nbsp;Ojca Pio z&nbsp;Pietrelciny.</p>
+                                <p>6. W&nbsp;najbliższą niedzielę taca na&nbsp;remont katedry
+                                w&nbsp;Sandomierzu.</p>
+                                <p>7. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.</p>
+                                <p>8. Apostolat Margaretka Diecezji Sandomierskiej organizuje
+                                Pielgrzymkę na&nbsp;Jasną Górę w&nbsp;intencji kapłanów, która
+                                odbędzie się dnia 14&nbsp;października (sobota) br. Wyjazd sprzed
+                                naszego kościoła o&nbsp;godz.&nbsp;8.00. Koszt 75&nbsp;zł. Zgłoszenia
+                                do&nbsp;7&nbsp;października do&nbsp;Diecezjalnego Duszpasterza
+                                Margaretek - ks.&nbsp;Krystiana Kałuży.</p>
+                                <p>9. Wszystkim życzymy błogosławionej Niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 17.&nbsp;września 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">

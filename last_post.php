@@ -1,58 +1,50 @@
 <div class="card">
     <div class="card-header">
-        <h3>17.&nbsp;września 2023&nbsp;r.</h3>
-        <h3>XXIV&nbsp;Niedziela Zwykła, Rok&nbsp;A</h3>
+        <h3>24.&nbsp;września 2023&nbsp;r.</h3>
+        <h3>XXV&nbsp;Niedziela Zwykła, Rok&nbsp;A</h3>
     </div>
     <div class="col">
-        <p>1. Diecezjalne Studium Organistowskie w&nbsp;Sandomierzu ogłasza
-        nabór na&nbsp;rok akademicki 2023/24.
-            <ul>
-                <li>Zapraszamy wszystkich chętnych, którzy pragną nabyć lub
-                pogłębić swoje umiejętności oraz wiedzę muzyczno-liturgiczną,
-                by&nbsp;pełnić posługę organisty.</li>
-                <li>Studium daje możliwość uzupełnienia kwalifikacji organistom.</li>
-                <li>Zajęcia odbywają się w&nbsp;soboty od&nbsp;października
-                do&nbsp;czerwca.</li>
-                <li>Nauka trwa 5&nbsp;lat.</li>
-                <li>Przyjmujemy młodzież począwszy od&nbsp;VII klasy szkoły
-                podstawowej oraz dorosłych.</li>
-            </ul>
-        </p>
-        <p>2. Po&nbsp;wakacyjnej przerwie wznawia swą działalność ABS czyli
-        Akademia Biblijna w&nbsp;Sandomierzu. Są&nbsp;to&nbsp;spotkania dla
-        wszystkich chcących poznać Pismo święte lub poszerzyć swoją wiedzę
-        o&nbsp;nim; spotkania, gdzie będzie można porozmawiać o&nbsp;księdze
-        Pisma świętego i&nbsp;gdzie będzie można zadać jakiekolwiek pytanie,
-        związane z&nbsp;Biblią, ale nie tylko. Zapraszamy wszystkich, którzy
-        chcą poznać Biblię, dowiedzieć się o&nbsp;niej więcej lub mają jakieś
-        wątpliwości związane z&nbsp;treścią Pisma świętego. Spotkania będą
-        odbywały się w&nbsp;Wyższym Seminarium Duchownym, w&nbsp;auli
-        numer&nbsp;3, w&nbsp;każdy trzeci wtorek miesiąca,
-        o&nbsp;godz.&nbsp;18.45; pierwsze spotkanie będzie w&nbsp;najbliższy
-        wtorek czyli 19&nbsp;września. Temat tego pierwszego spotkania
-        to:&nbsp;Wędrówka Izraela z&nbsp;Egiptu do&nbsp;Ziemi Obiecanej.
-        Serdecznie zapraszamy!</p>
-        <p>3. Dnia 8&nbsp;października br.&nbsp;w&nbsp;Sandomierzu odbędzie się
+        <p>1. Dnia 8&nbsp;października br. w&nbsp;Sandomierzu odbędzie się
         zakończenie Roku Jubileuszowego bł.&nbsp;Wincentego Kadłubka.</p>
-        <p>4. Pielgrzymka Kół Żywego Różańca do&nbsp;Włostowa, odbędzie się
+        <p>2. Pielgrzymka Kół Żywego Różańca do&nbsp;Włostowa, odbędzie się
         7&nbsp;października br. Bliższe informacje na&nbsp;plakacie.</p>
-        <p>5. Jutro święto św.&nbsp;Stanisława Kostki, patrona dzieci
-        i&nbsp;młodzieży, w&nbsp;środę Wspomnienie św.&nbsp;Męczenników
-        koreańskich: kapłana Andrzeja Kim Tegona i&nbsp;Towarzyszy,
-        w&nbsp;czwartek Święto św.&nbsp;Mateusza Apostoła, w&nbsp;sobotę
-        Wspomnienie św.&nbsp;Ojca Pio z&nbsp;Pietrelciny.</p>
-        <p>6. W&nbsp;najbliższą niedzielę taca na&nbsp;remont katedry
-        w&nbsp;Sandomierzu.</p>
-        <p>7. Zachęcamy do&nbsp;nabywania i&nbsp;czytania prasy katolickiej.</p>
-        <p>8. Apostolat Margaretka Diecezji Sandomierskiej organizuje
-        Pielgrzymkę na&nbsp;Jasną Górę w&nbsp;intencji kapłanów, która
-        odbędzie się dnia 14&nbsp;października (sobota) br. Wyjazd sprzed
-        naszego kościoła o&nbsp;godz.&nbsp;8.00. Koszt 75&nbsp;zł. Zgłoszenia
-        do&nbsp;7&nbsp;października do&nbsp;Diecezjalnego Duszpasterza
-        Margaretek - ks.&nbsp;Krystiana Kałuży.</p>
-        <p>9. Wszystkim życzymy błogosławionej Niedzieli.</p>
+        <p>3. <strong>W&nbsp;środę</strong> wspomnienie - św.&nbsp;Wincentego
+        a&nbsp;Paulo, <strong>w czwartek</strong> -  św.&nbsp;Wacława,
+        <strong>w&nbsp;piątek</strong> - Święto św.&nbsp;Archaniołów Michała,
+        Gabriela i&nbsp;Rafała, <strong>w&nbsp;sobotę</strong> – wspomnienie
+        św.&nbsp;Hieronima.</p>
+        <p>4. W&nbsp;najbliższy wtorek po&nbsp;Mszy Świętej wieczorowej
+        w&nbsp;kościele spotkanie dla kandydatów do&nbsp;bierzmowania
+        z&nbsp;klas VI i&nbsp;VII. Prosimy, aby na&nbsp;to&nbsp;spotkanie
+        młodzież przybyła z&nbsp;rodzicami.</p>
+        <p>5. W&nbsp;najbliższą sobotę w&nbsp;naszym kościele odbędzie się
+        pierwszy po&nbsp;przerwie wakacyjnej Wieczór Uwielbienia. Rozpoczęcie
+        Mszą Świętą o&nbsp;godz.&nbsp;18.00, a&nbsp;po&nbsp;niej Adoracja
+        Jezusa w&nbsp;Najświętszym Sakramencie. Wszystkich, którzy chcieliby
+        się zaangażować pod względem muzycznym w&nbsp;to&nbsp;dzieło
+        zapraszamy na&nbsp;próbę jutro o&nbsp;godz.&nbsp;18.30
+        do&nbsp;naszego kościoła.</p>
+        <p>6. W&nbsp;najbliższą niedzielę o&nbsp;17.30 nabożeństwo różańcowe
+        i&nbsp;tak przez cały miesiąc październik. Każdego dnia dzieci będą
+        otrzymywały obrazek. Na&nbsp;zakończenie nabożeństwo październikowych
+        prosimy, aby dzieci przyniosły plansze z&nbsp;obrazkami
+        do&nbsp;zakrystii.</p>
+        <p>7. Wszystkie dzieci zachęcamy do&nbsp;uczestnictwa
+        w&nbsp;parafialnym konkursie plastycznym pt.&nbsp;„Różaniec widziany
+        oczyma dziecka”. Prace namalowane techniką dowolną należy dostarczyć
+        do&nbsp;Księży Wikariuszy do&nbsp;22&nbsp;października.
+        Rozstrzygnięcie konkursu w&nbsp;niedzielę 29&nbsp;października
+        na&nbsp;Mszy o&nbsp;godz.&nbsp;12.30.</p>
+        <p>8. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+        Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
+        adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
+        poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
+        tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
+        <p>9. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+        ofiary na&nbsp;potrzeby parafii. Wszystkim życzymy błogosławionej
+        Niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 17.&nbsp;września 2023&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 24.&nbsp;września 2023&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
