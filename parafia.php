@@ -5,9 +5,13 @@
         Księża
     </div>
     <ol class="list-group">
-        <li class="list-group-item">Ks.&nbsp;proboszcz kanonik mgr Stanisław Chmielewski (od&nbsp;2020 roku)</li>
-        <li class="list-group-item">Ks.&nbsp;mgr Krzysztof Rębisz (od&nbsp;2019&nbsp;roku)</li>
+        <li class="list-group-item"><strong>Proboszcz:</strong></li>
+        <li class="list-group-item">Ks.&nbsp;kanonik Stanisław Chmielewski (ok&nbsp;2020 roku)</li>
+    </ol>
+    <ol class="list-group">
+        <li class="list-group-item"><strong>Wikariusze:</strong></li>
         <li class="list-group-item">Ks.&nbsp;Krystian Kałuża (od&nbsp;2022&nbsp;roku)</li>
+        <li class="list-group-item">Ks.&nbsp;Krystian Musiał (od&nbsp;2023&nbsp;roku)</li>
     </ol>
 </div>
 <hr/>
