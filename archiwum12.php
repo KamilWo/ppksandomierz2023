@@ -19,7 +19,193 @@ include 'head.php';
                     <!-- treść główna -->
                     <div class="col">
                         <h2 class="first-content-header">Archiwum wiadomości 2023 rok</h2>
-                        <h2>Okres 1.&nbsp;stycznia - 24.&nbsp;września 2023&nbsp;r.</h2>
+                        <h2>Okres 1.&nbsp;stycznia - 1.&nbsp;października 2023&nbsp;r.</h2>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>INTENCJE MSZY ŚWIĘTYCH<br>
+                                    25.09. – 1.10.2023&nbsp;r.
+                                </h3>
+                            </div>
+                            <div class="col">
+                        <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
+                            <tbody>
+                                <tr class="actualnosci_day">
+                                    <td><b>PONIEDZIAŁEK, 25&nbsp;września</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center" >6.30</td>
+                                    <td>+ Wojciecha Granata</td>
+                                </tr>
+                                <tr>
+                                    <td class="center" rowspan="2">18.00</td>
+                                    <td>+ Dariusza Jastrzębia – greg.&nbsp;25</td>
+                                </tr><tr style="border-bottom: 2px solid black;">
+                                    <td>+ Marię, Mieczysława, Danutę Śliwińskich,
+                                    zm.&nbsp;z&nbsp;rodz. Kiliańczyków i&nbsp;Śliwińskich</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>WTOREK, 26&nbsp;września</b></td>
+                                    <td><b>Wspomnienie Św.&nbsp;Kosmy i&nbsp;Damiana,
+                                    męczenników</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Dariusza Jastrzębia – greg.&nbsp;26</td>
+                                </tr>
+                                <tr>
+                                    <td class="center" rowspan="2">18.00</td>
+                                    <td>+ Barbarę Byra</td></tr><tr style="border-bottom: 2px solid black;">
+                                    <td>+ Zofię, Janusza, Jerzego i&nbsp;Wiesława
+                                    Potrzebowskich, Andrzeja Popka</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>ŚRODA, 27&nbsp;września</b></td>
+                                    <td><b>Wspomnienie Św.&nbsp;Wincentego a&nbsp;Paulo,
+                                    prezbitera</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Dariusza Jastrzębia – greg.&nbsp;27</td>
+                                </tr>
+                                <tr>
+                                    <td class="center" rowspan="2">18.00</td>
+                                    <td>+ Krystynę Dyl</td>
+                                </tr><tr style="border-bottom: 2px solid black;">
+                                    <td>+ Annę i&nbsp;Michała Sajurów, Annę i&nbsp;Ryszarda
+                                    Krzemińskich, Wiesławę Mędrek</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>CZWARTEK, 28&nbsp;września</b></td>
+                                    <td><b>Wspomnienie Św.&nbsp;Wacława, męczennika</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Bogusława Tetera</td>
+                                </tr>
+                                <tr>
+                                    <td class="center" rowspan="2">18.00</td>
+                                    <td>+ Dariusza Jastrzębia – greg.&nbsp;28</td>
+                                </tr><tr style="border-bottom: 2px solid black;">
+                                    <td>+ Andrzeja Popka</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>PIĄTEK, 29&nbsp;września</b></td>
+                                    <td><b></b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Dariusza Jastrzębia – greg.&nbsp;29</td>
+                                </tr>
+                                <tr>
+                                    <td class="center" rowspan="2">18.00</td>
+                                    <td>+ Andrzeja Popka</td>
+                                </tr><tr style="border-bottom: 2px solid black;">
+                                    <td>+ zm.&nbsp;z&nbsp;rodz. Kicińskich i&nbsp;Kubków</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>SOBOTA, 30&nbsp;września</b></td>
+                                    <td><b>Wspomnienie Św.&nbsp;Hieronima, prezbitera
+                                    i&nbsp;doktora Kościoła</b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">6.30</td>
+                                    <td>+ Dariusza Jastrzębia – greg.&nbsp;30</td>
+                                </tr>
+                                <tr>
+                                    <td class="center" rowspan="2">18.00</td>
+                                    <td>+ Helenę i Mariana Wolaków</td>
+                                </tr><tr style="border-bottom: 2px solid black;">
+                                    <td>+ Izabelę Socha</td>
+                                </tr>
+                                <tr class="actualnosci_day">
+                                    <td><b>NIEDZIELA, 1&nbsp;października</b></td>
+                                    <td><b>
+                                        <span style="color: red">XXVI Niedziela Zwykła</span>
+                                    </b></td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">7.30</td>
+                                    <td>+ Wiesława Sośniaka</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">9.30</td>
+                                    <td>Dziękczynna z&nbsp;racji 50&nbsp;rocz. ślubu Janiny
+                                    i&nbsp;Jana Prychocenów</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">11.15</td>
+                                    <td>KŻR – Jadwiga Mojduszko</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">12.30</td>
+                                    <td>+ Stanisławę, Jana, Stanisława, Witolda, Mariana,
+                                    Krystynę i&nbsp;Mariana</td>
+                                </tr>
+                                <tr style="border-bottom: 2px solid black;">
+                                    <td class="center">18.00</td>
+                                    <td>+ Cezarego, Julię, Wacława, Stefanię, Stefana,
+                                    Mieczysława Paciochów</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                            </div>
+                        </div>
+                        <br>
+
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>24.&nbsp;września 2023&nbsp;r.</h3>
+                                <h3>XXV&nbsp;Niedziela Zwykła, Rok&nbsp;A</h3>
+                            </div>
+                            <div class="col">
+                                <p>1. Dnia 8&nbsp;października br. w&nbsp;Sandomierzu odbędzie się
+                                zakończenie Roku Jubileuszowego bł.&nbsp;Wincentego Kadłubka.</p>
+                                <p>2. Pielgrzymka Kół Żywego Różańca do&nbsp;Włostowa, odbędzie się
+                                7&nbsp;października br. Bliższe informacje na&nbsp;plakacie.</p>
+                                <p>3. <strong>W&nbsp;środę</strong> wspomnienie - św.&nbsp;Wincentego
+                                a&nbsp;Paulo, <strong>w czwartek</strong> -  św.&nbsp;Wacława,
+                                <strong>w&nbsp;piątek</strong> - Święto św.&nbsp;Archaniołów Michała,
+                                Gabriela i&nbsp;Rafała, <strong>w&nbsp;sobotę</strong> – wspomnienie
+                                św.&nbsp;Hieronima.</p>
+                                <p>4. W&nbsp;najbliższy wtorek po&nbsp;Mszy Świętej wieczorowej
+                                w&nbsp;kościele spotkanie dla kandydatów do&nbsp;bierzmowania
+                                z&nbsp;klas VI i&nbsp;VII. Prosimy, aby na&nbsp;to&nbsp;spotkanie
+                                młodzież przybyła z&nbsp;rodzicami.</p>
+                                <p>5. W&nbsp;najbliższą sobotę w&nbsp;naszym kościele odbędzie się
+                                pierwszy po&nbsp;przerwie wakacyjnej Wieczór Uwielbienia. Rozpoczęcie
+                                Mszą Świętą o&nbsp;godz.&nbsp;18.00, a&nbsp;po&nbsp;niej Adoracja
+                                Jezusa w&nbsp;Najświętszym Sakramencie. Wszystkich, którzy chcieliby
+                                się zaangażować pod względem muzycznym w&nbsp;to&nbsp;dzieło
+                                zapraszamy na&nbsp;próbę jutro o&nbsp;godz.&nbsp;18.30
+                                do&nbsp;naszego kościoła.</p>
+                                <p>6. W&nbsp;najbliższą niedzielę o&nbsp;17.30 nabożeństwo różańcowe
+                                i&nbsp;tak przez cały miesiąc październik. Każdego dnia dzieci będą
+                                otrzymywały obrazek. Na&nbsp;zakończenie nabożeństwo październikowych
+                                prosimy, aby dzieci przyniosły plansze z&nbsp;obrazkami
+                                do&nbsp;zakrystii.</p>
+                                <p>7. Wszystkie dzieci zachęcamy do&nbsp;uczestnictwa
+                                w&nbsp;parafialnym konkursie plastycznym pt.&nbsp;„Różaniec widziany
+                                oczyma dziecka”. Prace namalowane techniką dowolną należy dostarczyć
+                                do&nbsp;Księży Wikariuszy do&nbsp;22&nbsp;października.
+                                Rozstrzygnięcie konkursu w&nbsp;niedzielę 29&nbsp;października
+                                na&nbsp;Mszy o&nbsp;godz.&nbsp;12.30.</p>
+                                <p>8. W&nbsp;przyszłą niedzielę w&nbsp;kościele, pół godziny przed
+                                Mszą&nbsp;św., która sprawowana jest o&nbsp;godz.&nbsp;11.15 –
+                                adoracja Najśw. Sakramentu połączona z&nbsp;modlitwą różańcową, którą
+                                poprowadzi Koło Żywego Różańca z&nbsp;naszej parafii i&nbsp;zmiana
+                                tajemnic różańcowych. Zapraszamy do&nbsp;wspólnotowej modlitwy.</p>
+                                <p>9. Dziękujemy parafianom za&nbsp;modlitwę, wszelką pomoc, składane
+                                ofiary na&nbsp;potrzeby parafii. Wszystkim życzymy błogosławionej
+                                Niedzieli.</p>
+                                <p>
+                                    <span style="float: left;">Sandomierz, 24.&nbsp;września 2023&nbsp;r.</span>
+                                    <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="card">
                             <div class="card-header">
