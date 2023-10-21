@@ -132,7 +132,7 @@ include 'head.php';
                                 </tr>
                                 <tr style="border-bottom: 2px solid black;">
                                     <td class="center">6.30</td>
-                                    <td>Bogusława Tetera</td>
+                                    <td>+ Bogusława Tetera</td>
                                 </tr>
                                 <tr style="border-bottom: 2px solid black;">
                                     <td class="center">13.00</td>
@@ -148,7 +148,7 @@ include 'head.php';
                                     Katarzynę, Stanisława Pęk, Antoniego i&nbsp;Stefanię
                                     Dobek</td>
                                 </tr><tr style="border-bottom: 2px solid black;">
-                                    <td>+ Jerzego Surgała 6&nbsp;rocz.&nbsp;śm. </td>
+                                    <td>+ Jerzego Surgała 6&nbsp;rocz.&nbsp;śm.</td>
                                 </tr>
                                 <tr class="actualnosci_day">
                                     <td><b>NIEDZIELA, 22&nbsp;października</b></td>
