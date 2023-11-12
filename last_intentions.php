@@ -1,128 +1,134 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            6.11. – 12.11.2023&nbsp;r.
+            13.11. – 19.11.2023&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td><b>PONIEDZIAŁEK, 6&nbsp;listopada</b></td>
-            <td><b></b></td>
+            <td><b>PONIEDZIAŁEK, 13&nbsp;listopada</b></td>
+            <td><b>Wspomnienie Świętych Benedykta, Jana, Mateusza,
+            Izaaka i&nbsp;Krystyna, pierwszych męczenników
+            Polski</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ zm.&nbsp;z&nbsp;rodz. Buczków i&nbsp;Panków</td>
+            <td>+ Salomeę, Weronikę i&nbsp;Rafała Pawelec</td>
         </tr>
         <tr>
             <td class="center" rowspan="2">18.00</td>
-            <td>+ Pawła Guza</td>
+            <td>+ Marię, Władysława, Czesława Barańskich, Andrzeja
+            Krawczyka</td>
         </tr><tr style="border-bottom: 2px solid black;">
-            <td>+ Bogusława Tetera</td>
+            <td>+ Antoniego i&nbsp;Julię Serafin</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>WTOREK, 7&nbsp;listopada</b></td>
+            <td><b>WTOREK, 14&nbsp;listopada</b></td>
             <td><b></b></td>
         </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>+ Pawła Guza</td>
-        </tr>
-        <tr>
-            <td class="center" rowspan="2">18.00</td>
-            <td>+ Mariannę i&nbsp;Eugeniusza Jedlińskich</td></tr>
+        <tr style="border-bottom: 2px solid black;" >
+            <td class="center" rowspan="2">6.30</td>
+            <td>+ Kazimierza Włocha</td></tr>
             <tr style="border-bottom: 2px solid black;">
-            <td>+ Dariusza Jastrzębia w&nbsp;rocz.&nbsp;śm.</td>
+            <td>+ Aleksandrę w&nbsp;rocz.&nbsp;śm., Franciszka,
+            Kazimierza i&nbsp;Barbarę Burek</td>
+        </tr>
+        <tr>
+            <td class="center" rowspan="2">18.00</td>
+            <td>W&nbsp;int. osób uzależnionych i&nbsp;ich rodzin
+            o&nbsp;łaskę uzdrowienia, i&nbsp;wyzwolenia – KWC</td></tr>
+            <tr style="border-bottom: 2px solid black;">
+            <td>+ Albinę Borkowską 20&nbsp;rocz.&nbsp;śm., Feliska
+            Borkowskiego, Kazimierę Jaglewicz, Bronisławę Borkowską</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>ŚRODA, 8&nbsp;listopada</b></td>
+            <td><b>ŚRODA, 15&nbsp;listopada</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ Pawła Guza</td>
+            <td>+ Annę Chwiałkowską</td>
         </tr>
         <tr>
             <td class="center" rowspan="2">18.00</td>
-            <td>+ Mieczysława Kozieła w&nbsp;4&nbsp;rocz.&nbsp;śm.,
-            Annę Janiec w&nbsp;5&nbsp;rocz.&nbsp;śm.</td>
+            <td>+ Stanisława Kondrata 13&nbsp;rocz.&nbsp;śm., Zofię
+            Mendala, Zbigniewa Patynę</td>
         </tr><tr style="border-bottom: 2px solid black;">
-            <td>+ Barbarę i&nbsp;Eugeniusza Byra,
-            i&nbsp;zm.&nbsp;z&nbsp;rodz. Byrów i&nbsp;Fortunów</td>
+            <td>+ Mariannę i&nbsp;Jana Piorunów</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>CZWARTEK, 9&nbsp;listopada</b></td>
-            <td><b>Święto: Rocznica Poświęcenia Bazyliki Laterańskiej</b></td>
+            <td><b>CZWARTEK, 16&nbsp;listopada</b></td>
+            <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ przyjaciół Mieczysławę i&nbsp;Mirosława</td>
+            <td>+ Mariannę Chorąży</td>
         </tr>
         <tr>
             <td class="center" rowspan="2">18.00</td>
+            <td>+ Barbarę Wasińską 11 rocz. śm.</td>
+        </tr><tr style="border-bottom: 2px solid black;">
+            <td>+ Ryszarda Chrząstkowskiego 2&nbsp;rocz.&nbsp;śm.</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>PIĄTEK, 17&nbsp;listopada</b></td>
+            <td><b>Wspomnienie Św.&nbsp;Elżbiety Węgierskiej</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>+ Krystynę Mikula</td>
+        </tr>
+        <tr>
+            <td class="center" rowspan="2">18.00</td>
+            <td>+ Pawła Guza</td>
+        </tr><tr style="border-bottom: 2px solid black;">
             <td>+ Bogusława Tetera</td>
-        </tr><tr style="border-bottom: 2px solid black;">
-            <td>+ Pawła Guza</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>PIĄTEK, 10&nbsp;listopada</b></td>
-            <td><b>Wspomnienie Św.&nbsp;Leona Wielkiego, papieża
-            i&nbsp;Doktora Kościoła</b></td>
+            <td><b>SOBOTA, 18&nbsp;listopada</b></td>
+            <td><b>Wspomnienie bł.&nbsp;Karoliny Kóżkówny, dziewicy
+            i&nbsp;męczennicy</b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ Stanisława i&nbsp;Annę Panków</td>
+            <td>+ Annę Chwiałkowską</td>
         </tr>
         <tr>
             <td class="center" rowspan="2">18.00</td>
-            <td>O&nbsp;nawrócenie męża Piotra i&nbsp;ojca Tadeusza</td>
+            <td>W&nbsp;int. wynagradzającej Panu Bogu za&nbsp;grzechy
+            aborcji i&nbsp;eutanazji</td>
         </tr><tr style="border-bottom: 2px solid black;">
-            <td>+ Katarzynę i&nbsp;Józefa Mączka</td>
+            <td>+ Alicję Machulę</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>SOBOTA, 11&nbsp;listopada</b></td>
-            <td><b>Wspomnienie Św.&nbsp;Marcina z&nbsp;Tours, biskupa<br>
-            Narodowe Święto Niepodległości</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>+ Krystynę i&nbsp;Józefa Mikulów</td>
-        </tr>
-        <tr>
-            <td class="center" rowspan="2">18.00</td>
-            <td>+ Kazimierza Włocha w&nbsp;1&nbsp;rocz.&nbsp;śm.</td>
-        </tr><tr style="border-bottom: 2px solid black;">
-            <td>ZA&nbsp;OJCZYZNĘ</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>NIEDZIELA, 12&nbsp;listopada</b></td>
+            <td><b>NIEDZIELA, 19&nbsp;listopada</b></td>
             <td><b>
-                <span style="color: red">XXXII Niedziela Zwykła</span>
+                <span style="color: red">XXXIII Niedziela Zwykła</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
-            <td>+ Mariannę, Tadeusza Łukawskich
-            i&nbsp;zm.&nbsp;z&nbsp;rodz. Łukawskich</td>
+            <td>+ Alicję Gilewską, Józefa, Stefanię Janus, Teresę
+            Nowakowską</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>Za&nbsp;parafian</td>
+            <td>+ Zofię, Bolesława, Lucjana Gajewskich, Teresę
+            i&nbsp;Jana Szczepaniaków</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>+ Klarę, Jana, Ryszarda Chrząstkowskich, Jana
-            Makowskiego</td>
+            <td>Za&nbsp;parafian</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>+ Mirosławę Małkiewicz w&nbsp;5&nbsp;rocz.&nbsp;śm.</td>
+            <td>DK</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>+ Ludwika, Janinę, Zofię, Ludwika Wilk, Teresę
-            i&nbsp;Jerzego Głowackich</td>
+            <td>+ Jana Chmiela</td>
         </tr>
     </tbody>
 </table>
