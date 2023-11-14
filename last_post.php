@@ -1,38 +1,42 @@
 <div class="card">
     <div class="card-header">
-        <h3>5.&nbsp;listopada 2023&nbsp;r.</h3>
-        <h3>XXXI&nbsp;Niedziela Zwykła, Rok&nbsp;A</h3>
+        <h3>12.&nbsp;listopada 2023&nbsp;r.</h3>
+        <h3>XXXII&nbsp;Niedziela Zwykła, Rok&nbsp;A</h3>
     </div>
     <div class="col">
-        <p>1. W&nbsp;najbliższą sobotę, tj.&nbsp;11&nbsp;listopada - Narodowe
-        Święto Niepodległości. W&nbsp;tym dniu, Msza&nbsp;św. w&nbsp;intencji
-        Ojczyzny o&nbsp;godz.&nbsp;18.00.</p>
-        <p>2. W&nbsp;przyszłą niedzielę będziemy przeżywać „Dzień
-        Solidarności z&nbsp;Kościołem prześladowanym” –
-        po&nbsp;Mszach&nbsp;św. zbiórka do&nbsp;puszek na&nbsp;organizację
-        „Kościół w&nbsp;potrzebie”.</p>
-        <p>3. Nasz kościół parafialny we&nbsp;wszystkie dni tygodnia będzie
-        otwarty od&nbsp;godz.&nbsp;7.00 do&nbsp;godz.&nbsp;18.30. Każdy kto
-        chce przez chwilę pomodlić się w&nbsp;tym czasie, będzie mógł wejść
-        do&nbsp;środka kościoła. Dla bezpieczeństwa zainstalowany został
-        w&nbsp;kościele monitoring.</p>
-        <p>4. Spotkanie dla kandydatów do&nbsp;bierzmowania z&nbsp;klas VI,
-        VII i&nbsp;VIII we&nbsp;wtorek 7&nbsp;listopada po&nbsp;Mszy Świętej
-        wieczorowej w&nbsp;kościele.</p>
-        <p>5. W&nbsp;najbliższą środę o&nbsp;godz.&nbsp;18.00 spotkanie dla
-        rodziców z&nbsp;dziećmi przygotowującymi się do&nbsp;przyjęcia
-        I&nbsp;Komunii Świętej.</p>
-        <p>6. Zachęcamy do&nbsp;czytania prasy katolickiej: „Gość Niedzielny”,
-        „Niedziela”. Prasa na&nbsp;stoliku pod chórem.</p>
-        <p>7. Wszystkie dzieci, które brały udział w&nbsp;Nabożeństwach
-        różańcowych prosimy, aby plansze podpisane przynieśli
-        do&nbsp;zakrystii.</p>
+        <p>1. Dziś w&nbsp;kościele Powszechnym przeżywamy „Dzień Solidarności
+        z&nbsp;Kościołem prześladowanym” – po&nbsp;Mszach św. zbiórka
+        do&nbsp;puszek na&nbsp;organizację „Kościół w&nbsp;potrzebie”.
+        <em>Bóg zapłać</em> ofiarodawcom.</p>
+        <p>2. W&nbsp;sobotę 18&nbsp;listopada, o&nbsp;godz.&nbsp;9.00
+        w&nbsp;budynku Kurii Diecezjalnej w&nbsp;Sandomierzu
+        (ul.&nbsp;Mariacka&nbsp;9) odbędzie się kurs dla fotografów
+        przygotowujący do&nbsp;posługi w&nbsp;czasie liturgii. Zapisy pod
+        numerem telefonu 607&nbsp;901&nbsp;064.</p>
+        <p>3. Serdecznie zapraszamy na&nbsp;kolejny wykład otwarty
+        z&nbsp;filozofii pt.&nbsp;”Powstanie świata czy stworzenie świata?”.
+        Wykład odbędzie się w&nbsp;sobotę 18&nbsp;listopada
+        o&nbsp;godz.&nbsp;16.00 w&nbsp;domu bł.&nbsp;Antoniego Rewery przy
+        kościele św.&nbsp;Józefa.</p>
+        <p>4. Katolicka prasa na&nbsp;stoliku pod chórem.</p>
+        <p>5. W&nbsp;przyszłą niedzielę 19&nbsp;listopada obchodzić będziemy
+        VII Światowy Dzień Ubogich. Główne uroczystości diecezjalne odbędą się
+        w&nbsp;kościele pw.&nbsp;Świętego Ducha w&nbsp;Sandomierzu
+        z&nbsp;udziałem Biskupa Krzysztofa Nitkiewicza.</p>
+        <p>6. W&nbsp;naszej diecezji zostało reaktywowane Duszpasterstwo
+        Akademickie. Takie duszpasterstwo będzie działać w&nbsp;Sandomierzu
+        przy kościele seminaryjnym pw.&nbsp;św.&nbsp;Michała.</p>
+        <p>7. We&nbsp;wtorek 14&nbsp;listopada br. w&nbsp;kościele
+        św.&nbsp;Józefa o&nbsp;godz.&nbsp;19.00 Msza&nbsp;św. w&nbsp;intencji
+        kobiet, a&nbsp;po&nbsp;niej w&nbsp;salce parafialnej konferencja
+        pt.&nbsp;„Kobiecość i&nbsp;macierzyństwo”. Wygłosi doktor Sylwia Dudek
+        specjalista ginekolog-położnik. Zapraszamy.</p>
         <p>8. Dziękujemy za&nbsp;modlitwę w&nbsp;intencji kapłanów,
-        za&nbsp;wszelką pomoc, złożone ofiary na&nbsp;rzecz parafii.
-        Wszystkim uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
+        za&nbsp;wszelką pomoc, złożone ofiary na&nbsp;rzecz parafii. Wszystkim
+        uczestniczącym we&nbsp;Mszy&nbsp;św. życzymy błogosławionej
         niedzieli.</p>
         <p>
-            <span style="float: left;">Sandomierz, 5.&nbsp;listopada 2023&nbsp;r.</span>
+            <span style="float: left;">Sandomierz, 12.&nbsp;listopada 2023&nbsp;r.</span>
             <span style="float: right; text-align: right;">ks.&nbsp;proboszcz Stanisław Chmielewski</span>
         </p>
     </div>
