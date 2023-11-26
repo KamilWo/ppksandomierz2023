@@ -1,138 +1,128 @@
 <div class="card">
     <div class="card-header">
         <h3>INTENCJE MSZY ŚWIĘTYCH<br>
-            20.11. – 26.11.2023&nbsp;r.
+            27.11. – 3.12.2023&nbsp;r.
         </h3>
     </div>
     <div class="col">
 <table class="aktualnosci_table" cellpadding="5" cellspacing="0">
     <tbody>
         <tr class="actualnosci_day">
-            <td><b>PONIEDZIAŁEK, 20&nbsp;listopada</b></td>
-            <td><b>Wspomnienie Św.&nbsp;Rafała Kalinowskiego,
-            prezbitera</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>+ Annę Chwiałkowską</td>
-        </tr>
-        <tr>
-            <td class="center" rowspan="2">18.00</td>
-            <td>+ Henryka Semprucha</td>
-        </tr><tr style="border-bottom: 2px solid black;">
-            <td>+ Ryszarda Pietruszkę 29&nbsp;rocz.&nbsp;śm., Józefę
-            i&nbsp;Jana Marców, i&nbsp;zm. z&nbsp;rodz. Pietruszków</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>WTOREK, 21&nbsp;listopada</b></td>
-            <td><b>Wspomnienie Ofiarowania NMP</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>+ Jana Kusala</td>
-        </tr>
-        <tr>
-            <td class="center" rowspan="2">18.00</td>
-            <td>+ Janinę i&nbsp;Bronisława</td></tr>
-            <tr style="border-bottom: 2px solid black;">
-            <td>+ Pawła Guza</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>ŚRODA, 22&nbsp;listopada</b></td>
-            <td><b>Wspomnienie Św.&nbsp;Cecylii, dziewicy
-            i&nbsp;męczennicy</b></td>
-        </tr>
-        <tr style="border-bottom: 2px solid black;">
-            <td class="center">6.30</td>
-            <td>Zofię Opala</td>
-        </tr>
-        <tr>
-            <td class="center" rowspan="2">18.00</td>
-            <td>+ Stanisława, Zofię Kubik</td>
-        </tr><tr style="border-bottom: 2px solid black;">
-            <td>+ Annę Chwiałkowską</td>
-        </tr>
-        <tr class="actualnosci_day">
-            <td><b>CZWARTEK, 23&nbsp;listopada</b></td>
+            <td><b>PONIEDZIAŁEK, 27&nbsp;listopada</b></td>
             <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ Bogusława Terera</td>
+            <td>+ Zofię Opala</td>
         </tr>
         <tr>
             <td class="center" rowspan="2">18.00</td>
-            <td>+ Jana Chmiela</td>
+            <td>+ Annę Chwiałkowską</td>
         </tr><tr style="border-bottom: 2px solid black;">
-            <td>+ Lucjana, Zofię, Bolesława Gajewskich, Katarzynę,
-            Władysława Kusalów, Helenę Resiak</td>
+            <td>O&nbsp;zdrowie dla Celiny</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>PIĄTEK, 24&nbsp;listopada</b></td>
-            <td><b>Wspomnienie Św.&nbsp;męczenników Andrzeja Dung-Lac,
-            prezbitera i&nbsp;Towarzyszy</b></td>
+            <td><b>WTOREK, 28&nbsp;listopada</b></td>
+            <td><b></b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">6.30</td>
-            <td>+ Stanisława Pacholczyka</td>
+            <td>+ Michała Gołuńskiego</td>
         </tr>
         <tr>
             <td class="center" rowspan="2">18.00</td>
-            <td>+ Marię i&nbsp;Kazimierza Socha, Marcelinę Bączkowską</td>
-        </tr><tr style="border-bottom: 2px solid black;">
-            <td>+ Genowefę i&nbsp;Mieczysława Chałupczaków</td>
+            <td>+ Elżbietę Maciejczyk 5&nbsp;rocz.&nbsp;śm.</td></tr>
+            <tr style="border-bottom: 2px solid black;">
+            <td>+ Annę Chwiałkowską</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>SOBOTA, 25&nbsp;listopada</b></td>
+            <td><b>ŚRODA, 29&nbsp;listopada</b></td>
             <td><b></b></td>
         </tr>
-        <tr style="border-bottom: 2px solid black;" >
-            <td class="center" rowspan="2">6.30</td>
-            <td>+ Barbarę Byra</td></tr>
-            <tr style="border-bottom: 2px solid black;">
-            <td>+ Andrzeja Margulę</td>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>+ Zofię Opala</td>
         </tr>
         <tr>
-            <td class="center" rowspan="3">18.00</td>
-            <td>+ Teresę Smardz 20&nbsp;rocz.&nbsp;śm.</td>
-        </tr><tr>
-            <td>+ Sławomira Rykowskiego</td>
+            <td class="center" rowspan="2">18.00</td>
+            <td>+ Irenę, Piotra, Stanisława Studnickich
+            i&nbsp;zm.&nbsp;z&nbsp;rodz.</td>
         </tr><tr style="border-bottom: 2px solid black;">
-            <td>+ Zofię, Piotra, Józefa Mroczkowskich,
-            zm.&nbsp;z&nbsp;rodz. i&nbsp;dusze w&nbsp;czyśćcu
-            cierpiące</td>
+            <td>+ Dorotę Surma 6&nbsp;rocz.&nbsp;śm.</td>
         </tr>
         <tr class="actualnosci_day">
-            <td><b>NIEDZIELA, 26&nbsp;listopada</b></td>
+            <td><b>CZWARTEK, 30&nbsp;listopada</b></td>
+            <td><b>Święto Św.&nbsp;Andrzeja Apostoła</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>+ Michała Gołuńskiego</td>
+        </tr>
+        <tr>
+            <td class="center" rowspan="2">18.00</td>
+            <td>+ Jana rocz. śm.</td>
+        </tr><tr style="border-bottom: 2px solid black;">
+            <td>+ Andrzeja, Bogusława i&nbsp;Anielę Spadło</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>PIĄTEK, 1&nbsp;grudnia</b></td>
+            <td><b>I&nbsp;Piątek miesiąca</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>+ Zofię Opala</td>
+        </tr>
+        <tr>
+            <td class="center" rowspan="2">18.00</td>
+            <td>+ Stanisława w&nbsp;rocz.&nbsp;śm.</td>
+        </tr><tr style="border-bottom: 2px solid black;">
+            <td>+ Bronisławę, Józefa Zbylutów, Matyldę, Jana
+            i&nbsp;Jana Malinowskich</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>SOBOTA, 2&nbsp;grudnia</b></td>
+            <td><b>I&nbsp;Sobota miesiąca</b></td>
+        </tr>
+        <tr style="border-bottom: 2px solid black;">
+            <td class="center">6.30</td>
+            <td>Dziękczynno-błagalna o&nbsp;Boże błog., potrzebne
+            łaski, opiekę Matki Bożej dla Sylwii i&nbsp;Bogusława
+            z&nbsp;racji 34&nbsp;rocz.&nbsp;śm.</td>
+        </tr>
+        <tr>
+            <td class="center" rowspan="2">18.00</td>
+            <td>O&nbsp;Boże błog., potrzebne łaski i&nbsp;opiekę Matki
+            Bożej dla Ireny w&nbsp;dniu urodzin</td>
+        </tr><tr style="border-bottom: 2px solid black;">
+            <td>Wynagradzająca Niepokalanemu Sercu Maryi
+            za&nbsp;grzechy</td>
+        </tr>
+        <tr class="actualnosci_day">
+            <td><b>NIEDZIELA, 3&nbsp;grudnia</b></td>
             <td><b>
-                <span style="color: red">XXXIV Niedziela Zwykła<br>
-                Uroczystość Jezusa Chrystusa, Króla Wszechświata</span>
+                <span style="color: red">I&nbsp;Niedziela Adwentu</span>
             </b></td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">7.30</td>
-            <td>+ Janinę, Stanisława Kula, zm.&nbsp;z&nbsp;rodz.
-            Czajów i&nbsp;Kulów</td>
+            <td>+ Mariannę Pliżga</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">9.30</td>
-            <td>+ Stanisława, Mariannę, Franciszka Piątków, Antoninę,
-            Juliana Lalewiczów i&nbsp;zm.&nbsp;z&nbsp;rodz. Piątków,
-            Lalewiczów i&nbsp;Głowackich</td>
+            <td>+ Mirosławę, Wilhelma, Hopek, Genowefę i&nbsp;Stefana
+            Maszczyk</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">11.15</td>
-            <td>+ Czesława rocz.&nbsp;śm., Otolię Ciach</td>
+            <td>KŻR – Barbara Juda</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
-            <td>Za&nbsp;parafian</td>
+            <td>+ Adama Wawrzkiewicza, Jana Olesia</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">18.00</td>
-            <td>Dzięk.-błag. o&nbsp;Miłosierdzie Boże, wiarę, nadzieję
-            i&nbsp;miłość, łaskę pokory, nawrócenie
-            i&nbsp;uzdrowienienie w&nbsp;rodzinie</td>
+            <td>Za&nbsp;parafian</td>
         </tr>
     </tbody>
 </table>
