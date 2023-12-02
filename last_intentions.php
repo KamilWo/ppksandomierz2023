@@ -87,7 +87,7 @@
             <td class="center">6.30</td>
             <td>Dziękczynno-błagalna o&nbsp;Boże błog., potrzebne
             łaski, opiekę Matki Bożej dla Sylwii i&nbsp;Bogusława
-            z&nbsp;racji 34&nbsp;rocz.&nbsp;śm.</td>
+            z&nbsp;racji 34&nbsp;rocz.&nbsp;ślubu</td>
         </tr>
         <tr>
             <td class="center" rowspan="2">18.00</td>
