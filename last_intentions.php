@@ -162,7 +162,7 @@
             <td class="center">11.15</td>
             <td>+ Mirosława, Mariannę, Błażeja Łukasiewiczów,
             Stanisławę i&nbsp;Jana Gwizdowskich, Ignacego
-            Michowany</td>
+            Mianowany</td>
         </tr>
         <tr style="border-bottom: 2px solid black;">
             <td class="center">12.30</td>
