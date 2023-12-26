@@ -2,24 +2,23 @@
 
 <div class="card">
     <div class="card-header">
-        <h3>Prządek Wizyty Duszpasterskiej</h3>
+        <h3>Prządek Wizyty Duszpasterskiej 2023/2024</h3>
     </div>
     <div class="col">
-        <p style="font-weight: bold; text-decoration: underline;">9&nbsp;STYCZNIA (PONIEDZIAŁEK) od&nbsp;godz.&nbsp;15.30</p>
-        <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego 4, 5</p>
-        <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego 6, 7</p>
-        <p><strong>III&nbsp;KSIĄDZ</strong>: ul.&nbsp;Orzeszkowej</p><br>
+        <p style="font-weight: bold; text-decoration: underline;">28&nbsp;GRUDNIA (CZWARTEK) – Chwałki od&nbsp;godz.&nbsp;9.00</p>
+        <p><strong>I&nbsp;KSIĄDZ</strong>: od&nbsp;drogi na&nbsp;Sucharzów</p>
+        <p><strong>II&nbsp;KSIĄDZ</strong>: od&nbsp;początku od&nbsp;ul.&nbsp;Lipowej</p>
+        <p><strong>III&nbsp;KSIĄDZ</strong>: od&nbsp;marketu Kaufland</p><br>
 
-        <p style="font-weight: bold; text-decoration: underline;">10&nbsp;STYCZNIA (WTOREK) od&nbsp;godz.&nbsp;15.30</p>
-        <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego 8, 9, 10</p>
-        <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego 11, 13, 15</p>
-        <p><strong>III&nbsp;KSIĄDZ</strong>: <strong>domy wolnostojące</strong>: ul.&nbsp;Czachowskiego,
-        Maciejowskiego, Zielna, Mickiewicza</p><br>
+        <p style="font-weight: bold; text-decoration: underline;">29&nbsp;GRUDNIA (PIĄTEK) – Milczany od&nbsp;godz.&nbsp;9.00</p>
+        <p><strong>I&nbsp;KSIĄDZ</strong>: Milczany po&nbsp;szosie</p>
+        <p><strong>II&nbsp;KSIĄDZ</strong>: Milczany od&nbsp;końca</p>
+        <p><strong>III&nbsp;KSIĄDZ</strong>: Milczany Wieś</p><br>
 
-        <p style="font-weight: bold; text-decoration: underline;">11&nbsp;STYCZNIA (ŚRODA) od&nbsp;godz.&nbsp;15.30</p>
-        <p><strong>I&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego 32, 36, 38, 40, 47</p>
-        <p><strong>II&nbsp;KSIĄDZ</strong>: ul.&nbsp;Maciejowskiego 34, Cieśli 1, 9</p>
-        <p><strong>III&nbsp;KSIĄDZ</strong>: ul.&nbsp;Cieśli 3, 7</p><br>
+        <p style="font-weight: bold; text-decoration: underline;">30&nbsp;GRUDNIA (SOBOTA) – Kobierniki od&nbsp;godz.&nbsp;9.00</p>
+        <p><strong>I&nbsp;KSIĄDZ</strong>: Kobierniki Górne od&nbsp;ul.&nbsp;Mickiewicza</p>
+        <p><strong>II&nbsp;KSIĄDZ</strong>: Kobierniki Górne od&nbsp;ul.&nbsp;Polnej</p>
+        <p><strong>III&nbsp;KSIĄDZ</strong>: Kobierniki po&nbsp;szosie i&nbsp;Wieś</p><br>
 
     </div>
 </div>
